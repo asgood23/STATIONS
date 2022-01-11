@@ -7,14 +7,6 @@ nav_order: 1
 ---
 ```
 
-
-
-
-
-------
-
-
-
 *This will be a constantly growing collection of Troika Backgrounds created using the Earth 2020X process and playlists*
 
 [TOC]

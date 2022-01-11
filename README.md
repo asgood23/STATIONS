@@ -1,3 +1,3 @@
-# stations h1 and title innv?
-Stations website and other content
-ok, this is a thing now
+# Stations: Making the Mystery Greater
+Work-in-progress repository for Stations content
+

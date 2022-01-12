@@ -25,7 +25,7 @@ How can we hear those future genres in the music of today?
 
 ## Future Plans ##
 
-* Nicer generator
+* Nicer generator with ability to save entries and provide annotations, such as songs or artists who are "progenitors" of the genre
 * Potential publication of UVG-specific version
 * (stretch goal) album with different artists creating songs of future genres, with accompanying book by a "future musicologist"
 

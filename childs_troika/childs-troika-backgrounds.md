@@ -15,6 +15,24 @@ permalink: childs-troika-backgrounds
 1. TOC
 {:toc}
 
+## Nowhere Nobody Nohow {#nowhere-nobody-nohow}
+
+You are nothing (and everything), nowhere (so, everywhere), you cannot be harmed, you have no body, you are a non-thing, a nascent non-notion.
+
+**Possessions**
+
+* None
+
+**Skills**
+
+* 5 Nothing
+* 4 Negation
+* 3 N/A
+* 2 Notions
+
+**Special**
+
+* Nothing.
 
 ## Xylophage Xylophonist 
 

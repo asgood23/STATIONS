@@ -11,10 +11,8 @@ What will the music of the far future sound like?
 
 How can we hear those future genres in the music of today?
 
-
-
-
-
+![Sample image of Future Music Genre Generator](/img/future-music-teaser-2.jpg)
+![Sample image of Future Music Genre Generator](/img/future-music-teaser.jpg)
 
 
 ## Current State ##

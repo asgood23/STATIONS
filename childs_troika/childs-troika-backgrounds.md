@@ -12,7 +12,7 @@ permalink: childs-troika-backgrounds
 
 ## Index
 {: .no_toc }
-- TOC
+1. TOC
 {:toc}
 
 
@@ -33,5 +33,7 @@ Like your ancestors, you are exceptionally good at eating wood, but you do have 
 * 1 Xray tech
 
 **Special**
-Your name must start with “X”.  If you choose “Xerxes” you must add “the [d100+23]”.
+
+Your name must start with “X”. If you choose “Xerxes” you must add “the [d100+23]”.
+
 You can add any skills that start with “X”, but cannot surpass level 1 in any of them.

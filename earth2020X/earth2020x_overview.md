@@ -25,3 +25,5 @@ permalink: earth-2020X
 - [Weapons] (https://open.spotify.com/playlist/18jXiZHn25JA8qdIl8rmRM?si=0067f773ac06423f)
 - [Quirks] (https://open.spotify.com/playlist/4blygdZRCuup8tyY7UamYm?si=0b5154826d4a4980) (physical, mental, emotional, social)
 - [Tattoos] (https://open.spotify.com/playlist/2bqNuOZdLIxMI3zRMogcXw?si=264f3f166ea84873)
+
+*If you like an artist's music, consider buying it directly from them*

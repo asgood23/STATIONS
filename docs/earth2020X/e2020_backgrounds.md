@@ -3,7 +3,6 @@
 layout: default
 title: Backgrounds
 parent: Earth 2020X
-nav_order: 1
 ---
 ```
 

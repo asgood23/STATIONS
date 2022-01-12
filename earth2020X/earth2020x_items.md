@@ -6,10 +6,9 @@ permalink: earth-2020X-items
 ---
 
 # Earth 2020X Items
-*This will be a constantly expanding table of Items from the [Earth 2020X - Items playlist](https://open.spotify.com/playlist/0VTAv9ZG7SkCpzTDFt1Hnl?si=4fb383509e1b4915)*
+*This will be a constantly expanding table of items from the [Earth 2020X - Stuff playlist](https://open.spotify.com/playlist/0VTAv9ZG7SkCpzTDFt1Hnl?si=4fb383509e1b4915)*
 
 Generally, assume an item adds a +1 bonus to rolls associated with it. 
-
 Make up other uses and effects as desired.
 
 |    |                           |                                                                                                                                                                                                                                                                                                                        |

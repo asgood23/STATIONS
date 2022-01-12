@@ -6,7 +6,6 @@ nav_order: 6
 ---
 
 # Table of Tables
-
 {: .no_toc }
 
 A massive document with a bunch of tables, hyperlinked into a table at the top.

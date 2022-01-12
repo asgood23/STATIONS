@@ -16,4 +16,5 @@ Upcoming:
 
 * Spells A-Z 
 * Beasts A-Z
-* ???? A-Z
+* Items A-Z
+* ??? A-Z

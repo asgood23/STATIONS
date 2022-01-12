@@ -2,6 +2,7 @@
 layout: default
 title: Faceland
 permalink: faceland
+nav_order: 3
 ---
 
 # Faceland: a Sphere of Masks, Dolls, Puppets, and the Humans Who Hide Behind Them

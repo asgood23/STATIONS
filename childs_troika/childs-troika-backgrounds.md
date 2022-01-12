@@ -10,7 +10,7 @@ permalink: childs-troika-backgrounds
 
 *This will be the A-Z backgrounds for a Child's Troika Alphabet*
 
-## Index
+## Backgrounds A-Z
 {: .no_toc }
 1. TOC
 {:toc}

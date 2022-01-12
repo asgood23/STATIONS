@@ -10,6 +10,8 @@ permalink: earth-2020X-backgrounds
 
 *This will be a constantly growing collection of Troika Backgrounds created using the Earth 2020X process and playlists*
 
+## Index
+{: .no_toc }
 - TOC
 {:toc}
 

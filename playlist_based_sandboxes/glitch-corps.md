@@ -6,7 +6,7 @@ permalink: glitch-corps
 ---
 # Glitch Corps
 
-Character and setting generation ideas sampled and remixed from the Genre Glitch playlist on Spotify.
+Character and setting generation ideas sampled and remixed from the [Genre Glitch playlist](https://open.spotify.com/playlist/37i9dQZF1DWUraJYejk11q?si=386d287df55a45fc) on Spotify.
 
 *You are a member of the elite Glitch Corps…*
 *Create a character and decide what the Glitch Corps actually does, and then … do that?*

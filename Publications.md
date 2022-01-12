@@ -2,7 +2,6 @@
 layout: default
 title: Publications
 permalink: publications
-nav_order: 5
 ---
 
 # Publications

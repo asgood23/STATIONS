@@ -3,6 +3,7 @@ layout: default
 title: A Child's Troika Alphabet
 permalink: childs-troika-alphabet
 has_children: true
+nav_order: 3
 ---
 
 # A Child’s Troika Alphabet

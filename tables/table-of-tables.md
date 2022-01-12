@@ -2,7 +2,6 @@
 layout: default
 title: Table of Tables
 permalink: table-of-tables
-nav_order: 6
 ---
 
 # Table of Tables

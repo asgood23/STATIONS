@@ -7,8 +7,6 @@ has_children: true
 ---
 ```
 
-
-
 # Earth 2020X
 
 ## Overview ##

@@ -11,6 +11,8 @@ We make the mystery greater.
 
 Here you will mostly find lots of game-ready content, presented in a clean, usable, searchable and FREE format.
 
+Use the very nifty, fast and accurate search function at the top!
+
 Occasionally we will publish collections of this material with nice art, layout, etc.
 
 **This site is a very nascent rough work-in-progress**

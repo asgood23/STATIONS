@@ -26,3 +26,5 @@ Maybe an adventure, too.
 Visual inspiration below:
 
 <a data-pin-do="embedBoard" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/adamsgood/masks-puppets-dolls-a-troika-sphere/"></a>
+
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>

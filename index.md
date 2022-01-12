@@ -9,8 +9,17 @@ Welcome to Stations.
 
 We make the mystery greater.
 
-Here you will mostly find lots of text from markdown, clean, usable, searchable, free.
+Here you will mostly find lots of game-ready content, presented in a clean, usable, searchable and FREE format.
 
 Occasionally we will publish collections of this material with nice art, layout, etc.
 
-Get in touch
+**This site is a very nascent rough work-in-progress**
+
+Connect with Adam Station:
+
+- adam AT therealadamgood.com - most direct way to get in touch
+- [Twitter](https://twitter.com/asgood) - mostly lurking, occasionally posting
+- [Instagram](https://www.instagram.com/adamsgood/) - ditto
+- [Pinterest](https://www.pinterest.com/adamsgood/_saved/) - so many moodboards!
+- Discord: Adam Station (he/him)#2818 (active in various weird and rules-light TTRPG communities)
+

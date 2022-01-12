@@ -1,14 +1,13 @@
-```
 ---
 layout: default
 title: Backgrounds
 parent: Earth 2020X
 ---
-```
+
+# Earth 2020X Backgrounds
 
 *This will be a constantly growing collection of Troika Backgrounds created using the Earth 2020X process and playlists*
 
-[TOC]
 
 ## 1 - Chain Smoker
 

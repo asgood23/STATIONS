@@ -63,6 +63,9 @@ The caster summons a chain made out of lightning, which electrocutes anyone who 
 Spell: Disconnect (1)
 The caster can disconnect any one thing from any other thing(s) to which it is bound.
 
+[back to index](#index)
+<p></p>
+
 ## 2 - The Devil and His Anarchic Surrealist Retinue
 
 **Tattoo**

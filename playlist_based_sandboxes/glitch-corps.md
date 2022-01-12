@@ -9,7 +9,6 @@ permalink: glitch-corps
 Character and setting generation ideas sampled and remixed from the [Genre Glitch playlist](https://open.spotify.com/playlist/37i9dQZF1DWUraJYejk11q?si=386d287df55a45fc) on Spotify.
 
 *You are a member of the elite Glitch Corps…*
-*Create a character and decide what the Glitch Corps actually does, and then … do that?*
 
 ## Names
 
@@ -31,42 +30,28 @@ Character and setting generation ideas sampled and remixed from the [Genre Glitc
 3. Nervelevers
 4. Ecstasy of St Teresa
 5. Cherry soda
-
 6. Fruit salad
-
 7. Nexus
-
 8. Skee mask
-
 9. RX -101
-
 10. Warm electronics box
-
 11. Object blue
-
 12. Rosé 
-
 13. Escape pod
-
 14. Stereo cube 
-
 15. Dopamine
-
 16. Datasset
-
 17. Downlink
-
 18. SFV Acid 
-
 19. Autumn keys
-
 20. Drip of: (d6)
-    1. Infinity
-    2. Conflict
-    3. Ancestors
-    4. Bias
-    5. Sequences
-    6. Time
+       1. Infinity
+       2. Conflict
+       3. Ancestors
+       4. Bias
+       5. Sequences
+       6. Time
+
 
 ## Backgrounds
 1. Watermelon woman

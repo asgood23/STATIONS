@@ -6,6 +6,7 @@ permalink: earth-2020X-backgrounds
 ---
 
 # Earth 2020X Backgrounds
+{: .no_toc }
 
 *This will be a constantly growing collection of Troika Backgrounds created using the Earth 2020X process and playlists*
 
@@ -63,7 +64,7 @@ The caster can disconnect any one thing from any other thing(s) to which it is b
 ## 2 - The Devil and His Anarchic Surrealist Retinue
 
 **Tattoo**
-*Hell Yes*
+* *Hell Yes*
 
 **Quirks**
 
@@ -108,7 +109,7 @@ For five minutes, the target is struck by extreme paranoia and debilitating doub
 
 **Tattoo**
 
-*Heads Will Roll*
+* *Heads Will Roll*
 
 **Quirks**
 
@@ -155,7 +156,7 @@ The caster savagely beats the air, causing it to rush towards a target and strik
 
 **Tattoo**
 
-*Queen of this Shit*
+* *Queen of this Shit*
 
 **Quirks**
 
@@ -191,7 +192,7 @@ Worshipping the sun, understanding it, bathing in its glow and glory, harnessing
 
 **Tattoo**
 
-_Here comes the sun_
+* _Here comes the sun_
 
 **Quirks**
 
@@ -227,7 +228,7 @@ You are 1 Billion Dogs, spread out across the planet, telepathically connected, 
 
 **Tattoo**
 
-_We Are All We Have_
+* _We Are All We Have_
 
 **Quirks**
 

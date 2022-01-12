@@ -18,6 +18,8 @@ permalink: earth-2020X-backgrounds
 
 ## 1 - Chain Smoker
 
+
+
 Basically, everything is chains.
 
 **Tattoo**
@@ -68,7 +70,10 @@ The caster can disconnect any one thing from any other thing(s) to which it is b
 
 ## 2 - The Devil and His Anarchic Surrealist Retinue
 
+
+
 **Tattoo**
+
 * *Hell Yes*
 
 **Quirks**
@@ -110,7 +115,11 @@ Surrealist Names
 Spell: Fear Your Mind (2)
 For five minutes, the target is struck by extreme paranoia and debilitating doubt as they begin to question and fear the workings of their own mind.
 
+
+
 ## 3 - Mr. Destroyer
+
+
 
 **Tattoo**
 
@@ -157,7 +166,11 @@ After you first encounter one of your fear quirks, cross it out. When all are cr
 Spell: Airstrike (3) 
 The caster savagely beats the air, causing it to rush towards a target and strike them (damage as Unarmed).
 
+
+
 ## 4 - Queen of this Shit
+
+
 
 **Tattoo**
 

@@ -2,6 +2,7 @@
 layout: default
 title: Backgrounds
 parent: Earth 2020X
+permalink: earth-2020X-backgrounds
 ---
 
 # Earth 2020X Backgrounds

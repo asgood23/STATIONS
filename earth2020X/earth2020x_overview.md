@@ -18,3 +18,5 @@ permalink: earth-2020X
 
 ## Playlists ##
 
+- [Backgrounds] (https://open.spotify.com/playlist/5peJMvNPWE4rLbZkN9cW9t?si=d448d6f1443f481c)
+- 

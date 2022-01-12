@@ -15,6 +15,31 @@ permalink: childs-troika-backgrounds
 1. TOC
 {:toc}
 
+## Mad Maker of Merry Monsters 
+
+You make monsters. Your friends are all monsters. You made all your friends.
+
+**Possessions**
+* Magic Monocle
+* Mood Ring
+* Materials
+    * Metal
+    * Matchsticks
+    * Moss
+    * Munchables
+* Many Memories of Merry Monsters
+
+**Advanced Skills**
+* 3 Making
+* 3 Monsters
+* 2 Madness
+* 1 Memories
+
+**Special**
+
+You can make a sentient monster out of any material; it can only be happy and a little crazy.
+
+
 ## Nowhere Nobody Nohow 
 
 You are nothing (and everything), nowhere (so, everywhere), you cannot be harmed, you have no body, you are a non-thing, a nascent non-notion.

@@ -5,8 +5,9 @@ permalink: table-of-tables
 nav_order: 6
 ---
 
-
 # Table of Tables
+
+{: .no_toc }
 
 A massive document with a bunch of tables, hyperlinked into a table at the top.
 
@@ -16,8 +17,14 @@ Free to use and adapt, minimal design.
 
 Will occassionally publish some tables with nicer formatting and art.
 
+## Index ##
+{: .no_toc }
+- TOC
+{:toc}
+
 ## d100 Culture-inspired Spaceship Names
 
+Names for your spaceship, inspired by the Culture series by Iain M. Banks
 
 | --- | --------------------------------------------------------- |
 | 1   | Delay of Game                                             |

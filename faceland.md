@@ -1,3 +1,9 @@
+---
+layout: default
+title: Faceland
+permalink: faceland
+---
+
 # Faceland: a Sphere of Masks, Dolls, Puppets, and the Humans Who Hide Behind Them
 
 

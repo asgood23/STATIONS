@@ -11,7 +11,19 @@ Character and setting generation ideas sampled and remixed from Genre Glitch pla
 *You are a member of the elite Glitch Corps…*
 *Create a character and decide what the Glitch Corps actually does, and then … do that?*
 
+## Names
+
+1. Green
+2. HYENA
+3. sparrow 
+4. Stone
+5. Tycho
+6. Hiro
+7. Sinjin
+8. Rockledge 3A
+
 ## Possessions
+
 *You get a sampler, headphones, a portable broadcast unit, and 2-4 of the following:*
 
 1. Viewfinder
@@ -87,3 +99,58 @@ Character and setting generation ideas sampled and remixed from Genre Glitch pla
 18. Remix
 19. Serenity
 20. Wolf
+
+## General Skills
+
+*Not pulled from song titles, but skills generally expected from Glitch Corps members…*
+
+- Glitch 
+- Beat 
+- Static 
+- Dance 
+- Drop
+
+## Spells
+
+1. THINK BIG
+2. Promise you'll haunt me
+3. Fracture remix
+4. The soft pink truth 
+5. Move in silence
+6. Laika's revenge
+7. Broadcast profanity delay
+8. Understanding the possibility
+9. Floating points
+10. Darkstar
+11. Dayzero 
+12. Booth thrust
+13. Dorian concept
+14. Ghostly swim
+15. Weather the storm
+16. Transactional relationship
+17. Drumno
+18. XYZ (examine your zed)
+19. Canone Infinito
+20. Feed My Ancestors
+
+## Locations
+
+1. Shadow of like and likeness
+2. Concrete spire
+3. Central airport
+4. Arse end of the moon
+5. Maple Mountain 
+6. Emerald Lake
+7. Junkyard
+8. Holodec
+9. Club Winston
+10. (two locations mashed-up)
+
+## Encounters
+
+1. Elephant kiosk
+2. Misfits
+3. Bones
+4. Grippers
+5. Deadheads
+6. Gold Panda

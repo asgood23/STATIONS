@@ -3,9 +3,9 @@ title: Home
 nav_order: 1
 ---
 
-# Stations 
+# stations 
 
-Welcome to Stations.
+Welcome to stations.
 
 We make the mystery greater.
 

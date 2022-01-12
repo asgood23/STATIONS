@@ -6,7 +6,7 @@ permalink: glitch-corps
 ---
 # Glitch Corps
 
-Character and setting generation ideas sampled and remixed from Genre Glitch playlist on Spotify.
+Character and setting generation ideas sampled and remixed from the Genre Glitch playlist on Spotify.
 
 *You are a member of the elite Glitch Corps…*
 *Create a character and decide what the Glitch Corps actually does, and then … do that?*
@@ -24,7 +24,7 @@ Character and setting generation ideas sampled and remixed from Genre Glitch pla
 
 ## Possessions
 
-*You get a sampler, headphones, a portable broadcast unit, and 2-4 of the following:*
+*You get a univeral reality sampler (URS), headphones, a portable broadcast unit, and 2-4 of the following:*
 
 1. Viewfinder
 2. Persuasion system
@@ -71,7 +71,7 @@ Character and setting generation ideas sampled and remixed from Genre Glitch pla
 ## Backgrounds
 1. Watermelon woman
 2. Full Panther
-3. Brainwaltzera
+3. Lone swordsman
 4. Meteologist
 5. Multirex
 6. Player Dave

@@ -15,7 +15,11 @@ permalink: childs-troika-backgrounds
 1. TOC
 {:toc}
 
+---
+
 ## Mad Maker of Merry Monsters 
+
+---
 
 You make monsters. Your friends are all monsters. You made all your friends.
 
@@ -39,8 +43,11 @@ You make monsters. Your friends are all monsters. You made all your friends.
 
 You can make a sentient monster out of any material; it can only be happy and a little crazy.
 
+---
 
 ## Nowhere Nobody Nohow 
+
+---
 
 You are nothing (and everything), nowhere (so, everywhere), you cannot be harmed, you have no body, you are a non-thing, a nascent non-notion.
 
@@ -59,9 +66,46 @@ You are nothing (and everything), nowhere (so, everywhere), you cannot be harmed
 
 * Nothing.
 
+---
+
+## Pamphletting Pugilist of the People
+
+---
+
+![a pugilist](/Users/adamgood/Documents/GitHub/stations/img/childs/Tom_Cribb,_pugilist.jpeg)
+
+They said you would come, a fighter for the workers, who’d punch more than just the clock, who could swing with words as well as fists!
+
+**Possessions**
+
+* Portable printing press
+* Pretty paper
+* Plenty of_ The Proletariat Primer _pamphlets
+* Punching gloves
+* Parrot
+
+**Skills**
+
+* 3 Pugilism
+* 3 Pamphlet printing
+* 2 Spell - Punch the clock
+* 2 Punch-making
+
+**Special**
+
+Anyone you punch instantly supports the working class.
+
+**Spell** : Punch the Clock (1)
+
+You can punch a clock and stop time, releasing workers from their ordeal, while the capitalists remain bound to the yoke of time.
+
+---
+
 ## Xylophage Xylophonist 
 
-Like your ancestors, you are exceptionally good at eating wood, but you do have other hobbies….
+---
+
+You are a giant termite. Like your ancestors, you are exceptionally good at eating wood, but you do have other hobbies….
 
 **Possessions**
 * Xylophone

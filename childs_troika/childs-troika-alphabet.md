@@ -10,7 +10,7 @@ nav_order: 3
 
 *Being a Primer on the Known and Unknown Spheres, their Divers Inhabitants, and the Spells and Many Oddities Therein.* 
 
-![Librarians by Evelyn Moreau](stations/img/librarian4.jpg)
+![Librarians by Evelyn Moreau](../img/librarian4.jpg)
 
 (Librarians illustrations from [Eveyln Moreau's patreon](https://www.patreon.com/evlynmoreau/))
 

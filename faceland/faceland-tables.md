@@ -13,12 +13,12 @@ nav_order: 2
 Note: "proxies" is the general term for Masks, Dolls and Puppets, which act as physical proxies for their controllers.
 
 ## Whispers
-1. There is no actual central authority banning humans, but everyone believes there is; everyone has a different, hushed theory on who the authority is
+1. There is no actual central authority banning humans, but everyone believes there is; everyone has a different, hushed theory on who the authority is.
 
-2. A person’s choice of how much “human” to display, reveal, mimic, etc in their proxy tells a great deal about their personality, their desire for the human perhaps, perhaps just social shock-value, perhaps daring protest
+2. A person’s choice of how much “human” to display, reveal, mimic, etc in their proxy tells a great deal about their personality, their desire for the human perhaps, perhaps just social shock-value, perhaps daring protest.
 3. There are rumors of a colony of Non-Proxied Humans somewhere out there. Maybe they were banished, maybe they escaped. Whatever the cause, it is said that they are free of proxies forever, and live normal, if difficult human lives.
 4. As with any economy of identity, proxies can be had for next to nothing, ill-fitting second hand, black market knock-offs, obsolete earlier versions, failed R&D experiments.
-5. The inverse is of course true: those with means can commission very valuable and powerful proxies. As with the rich everywhere, only a handful of individuals use this power for good; the rest create overly ostentatious proxies to display their wealth.
+5. The inverse is of course true: those with means can commission very valuable and powerful proxies. As with the rich everywhere, only a handful of individuals use this power for good; the rest create overly ostentatious proxies to display their wealth and maintain their power.
 
 ## Skills
 

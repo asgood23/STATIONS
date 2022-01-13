@@ -8,9 +8,21 @@ nav_order: 1
 
 # Mask, Doll and Puppet Generator
 
+{: .no_toc }
+
+---
+
 *In progress concept for a way to generate strange masks, dolls and puppets*
 
+## Tables
+
+{: .no_toc }
+
+1. TOC
+
 ## Material, Subject, Vibe
+
+---
 
 Or: what's it made of, what does it depict, how's it "feel"?
 
@@ -89,6 +101,8 @@ Or: what's it made of, what does it depict, how's it "feel"?
 
 ## Questions for Masks
 
+---
+
 1. How much of the face is covered or obscured by the mask?
 2. Is any other part of the body covered or obscured by the mask?
 3. How is the mask held in place?
@@ -97,7 +111,11 @@ Or: what's it made of, what does it depict, how's it "feel"?
 
 ## Questions for Dolls
 
+---
+
 
 
 ## Questions for Puppets
+
+---
 

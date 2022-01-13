@@ -12,6 +12,8 @@ permalink: earth-2020X-backgrounds
 
 These backgrounds are the product of a befuddled AI intrepreting Spotify as the sole source of all truth about Earth 2020X; the AI has created avatars based on song titles to send to Earth, blend in  and observe the locals. That's gonna go well...
 
+Did I mention that the AI believes that EVERYONE on Earth has a tattoo that declares their worldview and passions?
+
 ## Index
 {: .no_toc }
 - TOC

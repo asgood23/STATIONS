@@ -15,15 +15,12 @@ nav_order: 1
 *In progress concept for a way to generate strange masks, dolls and puppets*
 
 ## Tables
-
 {: .no_toc }
-
 1. TOC
+{:toc}
 
 ## Material, Subject, Vibe
-
 ---
-
 Or: what's it made of, what does it depict, how's it "feel"?
 
 |    | Material       | Subject                 | Vibe                      |

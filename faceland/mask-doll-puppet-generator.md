@@ -7,10 +7,7 @@ nav_order: 1
 ---
 
 # Mask, Doll and Puppet Generator
-
 {: .no_toc }
-
----
 
 *In progress concept for a way to generate strange masks, dolls and puppets*
 

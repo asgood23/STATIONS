@@ -72,7 +72,7 @@ You are nothing (and everything), nowhere (so, everywhere), you cannot be harmed
 
 ---
 
-![a pugilist](/Users/adamgood/Documents/GitHub/stations/img/childs/Tom_Cribb,_pugilist.jpeg)
+![a pugilist](../img/childs/Tom_Cribb,_pugilist.jpeg)
 
 They said you would come, a fighter for the workers, who’d punch more than just the clock, who could swing with words as well as fists!
 

@@ -4,14 +4,15 @@ title: Mask, Doll and Puppet Generator
 permalink: mask-doll-puppet-generator
 parent: Faceland
 nav_order: 1
-
 ---
-
-# 
 
 # Mask, Doll and Puppet Generator
 
+*In progress concept for a way to generate strange masks, dolls and puppets*
 
+## Material, Subject, Vibe
+
+Or: what's it made of, what does it depict, how's it "feel"?
 
 |    | Material       | Subject                 | Vibe                      |
 | -- | -------------- | ----------------------- | ------------------------- |
@@ -85,3 +86,18 @@ nav_order: 1
 | 68 | Wood           |                         |                           |
 | 69 | Yarn           |                         |                           |
 | 70 |                |                         |
+
+## Questions for Masks
+
+1. How much of the face is covered or obscured by the mask?
+2. Is any other part of the body covered or obscured by the mask?
+3. How is the mask held in place?
+4. Is the mask handheld?
+5. Are there other masks the figure can easily don?
+
+## Questions for Dolls
+
+
+
+## Questions for Puppets
+

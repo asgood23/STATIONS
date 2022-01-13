@@ -23,7 +23,7 @@ A work-in-progress sphere for Troika, planning (at least) 6 backgrounds each for
 
 Maybe an adventure, too.
 
-Visual inspiration below:
+## Visual Inspiration
 
 <a data-pin-do="embedBoard" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/adamsgood/masks-puppets-dolls-a-troika-sphere/"></a>
 

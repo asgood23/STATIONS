@@ -15,9 +15,8 @@ permalink: earth-2020X-backgrounds
 - TOC
 {:toc}
 
-
+---
 ## 1 - Chain Smoker
-
 ---
 
 Basically, everything is chains.
@@ -68,10 +67,10 @@ The caster can disconnect any one thing from any other thing(s) to which it is b
 [back to index](#index)
 <p></p>
 
+---
 ## 2 - The Devil and His Anarchic Surrealist Retinue
 
 ---
-
 
 
 **Tattoo**
@@ -117,12 +116,12 @@ Surrealist Names
 Spell: Fear Your Mind (2)
 For five minutes, the target is struck by extreme paranoia and debilitating doubt as they begin to question and fear the workings of their own mind.
 
-
-
-## 3 - Mr. Destroyer
+[back to index](#index)
+<p></p>
 
 ---
-
+## 3 - Mr. Destroyer
+---
 
 
 **Tattoo**
@@ -169,10 +168,11 @@ After you first encounter one of your fear quirks, cross it out. When all are cr
 Spell: Airstrike (3) 
 The caster savagely beats the air, causing it to rush towards a target and strike them (damage as Unarmed).
 
+[back to index](#index)
+<p></p>
 
-
+---
 ## 4 - Queen of this Shit
-
 ---
 
 **Tattoo**
@@ -207,8 +207,11 @@ When you declare “I’m the Queen of this Shit,” all within earshot must tes
 Spell: Witch Slap (IOU) (4)
 The caster directs an invisible witch hand to slap the target at some point in the future, at the caster’s choice. The witch slap comes quickly out of nowhere, causing 2d6 damage and stunning the target. 
 
-## 5 - Sunbather
+[back to index](#index)
+<p></p>
 
+---
+## 5 - Sunbather
 ---
 
 Worshipping the sun, understanding it, bathing in its glow and glory, harnessing its infinite power to nourish, enlighten and destroy.
@@ -245,8 +248,11 @@ You don’t need to eat. You get your nourishment directly from the sun, and it 
 Spell: Sun Hands (4)
 The caster’s hands become Sun Hands, casting the blinding light of the sun in all directions and emitting incinerating heat (2d6 burn) onto anything the caster touches. The caster is generally fine, but receives a strong sunburn on any exposed flesh.
 
-## 6 - 1 Billion Dogs
+[back to index](#index)
+<p></p>
 
+---
+## 6 - 1 Billion Dogs
 ---
 
 You are 1 Billion Dogs, spread out across the planet, telepathically connected, able to act in concert (to a certain extent, must avoid suspicion from the hoomans).
@@ -281,3 +287,86 @@ You are 1 Billion Dogs, spread out across the planet, telepathically connected, 
 
 Spell: Talk Words (3) 
 By gathering a group of your 1 Billion Dogs, you can get each of them to say one word in perfectly clear Human, in order (up to a 20 word phrase). You can only state the phrase once, so you better hope the recipient is listening and doesn’t get so freaked out by your speech that they immediately forget what you actually said (test Luck).
+
+[back to index](#index)
+<p></p>
+
+---
+## 7 - Half-Blood Prince
+---
+You were royally born, but missing half of your blood. Your parents, to their own shock and horror, kept you alive through ritualistic draining of the populace. Now you’re out on your own, still thirsty, but trying to fit in.
+
+**Tattoo**
+* _Reign in Blood_
+
+**Quirks**
+* BLOODLUST
+* Cold blooded
+* Bloody knuckles
+
+**Possessions**
+* Hot Knife 
+* BLOODMONEY
+* Various vials of blood
+    * Wildblood
+    * Snowblood
+    * American Blood
+    * Hillbilly Blood
+    * White Blood
+* Bloody Canvas
+* Bloody Mary
+
+**Advanced Skills**
+
+* 3 Bloodletting
+* 2 Smells blood
+* 2 Spell - Bloodhail
+* 2 Spell - Raining blood
+* 2 Spell - Flesh without blood
+* 2 Knife fighting 
+
+
+**Special**
+You must consume half your weight in blood every 24 hours or die.
+
+[back to index](#index)
+<p></p>
+
+---
+## 8 - Street Fighting Man
+---
+
+What’s he got against _Streets?!?_
+
+**Tattoo**
+
+* _Shatter All Organized Activities_
+
+**Quirks**
+
+* Walk like a mother fucker
+* Unhappy
+* Dark kept secret
+* No filter
+
+**Possessions**
+
+* Sledgehammer (damage as Hammer)
+* Bogus badge (allows you to get onto any Street)
+* Diet meth
+
+**Advanced Skills**
+
+* 4 Street Fighting
+* 3 Sledgehammer Fighting
+* 3 Fighting in the Street
+* 2 Tactical Manoeuvre
+
+**Special**
+
+Streets are your sworn enemy. You get +1 on all rolls when on, near, or around a Street.
+
+[back to index](#index)
+<p></p>
+
+---

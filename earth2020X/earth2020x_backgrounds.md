@@ -18,7 +18,7 @@ permalink: earth-2020X-backgrounds
 
 ## 1 - Chain Smoker
 
-
+---
 
 Basically, everything is chains.
 
@@ -70,6 +70,8 @@ The caster can disconnect any one thing from any other thing(s) to which it is b
 
 ## 2 - The Devil and His Anarchic Surrealist Retinue
 
+---
+
 
 
 **Tattoo**
@@ -119,6 +121,8 @@ For five minutes, the target is struck by extreme paranoia and debilitating doub
 
 ## 3 - Mr. Destroyer
 
+---
+
 
 
 **Tattoo**
@@ -160,7 +164,6 @@ For five minutes, the target is struck by extreme paranoia and debilitating doub
 * 1 Eating Unblessed Meat
 
 **Special**
-
 After you first encounter one of your fear quirks, cross it out. When all are crossed out, change “Afraid of Nothing” to “Afraid of Everything (-1 on all tests)”
 
 Spell: Airstrike (3) 
@@ -170,7 +173,7 @@ The caster savagely beats the air, causing it to rush towards a target and strik
 
 ## 4 - Queen of this Shit
 
-
+---
 
 **Tattoo**
 
@@ -205,6 +208,8 @@ Spell: Witch Slap (IOU) (4)
 The caster directs an invisible witch hand to slap the target at some point in the future, at the caster’s choice. The witch slap comes quickly out of nowhere, causing 2d6 damage and stunning the target. 
 
 ## 5 - Sunbather
+
+---
 
 Worshipping the sun, understanding it, bathing in its glow and glory, harnessing its infinite power to nourish, enlighten and destroy.
 
@@ -241,6 +246,8 @@ Spell: Sun Hands (4)
 The caster’s hands become Sun Hands, casting the blinding light of the sun in all directions and emitting incinerating heat (2d6 burn) onto anything the caster touches. The caster is generally fine, but receives a strong sunburn on any exposed flesh.
 
 ## 6 - 1 Billion Dogs
+
+---
 
 You are 1 Billion Dogs, spread out across the planet, telepathically connected, able to act in concert (to a certain extent, must avoid suspicion from the hoomans).
 

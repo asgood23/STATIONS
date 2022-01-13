@@ -80,7 +80,7 @@ They said you would come, a fighter for the workers, who’d punch more than jus
 
 * Portable printing press
 * Pretty paper
-* Plenty of_ The Proletariat Primer _pamphlets
+* Plenty of *The Proletariat Primer* pamphlets
 * Punching gloves
 * Parrot
 

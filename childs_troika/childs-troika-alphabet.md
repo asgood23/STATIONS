@@ -10,9 +10,13 @@ nav_order: 3
 
 *Being a Primer on the Known and Unknown Spheres, their Divers Inhabitants, and the Spells and Many Oddities Therein.* 
 
-First collection: *Backgrounds A-Z.*
+![Librarians by Evelyn Moreau](/img/librarian4.jpg)
 
-Upcoming: 
+(Librarians illustrations from [Eveyln Moreau's patreon](https://www.patreon.com/evlynmoreau/))
+
+In progress: *Backgrounds A-Z.*
+
+In planning: 
 
 * Spells A-Z 
 * Beasts A-Z

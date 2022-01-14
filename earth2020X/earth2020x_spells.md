@@ -68,4 +68,14 @@ As always, make up other uses and effects as desired.
 | 50   | Footworkin on Air (1)             | Caster floats up to 10 feet in the air, but can only perform rapid and complex footwork dance moves for the duration (up to 5 minutes). |
 | 51   | Counterspell (1)                  | The caster summons a sprite that will keep count of a specific item or sequence for the caster, lasts until dismissed. The caster may have up to three counters at the same time. On a failed casting, a dark sprite hovers behind the caster for a day, intoning a countdown of some impending doom. |
 | 52   | Everything is Free (3)            | For five minutes, everything is free, for all, and freely and generously given. |
+| 53   | Unravel (2)                       | Causes target woven thing to unravel, applies to physical items such as scarves as well as metaphysical objects like stories, lies, illusions, false identities, etc. |
+| 54   | Breathing Earth (1)               | Caster gathers a handful of earth and breathes it in; after holding the breath deeply and thinking of a question about the surrounding area, the caster exhales the answer. On a failed casting, the inhaled earth is permanently within the caster. |
+| 55   | Enter the Machine (2)             | The caster can enter any machine, their size and form altering as necessary to allow them to do so. While inside the machine, the caster can attempt to understand and/or alter its workings. |
+| 56   | Knock Knock (2)                   | Summons an invisible sprite that will knock on a door, compelling the inhabitant on the other side to ask “who’s there?” The sprite will then tell a knock knock joke; the inhabitant has no choice but to play along. Process repeats for ten minutes. |
+| 57   | Friendly Fire  (1)                | Summons a small fire sprite that will do the caster’s bidding for five minutes. |
+| 58   | A Tooth for an Eye (2)            | The caster pulls a tooth out of their mouth and places it somewhere on their body, where it dissolves and is replaced by a fully functional additional eye that lasts for the rest of the caster’s life. A critically failed casting summons a very pissed off tooth fairy. |
+| 59   | Bubbles (2)                       | Creates massive floating bubbles that cannot be popped from the outside or inside. Bubbles can surround and transport objects or entities, willing or otherwise. |
+| 60   | House of Cards (3)                | The caster taps a deck of cards three times; taking the cards out and tossing them into the air causes them to form into a full-sized house with 2d6 rooms. |
+| 61   | Data Kiss (2)                     | The caster can send or receive an unlimited amount of data in a single kiss (with a person, creature or data system). |
+| 62   |                                   |                                                              |
 

@@ -77,5 +77,15 @@ As always, make up other uses and effects as desired.
 | 59   | Bubbles (2)                       | Creates massive floating bubbles that cannot be popped from the outside or inside. Bubbles can surround and transport objects or entities, willing or otherwise. |
 | 60   | House of Cards (3)                | The caster taps a deck of cards three times; taking the cards out and tossing them into the air causes them to form into a full-sized house with 2d6 rooms. |
 | 61   | Data Kiss (2)                     | The caster can send or receive an unlimited amount of data in a single kiss (with a person, creature or data system). |
-| 62   |                                   |                                                              |
+| 62   | Total Darkness (2)                | Creates a patch of total darkness that lasts for five minutes. Nothing within the patch can be seen or detected by any instruments, perceptions or supernatural means. Nothing within the patch can see or perceive anything. |
+| 63   | Open Flame (2)                    | The caster orders a flame to open, allowing the caster and those with them to pass into and through it unharmed. By spending one Stamina for each additional person, the caster can choose for the travellers to emerge from another flame within one mile. |
+| 64   | Show Yourself (1)                 | The caster demands that an entity that is hiding show themself. On a failed casting, the hiding entity gets more deeply hidden and insults the caster, hurting their feelings. |
+| 64   | Sidewalk (1)                      | The caster can walk up the sides of buildings and other vertical surfaces as if they were the ground. Spend one Stamina to bring along another entity. |
+| 65   | Feel the Same (2)                 | The caster points at two target entities, causing one of them to feel the same as the other for ten minutes. One of the entities can be the caster. |
+| 66   | Ghostride (1)                     | Summons a ghost that can be ridden.                          |
+| 67   | Bloody Rainbow (1)                | Creates a massive rainbow, that appears as a normal rainbow at first, but on closer examination, is bleeding in all colors. |
+| 68   | Choose Me (2)                     | When the target must make a choice between individuals, the caster is chosen. |
+| 69   | Speak with the Dead (2)           | The caster can have a conversation with the dead, maintained as long as they keep contact with the remains of the deceased or one of their possessions. |
+| 70   | Ball of Confusion (2)             | Summons a giant ball that floats and bounces around and utterly confuses all who see it. |
+| 71   |                                   |                                                              |
 

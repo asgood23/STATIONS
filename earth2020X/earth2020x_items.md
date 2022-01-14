@@ -8,6 +8,8 @@ permalink: earth-2020X-items
 # Earth 2020X Items
 *This will be a constantly expanding table of items from the [Earth 2020X - Stuff playlist](https://open.spotify.com/playlist/0VTAv9ZG7SkCpzTDFt1Hnl?si=4fb383509e1b4915)*
 
+Item descriptions come from an AI interpreting Spotify song titles as actual things that exist on Earth 2020X.
+
 Generally, assume an item adds a +1 bonus to rolls associated with it. 
 Make up other uses and effects as desired.
 
@@ -29,16 +31,25 @@ Make up other uses and effects as desired.
 | 14   | Wolf piss                 | Exactly what it sounds like. Used to mark territory and repel attacks territory when passing through wolf-prone areas. |
 | 15   | BOOTY MACHINE             | 3d printer that quickly fabricates fake, but slightly convincing treasure out of plastic. Anyone given the treasure must test Luck (or Skill for enemies), or believe that it’s real. |
 | 16   | Ghost-Tape No. 9          | Long-sought-after iteration of the long-running Ghost-Tape series, known for its enhanced multi-dimensional stickiness for trapping or restraining ghosts in other planes. Also, smells of almonds and citrus when applied. |
-| 17   | Champagne Smoke           | A bottle of bubbly smoke, often uncorked to inhale on special occasions, causing mild intoxication and telempathy. The label only applies to smoke created on the effervescent plane of Champagne; otherwise, known as “sparkly vapor.” |
-| 18   | Bone Chain                | A long, thin, lightweight but extremely strong chain that, when placed around any object, turns it into a bone . |
-| 19   | Angels Trumpet            | Small brass horn of the semi-divine. When sounded, n-dimensional psychosonic vibrations shake the sub-structure of creatures and objects in the vicinity, probing for weakness. Words fail, buildings crumble, the ground opens wide. |
-| 20   | Snake Wand                | A simple, thin wooden wand that, when thrown to the ground, becomes a normal snake (damage as Small Beast). |
-| 21   | Paper Castles             | Small, yet intricate and expansive castles made entirely of paper. Peering inside, one sees a fully functional castle with inhabitants, decor, food, festivities and intrigue. All made of paper. |
-| 22   | Light Armour              | Prismatic light surrounding the wearer, simultaneously particle and wave, liquid (when moving, +1 Armor) and crystalline (when defending, +2 Armor). Others cannot stare directly at the wearer. Lights up the surrounding area up to 15 feet. Periodically needs recharging by absorbing sunbeams or other starlight. |
+| 17   | Champagne smoke           | A bottle of bubbly smoke, often uncorked to inhale on special occasions, causing mild intoxication and telempathy. The label only applies to smoke created on the effervescent plane of Champagne; otherwise, known as “sparkly vapor.” |
+| 18   | Bone chain                | A long, thin, lightweight but extremely strong chain that, when placed around any object, turns it into a bone . |
+| 19   | Angels trumpet            | Small brass horn of the semi-divine. When sounded, n-dimensional psychosonic vibrations shake the sub-structure of creatures and objects in the vicinity, probing for weakness. Words fail, buildings crumble, the ground opens wide. |
+| 20   | Snake wand                | A simple, thin wooden wand that, when thrown to the ground, becomes a normal snake (damage as Small Beast). |
+| 21   | Paper castles             | Small, yet intricate and expansive castles made entirely of paper. Peering inside, one sees a fully functional castle with inhabitants, decor, food, festivities and intrigue. All made of paper. |
+| 22   | Light armour              | Prismatic light surrounding the wearer, simultaneously particle and wave, liquid (when moving, +1 Armor) and crystalline (when defending, +2 Armor). Others cannot stare directly at the wearer. Lights up the surrounding area up to 15 feet. Periodically needs recharging by absorbing sunbeams or other starlight. |
 | 23   | Death’s Door              | A single use object, these highly prized portals allow a single Death to pass through (either coming or going). Folds down into a small parcel, unfolds and sticks to a solid vertical surface (size as regular door). |
-| 24   | Sex Emoji                 | Ubiquitous across every known sphere, these small, pixelated, sentient digital icons act as familiars for individuals attempting to mate. Questionable efficacy. |
+| 24   | Sex emoji                 | Ubiquitous across every known sphere, these small, pixelated, sentient digital icons act as familiars for individuals attempting to mate. Questionable efficacy. |
 | 25   | Spine of God              | Nerve conduit from God’s brain to the rest of God’s body. Used to control physical functions from an abstracted electrico-chemical command center. If the Spine of God is seen in the world, this proves that God is spineless. If the Spine of God has not been seen, this proves nothing. |
-| 26   | One Way Mirror            | When flashed at a target, casts it irretrievably into a mirror dimension. Best left covered. |
-| 27   | Trippy Green Skull        | A coin-sized jade skull pin, that, when placed on a target’s clothing, causes them to have immense difficulty walking. |
+| 26   | One way mirror            | When flashed at a target, casts it irretrievably into a mirror dimension. Best left covered. |
+| 27   | Trippy green skull        | A coin-sized jade skull pin, that, when placed on a target’s clothing, causes them to have immense difficulty walking. |
 | 28   | Mega Guillotine 2020      | Damage as 2,020 Knives. Takes d100+66 workers to operate. Only works on the ultrarich. |
+| 29   | Rainbow badge             | Documentation of authority in all known and potential colors and hues. Flashing the badge to an authority figure will synchronize to the color of their authority and they will grant you entrance or otherwise treat you as a member of the authority, |
+| 30   | The Flower Called Nowhere | It's a flower. It's called "Nowhere." It doesn't exist anywhere. No one knows what it is for or what it does. |
+| 31   | Psycho sushi              | Sushi-shaped sushi-stuff made with all manner of ingredients, edible and inedible. Laced with stimulants and occasionally hallucinogens. |
+| 32   | Disco glove               | Large prismatic glove. Gentle hum, semi-erotic vibration. The wearer can snap their fingers to cause everyone in the vicinity to start disco dancing. |
+| 33   | The Eel Pot               | A pot that contains an inifite supply of eels. 3-in-6 chance an eel is edible. 1-in-6 chance it's electric. 1-in-20 chance it's the herald of an eldritch Eel God. |
+| 34   | All-seeing eye            | Normal looking eye except for constant rapid blinking and chaotic scanning and rolling. When implanted in the place of a normal eye, provides ability to see literally everything. This can be pretty overwhelming. |
+| 35   | Archive 7                 | Contains all knowledge of anything to do with the number 7. 1-in-7 chance to retrieve useful information. |
+| 36   | Mouth of God              | Floating human mouth, spouting wisdom and/or nonsense, claiming to be the One True Divinity. 1-in-6 chance of getting some sort of wisdom, insight or spiritual peace when conversing with the Mouth. Feeding the Mouth small bits of fruit and nuts will endear it to you, causing it to follow you around, constantly chattering. Feed the Mouth burnt human flesh to get a 1-in-10 chance that the Mouth will smote a target, righteously. |
+|      |                           |                                                              |
 

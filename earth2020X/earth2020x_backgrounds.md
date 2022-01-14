@@ -441,7 +441,7 @@ Your absolute faith gives you the power to heal your friends, connect to the Lor
 
 * Faith (+1 on all Luck tests)
 * Quiet
-* Suntan (counts as Light Armor) \
+* Suntan (counts as Light Armor) 
 
 
 **Possessions**

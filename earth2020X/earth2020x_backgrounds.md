@@ -485,11 +485,14 @@ Where once there was a mask, now there is no mask. Works on masks of all shapes 
 ## 11 - The Laughing Man
 ---
 
-I’ve heard the children sing a song about you:
+I’ve heard the children sing this song about you:
 
 > *No one knows what the Laughing Man knows*
+>
 > *No one goes where the Laughing Man goes*
-> *No one sleeps when the Laughing Man creeps*
+>
+> *No one sleeps when the Laughing Man weeps*
+>
 > *No one laughs when the Laughing Man laughs*
 
 **Tattoo**

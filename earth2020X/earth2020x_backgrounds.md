@@ -478,3 +478,70 @@ Where once there was a mask, now there is no mask. Works on masks of all shapes 
 
 [back to index](#index)
 <p></p>
+
+---
+## 11 - The Laughing Man
+---
+
+I’ve heard the children sing a song about you:
+
+> *No one knows what the Laughing Man knows*
+> *No one goes where the Laughing Man goes*
+> *No one sleeps when the Laughing Man creeps*
+> *No one laughs when the Laughing Man laughs*
+
+**Tattoo**
+
+* *It’s Alright to Feel Afraid*
+
+**Quirks**
+
+* Eyes like the sky
+* Sincere
+* Hollow (literally)
+* Looped (occasionally glitch-repeats actions a few times)
+
+**Possessions**
+
+* Crushed velvet (all clothes made from, count as Modest Armour)
+* Small hat
+* Music box
+* Little boxes (each filled with a different item from the following):
+    * Impossible knots
+    * Glitter
+    * DEAD FLOWERS
+    * Fake Flowers
+    * Pictures of flowers
+    * Black Tea
+    * Strawberries
+    * baby teeth
+    * Spikes
+    * White Sugar
+    * Chimes
+    * Pigeon skulls
+    * Stolen Moments
+    * People’s Faces
+    * Wires
+    * Birthday Cake
+    * Cherry Blossoms
+    * [etc]*
+* Big black car
+
+**Advanced Skills**
+
+* 3 The Secret Art
+* 3 The Negative Space
+* 2 Illusory Motion
+* 1 Protocol
+* 1 Timing
+* 1 Weeping
+
+**Special***
+
+There are actually infinite little boxes filled with items in your big black car. 
+Whenever you need a little box with a specific item, test Luck.
+On a success, the little box is on (or inside) you. 
+On a failure, the box is in your car and will take a little while to find.
+
+[back to index](#index)
+<p></p>

@@ -59,5 +59,13 @@ As always, make up other uses and effects as desired.
 | 41   | Dry the Rain (1)                  | Causes all traces of rain in the caster’s vicinity to vanish completely, as if it had never rained at all. |
 | 42   | Cough Up Cherries (2)             | The target coughs up a bountiful amount of perfectly ripe cherries for five minutes. The cherries are the most delicious cherries ever. On a failed roll, the target still coughs up cherries, but they won’t be ripe for a few days. |
 | 43   | Inside Out (4)                    | Target object or entity is turned inside out; previously internal items or organs are still intact and functional. |
-| 44   |                                   |                                                              |
+| 44   | Full Panther (2)                  | Caster transforms into a panther for 5 minutes (damage as Large Beast). |
+| 45   | All Gates Open (3)                | All gates within one mile of the caster are immediately opened. Works on physical, metaphysical, databased, and emotional gates. |
+| 46   | BLACKOUT (3)                      | All electrical objects or entities in the caster’s vicinity shut off as if their power source has gone down. Lasts for five minutes. |
+| 47   | Army of Me (3)                    | The caster summons 3d6 copies of themself, all of whom can act in concert with one explicit objective (e.g. swarm an enemy, destroy an object, etc). Vanish into whisps of smoke in five minutes. On a failed casting, the copies still appear, but cause all kinds of shenanigans. |
+| 48   | Walls of Sound (3)                | The caster creates up to four walls of sound, intangible but with deafening, pulsing, disorienting effects. Any creature caught in a wall of sound (or passing through one) loses two Stamina. On a critical failed casting, the wall of sound is localized within the caster’s auditorynerve network for one day, during which they can hear nothing else. |
+| 49   | Disconnect (1)                    | The caster can disconnect any one thing from any other thing(s) to which it is bound. |
+| 50   | Footworkin on Air (1)             | Caster floats up to 10 feet in the air, but can only perform rapid and complex footwork dance moves for the duration (up to 5 minutes). |
+| 51   | Counterspell (1)                  | The caster summons a sprite that will keep count of a specific item or sequence for the caster, lasts until dismissed. The caster may have up to three counters at the same time. On a failed casting, a dark sprite hovers behind the caster for a day, intoning a countdown of some impending doom. |
+| 52   | Everything is Free (3)            | For five minutes, everything is free, for all, and freely and generously given. |
 

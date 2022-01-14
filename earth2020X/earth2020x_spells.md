@@ -87,5 +87,16 @@ As always, make up other uses and effects as desired.
 | 68   | **Choose Me (2)**                     | When the target must make a choice between individuals, the caster is chosen. |
 | 69   | **Speak with the Dead (2)**           | The caster can have a conversation with the dead, maintained as long as they keep contact with the remains of the deceased or one of their possessions. |
 | 70   | **Ball of Confusion (2)**             | Summons a giant ball that floats and bounces around and utterly confuses all who see it. |
-| 71   |                                       |                                                              |
+| 71   | **Ask the Magic 8 Ball** (1)          | The caster summons an old magic 8-ball and can shake it and ask one simple question. 3-in-6 chance of getting a correct, and useful answer. Otherwise, the display is broken or gets stuck between two answers. |
+| 72   | **Stuck on Repeat** (2)               | Target gets stuck in a 5-10 second time loop for 15 minutes. |
+| 73   | **Install:Happy** (2)                 | Interacting with any computer or AI system, the caster can install a program that makes it generally happy and willing to comply with the caster's requests. |
+| 74   | **Smell Memory** (1)                  | Gently sniffing a target's hair, the caster can access one of the target's most powerful memories. |
+| 75   | **Circle of Swords** (3)              | Summons a floating, spinning circle of 3d6 swords that obeys the caster's commands. Each of the swords can do the things that swords can normally do, but must remain roughly in a circular form. Lasts for 5 minutes. |
+| 76   | **Command Z** (3)                     | Undoes the target's previous action.                         |
+| 77   | **Stop Thinking (About Me)** (3)      | Erases all memory of the caster from the target's mind, and blocks the target's ability to think about the caster in the future. |
+| 78   | **#Mindcontrol** (3)                  | Creates a popular hashtag with the power to compel individuals to do something, e.g. "#smash_capitalism". The hashtag is amplified by 3d666 social media influencers. |
+| 79   | **Everything in its right place** (3) | All objects in the caster's immediate vicinity return to their appropriate locations. |
+| 80   | **Stepping into tomorrow** (3)        | Caster can temporarily step into the next day. 1-in-6 chance that the caster can prepare, place or alter something in the future. |
+| 81   | **Mirage of Night Sky** (2)           | Creates a compelling illusion that it is night; caster can choose which view of the night sky to present, such as the Southern Hemisphere in early winter. |
+|      |                                       |                                                              |
 

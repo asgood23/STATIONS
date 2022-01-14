@@ -59,5 +59,5 @@ As always, make up other uses and effects as desired.
 | 41   | Dry the Rain (1)                  | Causes all traces of rain in the caster’s vicinity to vanish completely, as if it had never rained at all. |
 | 42   | Cough Up Cherries (2)             | The target coughs up a bountiful amount of perfectly ripe cherries for five minutes. The cherries are the most delicious cherries ever. On a failed roll, the target still coughs up cherries, but they won’t be ripe for a few days. |
 | 43   | Inside Out (4)                    | Target object or entity is turned inside out; previously internal items or organs are still intact and functional. |
-|      |                                   |                                                              |
+| 44   |                                   |                                                              |
 

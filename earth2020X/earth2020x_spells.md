@@ -83,9 +83,9 @@ As always, make up other uses and effects as desired.
 | 64   | **Sidewalk (1)**                      | The caster can walk up the sides of buildings and other vertical surfaces as if they were the ground. Spend one Stamina to bring along another entity. |
 | 65   | **Feel the Same (2)**                 | The caster points at two target entities, causing one of them to feel the same as the other for ten minutes. One of the entities can be the caster. |
 | 66   | **Ghostride (1)**                     | Summons a ghost that can be ridden.                          |
-| 67   | Bloody Rainbow (1)                    | Creates a massive rainbow, that appears as a normal rainbow at first, but on closer examination, is bleeding in all colors. |
+| 67   | **Bloody Rainbow (1)**                | Creates a massive rainbow, that appears as a normal rainbow at first, but on closer examination, is bleeding in all colors. |
 | 68   | **Choose Me (2)**                     | When the target must make a choice between individuals, the caster is chosen. |
-| 69   | Speak with the Dead (2)               | The caster can have a conversation with the dead, maintained as long as they keep contact with the remains of the deceased or one of their possessions. |
+| 69   | **Speak with the Dead (2)**           | The caster can have a conversation with the dead, maintained as long as they keep contact with the remains of the deceased or one of their possessions. |
 | 70   | **Ball of Confusion (2)**             | Summons a giant ball that floats and bounces around and utterly confuses all who see it. |
 | 71   |                                       |                                                              |
 

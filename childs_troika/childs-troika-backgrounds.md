@@ -124,3 +124,5 @@ You are a giant termite. Like your ancestors, you are exceptionally good at eati
 Your name must start with “X”. If you choose “Xerxes” you must add “the [d100+23]”.
 
 You can add any skills that start with “X”, but cannot surpass level 1 in any of them.
+
+*Thanks to [Thriftomancer](https://thriftomancer.itch.io/) for his insistence that the Troika alphabet include a giant termite Xylophage, and his input on the first draft of this background*

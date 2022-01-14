@@ -427,3 +427,54 @@ The target coughs up a bountiful amount of perfectly ripe cherries for five minu
 
 [back to index](#index)
 <p></p>
+
+---
+## 10 - Regular John
+
+Your absolute faith gives you the power to heal your friends, connect to the Lord, and expose the falsehoods that surround you. Most people don’t know this about you, though.
+
+**Tattoo**
+
+* _We Magnify His Name_
+
+**Quirks**
+
+* Faith (+1 on all Luck tests)
+* Quiet
+* Suntan (counts as Light Armor) \
+
+
+**Possessions**
+
+* The Worship Bell
+* Singing bowl
+* Roses in water
+
+**Advanced Skills**
+
+* 4 Spell - Wave of Life
+* 3 Purification
+* 2 Spell - Talk to the Lord
+* 2 Spell - Friendly Fire
+* 1 Spell - No Mask
+
+**Special**
+
+**Spell**: Wave of Life (4)
+
+The caster channels the deep spirit of all life and expands it in a tidal wave in all directions, causing all targets in the affected area to regain full Stamina. Can only use once per adventure, and the rest of the party must not know that you are even remotely capable of it.
+
+**Spell**: Talk to the Lord (2)
+
+The caster is able to open a brief, direct connection with (a/the) Lord, during which they can ask a single question. A successful casting grants a useful answer, failure results in a cryptic message that causes semi-crippling confusion and doubt for d3 days.
+
+**Spell**: Friendly Fire (2)
+
+The caster summons 2d6 fire sprites that will obey simple commands and attack enemies, but will not harm allies (damage as Small Beast, burn)
+
+**Spell**: No Mask (1)
+
+Where once there was a mask, now there is no mask. Works on masks of all shapes and sizes, material and metaphorical.
+
+[back to index](#index)
+<p></p>

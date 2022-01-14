@@ -375,3 +375,55 @@ Streets are your sworn enemy. You get +1 on all rolls when on, near, or around a
 <p></p>
 
 ---
+## 9 - Barefoot God
+---
+You walk the earth, in constant contact with the soil, harnessing the deep energies of life and creation to spread absolute abundance. More light, more love, more joy!
+
+**Tattoo**
+
+* _THE RIVER MUST FLOW_
+
+**Quirks**
+
+* Silver Soul
+* Rhinestone Eyes
+* Delicate
+
+**Possessions**
+
+* Crystal dust (massively accelerates growth of living things)
+* Monk’s Robes (1-in-6 chance of finding a useful holy relic at the exact right time)
+
+**Advanced Skills**
+
+* 2 Spell - More Flowers
+* 2 Spell - Cough up Cherries
+* 2 Spell - Raining Teeth
+* 2 Spell - Max Lush
+* 2 Spell - Kids
+* 2 Spell - 90-Mile Water Wall 
+
+**Special**
+
+**Spell**: Max lush (1)
+
+Scans the local environment and determines the maximum amount of vegetation possible, and rapidly increases the lushness to that level. Lasts for 15 minutes, after which the extra vegetation begins to wilt and decay.
+
+**Spell**: More Flowers (1)
+
+Creates many more flowers where there are already some flowers. The caster chooses 1) more of the same flowers or 2) more, different flowers.
+
+**Spell**: Raining Teeth (2)
+
+Causes a downpour of teeth, from all manner of species, in all sizes and sharpnesses. Anyone caught in the open takes d6 damage. After the deluge, players may test Luck to find rare and valuable teeth (gold, dinosaur, celebrity, alien, etc) on the ground.
+
+**Spell**: Kids (2)
+
+The caster summons d6+1 kids to surround, distract, and generally pester the target for 15 minutes or until placated. The age of the kids summoned is d6+5. On a failed casting, the kids surround the caster instead.
+
+**Spell**: Cough Up Cherries (1)
+
+The target coughs up a bountiful amount of perfectly ripe cherries for five minutes. The cherries are the most delicious cherries ever. On a failed roll, the target still coughs up cherries, but they won’t be ripe for a few days.
+
+[back to index](#index)
+<p></p>

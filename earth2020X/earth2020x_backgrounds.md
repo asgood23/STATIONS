@@ -431,6 +431,8 @@ The target coughs up a bountiful amount of perfectly ripe cherries for five minu
 ---
 ## 10 - Regular John
 
+---
+
 Your absolute faith gives you the power to heal your friends, connect to the Lord, and expose the falsehoods that surround you. Most people don’t know this about you, though.
 
 **Tattoo**
@@ -595,4 +597,5 @@ You can retract your head into your body, which is otherwise totally human. You 
 By opening themselves up to the subtle social-emotional vibrations of an adjacent room or area, the caster can psychically discern the general disposition and intent of its inhabitants.
 
 [back to index](#index)
+
 <p></p>

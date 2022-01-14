@@ -601,4 +601,36 @@ By opening themselves up to the subtle social-emotional vibrations of an adjacen
 
 [back to index](#index)
 
+---
+
+## 13 - Quantum Mechanic
+
+---
+
+*You don't know if the machine is working or not-working until you open it up.*
+
+Accessing the quantum realm, you can understand and influence the minute chaotic workings of reality. With these gifts, you were obviously put to work fixing things. To most observers, your head is mounted sideways, but when un-observed, you have multiple heads which are mounted at any and/or all angles. To access the quantum realm of any object, you have to sink your fangs into it and taste the flavor.
+
+**Tattoo**
+
+* *Them Is Us*
+
+**Quirks**
+
+* Head mounted sideways
+* Dirty mouth
+
+**Possessions**
+
+* Fangs
+
+**Advanced Skills**
+
+* 3 Taste
+* 3 Permutation
+* 3 New math
+* 2 Become death
+
+[back to index](#index)
+
 <p></p>

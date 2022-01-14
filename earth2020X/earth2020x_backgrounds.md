@@ -545,3 +545,54 @@ On a failure, the box is in your car and will take a little while to find.
 
 [back to index](#index)
 <p></p>
+
+---
+## 12 - Turtle Neck Man
+---
+
+Suave, smooth, sincere, seeking similar suitable souls. You always wear a turtle neck.
+
+**Tattoo**
+
+* _I Like Love_
+
+**Quirks**
+
+* Handsome
+* Cool & Collected
+* Kind of Strange
+
+**Possessions**
+
+* Sunglasses
+* Mood ring
+* Midnight wine
+* Marijuana
+* Bad self portraits
+
+**Advanced Skills**
+
+* 3 Chillin’
+* 2 Human Connection
+* 2 Soul Searching
+* 2 Luxury Dining
+* 2 Spell - Vibe Check
+* 1 Tongue Kissing
+* -1 Wu-Tang Type Beats
+
+**Special**
+
+**Infinity Turtlenecks**
+
+You always have the perfect colored turtleneck for the situation. This gives you a subtle influence on the overall vibe of the moment.
+
+**Actual Turtle Neck**
+
+You can retract your head into your body, which is otherwise totally human. You don’t know you can do this, it just happens automatically if absolutely necessary to protect your life.
+
+**Spell:** Vibe Check (1)
+
+By opening themselves up to the subtle social-emotional vibrations of an adjacent room or area, the caster can psychically discern the general disposition and intent of its inhabitants.
+
+[back to index](#index)
+<p></p>

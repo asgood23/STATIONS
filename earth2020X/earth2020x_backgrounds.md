@@ -8,7 +8,7 @@ permalink: earth-2020X-backgrounds
 # Earth 2020X Backgrounds
 {: .no_toc }
 
-*This will be a constantly growing collection of Troika backgrounds created using the Earth 2020X process and playlists*
+*This page catalogs an expanding collection of Troika backgrounds created using the Earth 2020X process and playlists. Text is draft at this point.*
 
 These backgrounds are the product of a befuddled AI intrepreting Spotify as the sole source of all truth about Earth 2020X; the AI has created avatars based on song titles to send to Earth, blend in  and observe the locals. That's gonna go well...
 

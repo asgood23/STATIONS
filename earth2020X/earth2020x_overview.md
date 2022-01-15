@@ -18,6 +18,8 @@ permalink: earth-2020X
 
 ## Playlists ##
 
+Stations maintains the following Spotify playlists for you to use for character generation and worldbuilding in your games, Earth 2020X or otherwise.
+
 - [Backgrounds](https://open.spotify.com/playlist/5peJMvNPWE4rLbZkN9cW9t?si=d448d6f1443f481c)
 - [Skills](https://open.spotify.com/playlist/06NCCIhZmCMp5UXZv1OJWX?si=55c6a214e4004f0a)
 - [Spells](https://open.spotify.com/playlist/5MFCzwtOlvJnoN1Rbljy61?si=1fba8df21e1846fb)
@@ -27,3 +29,5 @@ permalink: earth-2020X
 - [Tattoos](https://open.spotify.com/playlist/2bqNuOZdLIxMI3zRMogcXw?si=264f3f166ea84873)
 
 *If you like an artist's music, consider buying it directly from them*
+
+**

@@ -199,6 +199,30 @@ Anyone you punch instantly supports the working class.
 
 You can punch a clock and stop time, releasing workers from their ordeal, while the capitalists remain bound to the yoke of time.
 
+
+
+---
+## Tiny Time Technician
+---
+**Possessions**
+
+* Tiny timepieces
+* Tiny tools in a tiny toolbox
+* Time tree trimmers
+* Time trap
+* _Three-Volume Tome of Tiny Time Taming. Time Tree Trimming & Time Trapping_
+
+**Skills**
+
+* 3 Time 
+* 3 Time tooling
+* 3 Time taming
+* 2 Time trapping
+* 2 Time tree trimming
+
+**Special**
+You can disassemble and fix any timepiece, and set it to any time. You always know exactly what time it is, down to the nanosecond.
+
 ---
 
 ## Xylophage Xylophonist 

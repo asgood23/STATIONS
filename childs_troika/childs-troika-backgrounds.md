@@ -14,6 +14,8 @@ An in-progress collection of alliterative Troika backgrounds to help young witch
 
 Text is draft and subject to change.
 
+Public domain illustrations for now; goal is to have all backgrounds illustrated in a Victorian children's book style.
+
 ## Backgrounds A-Z
 {: .no_toc }
 1. TOC
@@ -58,6 +60,8 @@ By eating a small sample of dirt, you can tell exactly where it came from and wh
 ---
 
 You are a fancy and fantastic fox farmer. You are also actually a Fox. You raise foxes to dance and fly and generally be fantastic.
+
+![mister fox](../img/childs/misterfox.jpg)
 
 **Possessions**
 

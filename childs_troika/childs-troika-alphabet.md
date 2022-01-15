@@ -10,6 +10,10 @@ nav_order: 3
 
 *Being a Primer on the Known and Unknown Spheres, their Divers Inhabitants, and the Spells and Many Oddities Therein.* 
 
+An in-progress collection of alliterative Troika backgrounds to help young witches and wizards learn the alphabet.
+
+Inspired by Victorian children's alphabet books.
+
 ![Librarians by Evelyn Moreau](../img/librarian4.jpg)
 
 (Librarians illustrations from [Eveyln Moreau's patreon](https://www.patreon.com/evlynmoreau/))

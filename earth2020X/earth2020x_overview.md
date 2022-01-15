@@ -30,4 +30,4 @@ Stations maintains the following Spotify playlists for you to use for character 
 
 *If you like an artist's music, consider buying it directly from them*
 
-**
+*On these playlists, the songs, lyrics or artists do not reflect our beliefs or values. While we don’t intentionally add anything horrible e.g. racist, sexist, classist, homophobic, fascist, hate-filled, etc, we don’t fully vet every artist and every lyric. PLEASE, if you notice that an artist is horrible in any of the ways in the list above, let us know and we’ll remove it.*

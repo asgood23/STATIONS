@@ -10,7 +10,7 @@ permalink: childs-troika-backgrounds
 
 An in-progress collection of alliterative Troika backgrounds to help young witches and wizards learn the alphabet.
 
-Text is draft and subject to change.
+Text is draft and subject to change. Background descriptions might become more uniform, sounding alliterative and poetic. Or not.
 
 Public domain illustrations for now; goal is to have all backgrounds illustrated in a Victorian children's book style.
 

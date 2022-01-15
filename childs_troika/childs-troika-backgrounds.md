@@ -8,8 +8,6 @@ permalink: childs-troika-backgrounds
 # A Child's Troika Alphabet Backgrounds
 {: .no_toc }
 
-*Backgrounds for a Child's Troika Alphabet*
-
 An in-progress collection of alliterative Troika backgrounds to help young witches and wizards learn the alphabet.
 
 Text is draft and subject to change.

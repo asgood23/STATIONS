@@ -25,7 +25,12 @@ Public domain illustrations for now; goal is to have all backgrounds illustrated
 
 ---
 
-Dirt, delicious, dirty dirt! You dig it. You dish it. You divine things from it. You get a bit dirty. And you like it.
+Dirt, delicious, dirty dirt! 
+You dig it. 
+You dish it. 
+You divine things from it. 
+You get a bit dirty. 
+Just how you like it.
 
 **Possessions**
 
@@ -34,7 +39,7 @@ Dirt, delicious, dirty dirt! You dig it. You dish it. You divine things from it.
 * Digging tools
 * Divining rod (damage as Club)
 
-**Skills**
+**Advanced Skills**
 
 * 3 Dirt (physical, all kinds, from all over the world)
 * 3 Dirt (gossip, about everyone, everywhere)
@@ -70,7 +75,7 @@ You are a fancy and fantastic fox farmer. You are also actually a Fox. You raise
 * Flyers for_ Fantastic Fox Farm’s Freaky Flying Foxes!_
 * Fax machine
 
-**Skills**
+**Advanced Skills**
 
 * 3 Foxes
 * 2 Fox farming
@@ -99,7 +104,7 @@ Other canines (wolves, dogs, etc) are hypnotized by your fancy and fantastical s
 * Jack, apple (liqueur)
 * _Journey’s Greatest Hits_
 
-**Skills**
+**Advanced Skills**
 
 * 3 Jacking (of any type, carjacking, hijacking, dancing, jacking things up)
 * 3 Spell - Jump In Jack Flash 
@@ -155,7 +160,7 @@ You are nothing (and everything), nowhere (so, everywhere), you cannot be harmed
 
 * None
 
-**Skills**
+**Advanced Skills**
 
 * 5 Nothing
 * 4 Negation
@@ -184,7 +189,7 @@ They said you would come, a fighter for the workers, who’d punch more than jus
 * Punching gloves
 * Parrot
 
-**Skills**
+**Advanced Skills**
 
 * 3 Pugilism
 * 3 Pamphlet printing
@@ -200,19 +205,21 @@ Anyone you punch instantly supports the working class.
 You can punch a clock and stop time, releasing workers from their ordeal, while the capitalists remain bound to the yoke of time.
 
 
-
 ---
 ## Tiny Time Technician
 ---
+
+You are tiny, but your taming of time is truly tremendous.
+
 **Possessions**
 
 * Tiny timepieces
 * Tiny tools in a tiny toolbox
 * Time tree trimmers
 * Time trap
-* _Three-Volume Tome of Tiny Time Taming. Time Tree Trimming & Time Trapping_
+* _The Three-Volume Tome of Tiny Time Taming. Time Tree Trimming & Time Trapping_
 
-**Skills**
+**Advanced Skills**
 
 * 3 Time 
 * 3 Time tooling
@@ -237,7 +244,7 @@ You are a giant termite. Like your ancestors, you are exceptionally good at eati
 * X-ray machine
 * X-ray collection
 
-**Skills**
+**Advanced Skills**
 * 5 Xylophagia
 * 1 Xylophone playing
 * 1 Xbox playing

@@ -204,6 +204,33 @@ Anyone you punch instantly supports the working class.
 
 You can punch a clock and stop time, releasing workers from their ordeal, while the capitalists remain bound to the yoke of time.
 
+---
+
+## Questing Questioner of the Quotidian
+
+---
+
+Quitting your quaint and quiet quadrant of the world, you picked up a quill and began your quest to query and question the status quo. It’s led to more than a few quarrels.  
+
+**Possessions**
+
+* Quick tongue
+* Quill
+* Question book
+* Question mark(er)
+* Quota of questions (daily)
+
+**Skills**
+
+* 3 Questioning
+* 3 Questing
+* 3 Quotidia
+* 2 Quarreling
+
+**Special**
+
+You can say “I’m just asking the question” after asking a question, putting the target at -1 against attempts to harm you.
+
 
 ---
 ## Tiny Time Technician

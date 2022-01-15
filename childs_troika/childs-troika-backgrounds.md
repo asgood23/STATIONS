@@ -209,7 +209,7 @@ You can punch a clock and stop time, releasing workers from their ordeal, while 
 ## Tiny Time Technician
 ---
 
-You are tiny, but your taming of time is truly tremendous.
+You may be tiny, but your taming of time is truly tremendous.
 
 **Possessions**
 

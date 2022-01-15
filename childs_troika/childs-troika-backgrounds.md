@@ -53,6 +53,38 @@ By eating a small sample of dirt, you can tell exactly where it came from and wh
 
 ---
 
+## Fantastic Fox Farmer
+
+---
+
+You are a fancy and fantastic fox farmer. You are also actually a Fox. You raise foxes to dance and fly and generally be fantastic.
+
+**Possessions**
+
+* 2d100 Foxes
+* Fancy fineries
+* Foxtrot records
+* Flying machines
+* Flyers for_ Fantastic Fox Farm’s Freaky Flying Foxes!_
+* Fax machine
+
+**Skills**
+
+* 3 Foxes
+* 2 Fox farming
+* 2 Foxtrot
+* 2 Flying
+* 2 Flyering
+* 1 Faxing
+
+**Special**
+
+**Fox-y Friends**
+
+Other canines (wolves, dogs, etc) are hypnotized by your fancy and fantastical shows. When encountering any canine, you may Test Luck to convince them to join your retinue.
+
+---
+
 ## Mad Maker of Merry Monsters 
 
 ---

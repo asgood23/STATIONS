@@ -21,6 +21,38 @@ Text is draft and subject to change.
 
 ---
 
+## Dastardly Dealer of Delicious Dirt
+
+---
+
+Dirt, delicious, dirty dirt! You dig it. You dish it. You divine things from it. You get a bit dirty. And you like it.
+
+**Possessions**
+
+* Dirt
+* Dirty jumpsuit
+* Digging tools
+* Divining rod (damage as Club)
+
+**Skills**
+
+* 3 Dirt (physical, all kinds, from all over the world)
+* 3 Dirt (gossip, about everyone, everywhere)
+* 2 Spell - Dirt Digestion
+* 2 Dealmaking
+* 1 Derring-do
+* 1 Divining
+
+**Special**
+
+**Spell** - Dirt Digestion (2)
+
+By eating a small sample of dirt, you can tell exactly where it came from and what secrets may have been uttered in its vicinity within the past week.
+
+
+
+---
+
 ## Mad Maker of Merry Monsters 
 
 ---

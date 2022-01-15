@@ -89,6 +89,36 @@ Other canines (wolves, dogs, etc) are hypnotized by your fancy and fantastical s
 
 ---
 
+## Jill-of-all-Jacks
+
+---
+
+**Possessions**
+
+* Jack (tool)
+* Jackknife
+* Jacks (game)
+* Jack, apple (liqueur)
+* _Journey’s Greatest Hits_
+
+**Skills**
+
+* 3 Jacking (of any type, carjacking, hijacking, dancing, jacking things up)
+* 3 Spell - Jump In Jack Flash 
+* 2 Jingles & Jangles
+* 2 Jacks playing
+* 1 Jackknife Fighting
+
+**Special**
+
+You have complete knowledge of every single person named Jack who has ever existed in any sphere.
+
+**Spell**: Jump In Jack Flash
+
+Drawing on your knowledge of a specific Jack, you morph your body into a completely accurate copy of them. Lasts for 1 hour. On a critical failed casting, you are stuck as this Jack for d66 days.
+
+---
+
 ## Mad Maker of Merry Monsters 
 
 ---

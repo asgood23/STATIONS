@@ -129,6 +129,7 @@ Drawing on your knowledge of a specific Jack, you morph your body into a complet
 You make monsters. Your friends are all monsters. You made all your friends.
 
 **Possessions**
+* A band of merry monsters (2d6)
 * Magic Monocle
 * Mood Ring
 * Materials

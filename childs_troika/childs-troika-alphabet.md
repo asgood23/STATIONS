@@ -14,9 +14,8 @@ An in-progress collection of alliterative Troika backgrounds to help young witch
 
 Inspired by Victorian children's alphabet books.
 
-![Librarians by Evelyn Moreau](../img/librarian4.jpg)
+![Alphabet of Old Friends](../img/alphabet-of-old-friends.jpeg)
 
-(Librarians illustrations from [Eveyln Moreau's patreon](https://www.patreon.com/evlynmoreau/))
 
 In progress: *Backgrounds A-Z.*
 

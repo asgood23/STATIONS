@@ -14,7 +14,7 @@ An in-progress collection of alliterative Troika backgrounds to help young witch
 
 Inspired by Victorian children's alphabet books.
 
-![Alphabet of Old Friends](../img/alphabet-of-old-friends.jpeg)
+![Alphabet of Old Friends](../img/childs/alphabet-of-old-friends.jpeg)
 
 
 In progress: *Backgrounds A-Z.*

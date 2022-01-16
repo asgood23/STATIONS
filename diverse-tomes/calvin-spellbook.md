@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Backgrounds
+title: Calvin's Spellbook
 parent: Diverse Tomes
 permalink: calvins-spellbook
 ---

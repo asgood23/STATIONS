@@ -7,7 +7,7 @@ permalink: calvins-spellbook
 
 # Calvin's Spellbook
 
-*Spells created by a 7-year old. Use with caution.*
+*Spells described by a 7-year old, transcribed directly by your humble servant. Use with caution.*
 
 Periodically updated.
 

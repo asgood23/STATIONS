@@ -32,7 +32,7 @@ Work in progress, objects may have shifted during flight.
 18. **Cucumbra** - target cucumber enlarges to a door size, becoming a portal to the Umbra, land of dreams
 19.  **Chard Flesh** - transform target's flesh or outer covering into rainbow chard (with all the fragility and nutrient benefits that provides) or swiss chard (becomes militarily neutral)
 19.  **The Leek Shall Inherit the Earth** - enchants a basket of leeks; those who consume the leeks instantly gain massive social, political and economic capital and status
-19.  **Plum the Depths** - target plum becomes hollow and transparent, expanding to a size that contain the caster and one other creature, who are able to use the plum as a submersible 
+19.  **Plum the Depths** - target plum becomes hollow and transparent, expanding to a size that can contain the caster and one other creature, who are able to use the plum as a submersible 
 19.  **Blackberry is the New Black** - all of a target's clothes transform into woven blackberry vines, leaves and berries
 19.  **Not Mushroom in Here** - slowly fills a contained space (such as a closet, room or vehicle) entirely with mushrooms of all known (and undiscovered) varieties. Mix of beneficial, poisonous, and benign.
 19.  **Beets by Dre** - two target beets grow shoots that connect to each other and can be worn over the ears; beets now function as high-quality headphones

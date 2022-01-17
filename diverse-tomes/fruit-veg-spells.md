@@ -27,7 +27,7 @@ Work in progress, objects may have shifted during flight.
 13. **Cornucopia** - target ear of corn gets hotter and hotter until kernels pop, revealing the exact items the caster needs at the moment
 14. **Turnip the Heat**- target turnip emanates an earthy heat, able to warm up a small room for 24 hours
 15. **Turnip the Jams** - target turnip turns into a very loud, very bass-y speaker, bumping some serious jams
-16. **Hail a Cabbage** - transforms target cabbage into a taxi service that will transport the caster and up to 4 others to a destination, for a fee; may get lost or stuck in traffic
+16. **Hail a Cabbage** - transforms target cabbage into a taxi that will transport the caster and up to 4 others to a destination, for a fee; may get lost or stuck in traffic
 17. **Pepper Spray** - caster emits a spray of d66 ripe, whole peppers that are either: 1) painfully spicy, 2) pleasantly sweet, 3) quite mild 
 18. **Cucumbra** - target cucumber enlarges to a door size, becoming a portal to the Umbra, land of dreams
 19.  **Chard Flesh** - transform target's flesh or outer covering into rainbow chard (with all the fragility and nutrient benefits that provides) or swiss chard (becomes militarily neutral)

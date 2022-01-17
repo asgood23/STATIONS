@@ -17,10 +17,10 @@ permalink: fruit-vegetable-spells
 7. **Don’t Get Carrot Away** - target carrot becomes anchored to the spot
 8. **Melondramatic** - target melon gains sentience, speech, extreme emotions and a desire for attention
 9. **Berry Nice** - enchant berries so that anyone who eats them is berry amenable to your suggestions
-10. **Rutabad grandma** - transforms target into a very old and very grumpy rutabaga grandma
-11. **Call a Flower** pick up a flower and have a pleasant conversation with another flower anywhere in the world 
-12. **Grape Idea** target can only think about grapes for 10 minutes, or realize the perfect solution to a predicament, but it must involve grapes
-13. **Cornucopia** target ear of corn gets hotter and hotter until kernels pop, revealing the exact items the caster needs at the moment
+10. **Rutabad Grandma** - transforms target into a very old and very grumpy rutabaga grandma
+11. **Call a Flower** - pick up a flower and have a pleasant conversation with another flower anywhere in the world 
+12. **Grape Idea** - target can only think about grapes for 10 minutes, or realize the perfect solution to a predicament, but it must involve grapes
+13. **Cornucopia** - target ear of corn gets hotter and hotter until kernels pop, revealing the exact items the caster needs at the moment
 14. **Turnip the Heat**- target turnip emanates an earthy heat, able to warm up a small room for 24 hours
 15. **Turnip the Jams** - target turnip turns into a very loud, very bass-y speaker, bumping some serious jams
 16. **Hail a Cabbage** - transforms target cabbage into a taxi service that will transport the caster and up to 4 others to a destination, for a fee; may get lost or stuck in traffic
@@ -34,4 +34,9 @@ permalink: fruit-vegetable-spells
 19.  **Beets by Dre** - two target beets grow shoots that connect to each other and can be worn over the ears; beets now function as high-quality headphones
 19.  **Collared Greens** - places a collar around target green item
 19.  **Pear Down** - enchants a pear so that when it is eaten, the eater also loses skin, muscle, blood, etc
-19.  
+19.  **Lock and Kiwi** - pressing a kiwi into a lock, it transforms into the necessary key
+19.  **Jail Celery** - a bunch of celery grows in size and strength, into a cell that can detain a handful of creatures; herbivores have advantage when trying to escape
+19.  **Tomatoestoes** - target's toes become tomatoes
+19.  **Tomatose** - enchants a tomato; anyone who eats it slips into a coma lasting d6 days, emerging with absolutely knowledge of all things related to tomatoes
+19.  **Tear Down this Walnut!** - shouting this phrase at a wall, and throwing a walnut at it, the caster summons a mob of people who dismantle the wall, while the wall's keepers look on, unable to intervene
+19.   

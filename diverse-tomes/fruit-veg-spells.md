@@ -24,9 +24,9 @@ permalink: fruit-vegetable-spells
 14. **Turnip the Heat**- target turnip emanates an earthy heat, able to warm up a small room for 24 hours
 15. **Turnip the Jams** - target turnip turns into a very loud, very bass-y speaker, bumping some serious jams
 16. **Hail a Cabbage** - transforms target cabbage into a taxi service that will transport the caster and up to 4 others to a destination, for a fee
-17. **Pepper Spray** - caster emits a spray of d66 ripe, whole peppers that are either: 1) painfully spicy, 2) pleasantly sweet, 3) very mild 
+17. **Pepper Spray** - caster emits a spray of d66 ripe, whole peppers that are either: 1) painfully spicy, 2) pleasantly sweet, 3) quite mild 
 18. **Cucumbra** - target cucumber enlarges to a door size, becoming a portal to the Umbra, land of dreams
-19.  **Chard Flesh** - transform target's flesh or outer covering into rainbow chard, with all the fragility and nutrient benefits that provides
+19.  **Chard Flesh** - transform target's flesh or outer covering into rainbow chard (with all the fragility and nutrient benefits that provides) or swiss chard (becomes militarily neutral)
 19.  **The Leek Shall Inherit the Earth** - enchants a basket of leeks; those who consume the leeks instantly gain massive social, political and economic capital and status
 19.  **Plum the Depths** - target plum becomes hollow and transparent, expanding to a size that contain the caster and one other creature, who are able to use the plum as a submersible 
 19.  **Blackberry is the New Black** - all of a target's clothes transform into woven blackberry vines, leaves and berries

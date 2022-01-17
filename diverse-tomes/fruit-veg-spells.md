@@ -44,3 +44,5 @@ Work in progress, objects may have shifted during flight.
 19.  **Tomatose** - enchants a tomato; anyone who eats it slips into a coma lasting d6 days, emerging with absolutely knowledge of all things related to tomatoes
 19.  **Tear Down this Walnut!** - shouting this phrase at a wall, and throwing a walnut at it, the caster summons a mob of people who dismantle the wall, while the wall's keepers look on, unable to intervene
 19.  **Apricot** - target apricot grows in size until it can serve as a simple bed
+19.  **Kegplant** - target eggplant spouts a spigot which pours a fantastic sour ale, unending supply lasts for 24 hours.
+19.  

@@ -36,7 +36,7 @@ Work in progress, objects may have shifted during flight.
 19.  **Blackberry is the New Black** - all of a target's clothes transform into woven blackberry vines, leaves and berries
 19.  **Not Mushroom in Here** - slowly fills a contained space (such as a closet, room or vehicle) entirely with mushrooms of all known (and undiscovered) varieties. Mix of beneficial, poisonous, and benign.
 19.  **Beets by Dre** - two target beets grow shoots that connect to each other and can be worn over the ears; beets now function as high-quality headphones
-19.  **Collared Greens** - places a collar around target green item
+19.  **Collared Greens** - places a collar around target green item or creature
 19.  **Pear Down** - enchants a pear so that when it is eaten, the eater also loses skin, muscle, blood, etc
 19.  **Lock and Kiwi** - pressing a kiwi into a lock, it transforms into the necessary key
 19.  **Jail Celery** - a bunch of celery grows in size and strength, into a cell that can detain a handful of creatures; herbivores have advantage when trying to escape
@@ -45,4 +45,5 @@ Work in progress, objects may have shifted during flight.
 19.  **Tear Down this Walnut!** - shouting this phrase at a wall, and throwing a walnut at it, the caster summons a mob of people who dismantle the wall, while the wall's keepers look on, unable to intervene
 19.  **Apricot** - target apricot grows in size until it can serve as a simple bed
 19.  **Kegplant** - target eggplant spouts a spigot which pours a fantastic sour ale, unending supply lasts for 24 hours.
+19.  **The Last Strawberry** - this powerful curse causes the target strawberry to be the last strawberry that will ever be available in the region, and the last strawberry the eater will ever enjoy
 19.  

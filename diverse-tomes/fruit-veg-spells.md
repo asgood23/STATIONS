@@ -8,6 +8,10 @@ permalink: fruit-vegetable-spells
 
 # d* Fruit and Vegetable Spells
 
+Strange and unpredictable spells for veggie lovers; use at your own risk.
+
+Work in progress, objects may have shifted during flight.
+
 1. **Apple Jack** - target apple grows in size and density and can function as a jack to elevate items
 2. **Peach Impediment** - target cannot speak, because now their mouth is full of delicious peaches
 3. **Bananarang** - target banana can now be thrown as a boomerang (still edible)

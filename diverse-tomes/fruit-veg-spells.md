@@ -6,7 +6,7 @@ permalink: fruit-vegetable-spells
 
 ---
 
-# d* fruit and vegetable spells
+# d* Fruit and Vegetable Spells
 
 1. **Apple Jack** - target apple grows in size and density and can function as a jack to elevate items
 2. **Peach Impediment** - target cannot speak, because now their mouth is full of delicious peaches
@@ -21,7 +21,7 @@ permalink: fruit-vegetable-spells
 11. **Call a Flower** pick up a flower and have a pleasant conversation with another flower anywhere in the world 
 12. **Grape Idea** target can only think about grapes for 10 minutes, or realize the perfect solution to a predicament, but it must involve grapes
 13. **Cornucopia** target ear of corn gets hotter and hotter until kernels pop, revealing the exact items the caster needs at the moment
-14. **Turnip the Heat**- target turnip emanates an  earthy heat, able to warm up a small room for 24 hours
+14. **Turnip the Heat**- target turnip emanates an earthy heat, able to warm up a small room for 24 hours
 15. **Turnip the Jams** - target turnip turns into a very loud, very bass-y speaker, bumping some serious jams
 16. **Hail a Cabbage** - transforms target cabbage into a taxi service that will transport the caster and up to 4 others to a destination, for a fee
 17. **Pepper Spray** - caster emits a spray of d66 ripe, whole peppers that are either: 1) painfully spicy, 2) pleasantly sweet, 3) very mild 
@@ -31,4 +31,5 @@ permalink: fruit-vegetable-spells
 19.  **Plum the Depths** - target plum becomes hollow and transparent, expanding to a size that contain the caster and one other creature, who are able to use the plum as a submersible 
 19.  **Blackberry is the New Black** - all of a target's clothes transform into woven blackberry vines, leaves and berries
 19.  **Not Mushroom in Here** - slowly fills a contained space (such as a closet, room or vehicle) entirely with mushrooms of all known (and undiscovered) varieties. Mix of beneficial, poisonous, and benign.
-19.   
+19.  **Beets by Dre** - two target beets grow shoots that connect to each other and can be worn over the ears; beets now function as high-quality headphones
+19.  

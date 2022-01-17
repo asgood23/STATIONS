@@ -23,7 +23,7 @@ permalink: fruit-vegetable-spells
 13. **Cornucopia** target ear of corn gets hotter and hotter until kernels pop, revealing the exact items the caster needs at the moment
 14. **Turnip the Heat**- target turnip emanates an earthy heat, able to warm up a small room for 24 hours
 15. **Turnip the Jams** - target turnip turns into a very loud, very bass-y speaker, bumping some serious jams
-16. **Hail a Cabbage** - transforms target cabbage into a taxi service that will transport the caster and up to 4 others to a destination, for a fee
+16. **Hail a Cabbage** - transforms target cabbage into a taxi service that will transport the caster and up to 4 others to a destination, for a fee; may get lost or stuck in traffic
 17. **Pepper Spray** - caster emits a spray of d66 ripe, whole peppers that are either: 1) painfully spicy, 2) pleasantly sweet, 3) quite mild 
 18. **Cucumbra** - target cucumber enlarges to a door size, becoming a portal to the Umbra, land of dreams
 19.  **Chard Flesh** - transform target's flesh or outer covering into rainbow chard (with all the fragility and nutrient benefits that provides) or swiss chard (becomes militarily neutral)
@@ -32,4 +32,6 @@ permalink: fruit-vegetable-spells
 19.  **Blackberry is the New Black** - all of a target's clothes transform into woven blackberry vines, leaves and berries
 19.  **Not Mushroom in Here** - slowly fills a contained space (such as a closet, room or vehicle) entirely with mushrooms of all known (and undiscovered) varieties. Mix of beneficial, poisonous, and benign.
 19.  **Beets by Dre** - two target beets grow shoots that connect to each other and can be worn over the ears; beets now function as high-quality headphones
+19.  **Collared Greens** - places a collar around target green item
+19.  **Pear Down** - enchants a pear so that when it is eaten, the eater also loses skin, muscle, blood, etc
 19.  

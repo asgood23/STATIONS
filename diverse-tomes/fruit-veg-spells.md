@@ -45,5 +45,5 @@ Work in progress, objects may have shifted during flight.
 19.  **Tear Down this Walnut!** - shouting this phrase at a wall, and throwing a walnut at it, the caster summons a mob of people who dismantle the wall, while the wall's keepers look on, unable to intervene
 19.  **Apricot** - target apricot grows in size until it can serve as a simple bed
 19.  **Kegplant** - target eggplant spouts a spigot which pours a fantastic sour ale, unending supply lasts for 24 hours.
-19.  **The Last Strawberry** - this powerful curse causes the target strawberry to be the last strawberry that will ever be available in the region, and the last strawberry the eater will ever enjoy
+19.  **The Last Strawberry** - this curse causes the target strawberry to be the last strawberry that will ever be available in the region, and the last strawberry the eater will ever enjoy
 19.  

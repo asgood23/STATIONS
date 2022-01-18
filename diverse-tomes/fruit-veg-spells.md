@@ -55,4 +55,5 @@ Work in progress, objects may have shifted during flight.
 41. **Kyoho Ho Ho Grapes** - enchants a bunch of Kyoho grapes to cause uncontrollable laughter in anyone who eats them
 42. **Fig of Your Imagination** - target perceives a small, sentient fig doing a strange dance, just outside their peripheral vision
 43. **Eye Guarana** - a small area is instantly covered in a fully mature Guarana plant, whose berries open and function as extra eyes for the caster, even after they leave the area
-44. 
+44. **Cherry Bomb** - cherries thrown by the caster explode on contact
+45. 

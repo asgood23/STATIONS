@@ -102,6 +102,7 @@ Other canines (wolves, dogs, etc) are hypnotized by your fancy and fantastical s
 * Jackknife
 * Jacks (game)
 * Jack, apple (liqueur)
+* Jar of jackfruit jam
 * _Journey’s Greatest Hits_
 
 **Advanced Skills**

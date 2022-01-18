@@ -42,7 +42,7 @@ Work in progress, objects may have shifted during flight.
 19.  **Jail Celery** - a bunch of celery grows in size and strength, into a cell that can detain a handful of creatures; herbivores have advantage when trying to escape
 19.  **Tomatoestoes** - target's toes become tomatoes
 19.  **Tomatose** - enchants a tomato; anyone who eats it slips into a coma lasting d6 days, emerging with absolutely knowledge of all things related to tomatoes
-19.  **Tear Down this Walnut!** - shouting this phrase at a wall, and throwing a walnut at it, the caster summons a mob of people who dismantle the wall, while the wall's keepers look on, unable to intervene
+19.  **Tear Down this Walnut!** - shouting this phrase at a wall while throwing a walnut at it, the caster summons a mob of people who dismantle the wall, while the wall's keepers look on, unable to intervene
 19.  **Apricot** - target apricot grows in size until it can serve as a simple bed
 19.  **Kegplant** - target eggplant spouts a spigot which pours a fantastic sour ale, unending supply lasts for 24 hours.
 19.  **That's the Last Strawberry**! - this curse causes a target strawberry to be the last strawberry that will ever be available in the region, and the last strawberry the eater will ever enjoy
@@ -53,4 +53,6 @@ Work in progress, objects may have shifted during flight.
 39. **Kale Mary** - a spell of last resort, pounds a target with a debilitating kale storm for 15 minutes
 40. **Pomegranite** - target pomegranate explodes violently, turning its seeds (now made of solid granite) into deadly shrapnel
 41. **Kyoho Ho Ho Grapes** - enchants a bunch of Kyoho grapes to cause uncontrollable laughter in anyone who eats them
-42. 
+42. **Fig of Your Imagination** - target perceives a small, sentient fig doing a strange dance, just outside their peripheral vision
+43. **Eye Guarana** - a small area is instantly covered in a fully mature Guarana plant, whose berries open and function as extra eyes for the caster, even after they leave the area
+44. 

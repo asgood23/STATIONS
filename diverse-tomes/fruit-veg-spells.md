@@ -52,4 +52,5 @@ Work in progress, objects may have shifted during flight.
 38. **Potatose** - enchants a potato; anyone who eats it slips into a coma lasting d6 days, emerging with absolutely knowledge of all things related to potatoes
 39. **Kale Mary** - a spell of last resort, pounds a target with a debilitating kale storm for 15 minutes
 40. **Pomegranite** - target pomegranate explodes violently, turning its seeds (now made of solid granite) into deadly shrapnel
-41. 
+41. **Kyoho Ho Ho Grapes** - enchants a bunch of Kyoho grapes to cause uncontrollable laughter in anyone who eats them
+42. 

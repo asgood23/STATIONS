@@ -217,7 +217,7 @@ Quitting your quaint and quiet quadrant of the world, you picked up a quill and 
 **Possessions**
 
 * Quick tongue
-* Quill
+* Quill (damage as Sword, +1)
 * Question book
 * Question mark(er)
 * Quota of questions (daily)

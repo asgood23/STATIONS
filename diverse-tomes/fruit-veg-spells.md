@@ -57,4 +57,5 @@ Work in progress, objects may have shifted during flight.
 43. **Eye Guarana** - a small area is instantly covered in a fully mature Guarana plant, whose berries open and function as extra eyes for the caster, even after they leave the area
 44. **Cherry Bomb** - cherries thrown by the caster explode on impact
 45. **Arugulag** - a bunch of arugula grows into a prison camp
+45. **Aspearagus** - asparagus stalks thrown by the caster grow into the size, density, and impaling power of spears
 45.  

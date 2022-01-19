@@ -56,4 +56,5 @@ Work in progress, objects may have shifted during flight.
 42. **Fig of Your Imagination** - target perceives a small, sentient fig doing a strange dance, just outside their peripheral vision
 43. **Eye Guarana** - a small area is instantly covered in a fully mature Guarana plant, whose berries open and function as extra eyes for the caster, even after they leave the area
 44. **Cherry Bomb** - cherries thrown by the caster explode on impact
-45. 
+45. **Arugulag** - a bunch of arugula grows into a prison camp
+45.  

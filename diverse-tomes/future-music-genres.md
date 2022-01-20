@@ -9,7 +9,7 @@ permalink: future-music-genres
 
 Putting all the music genres and a bunch of sci fi ideas in a blender to create new music genres.
 
-![Sample image of Future Music Genre Generator](/img/future-music-teaser-2.jpg)
+![Sample image of Future Music Genre Generator](../img/future-music-teaser-2.jpg)
 
 ##	Current State
 

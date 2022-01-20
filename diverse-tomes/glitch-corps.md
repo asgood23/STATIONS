@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glitch Corps
-parent: Playlist Based Sandboxes
+parent: Diverse Tomes
 permalink: glitch-corps
 ---
 # Glitch Corps

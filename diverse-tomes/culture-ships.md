@@ -1,26 +1,12 @@
 ---
 layout: default
-title: Table of Tables
-permalink: table-of-tables
+title: Culture-Inspired Spaceship Names
+permalink: culture-ship-names
+parent: Diverse Tomes
 ---
 
-# Table of Tables
-{: .no_toc }
 
-A massive document with a bunch of tables, hyperlinked into a table at the top.
-
-Ctrl-F to find cool things.
-
-Free to use and adapt, minimal design.
-
-Will occassionally publish some tables with nicer formatting and art.
-
-## Index ##
-{: .no_toc }
-- TOC
-{:toc}
-
-## d100 Culture-inspired Spaceship Names
+# d100 Culture-inspired Spaceship Names
 
 Names for your spaceship, inspired by the Culture series by Iain M. Banks
 

@@ -1,21 +1,17 @@
 ---
 layout: default
 title: Future Music Genres
+parent: Diverse Tomes
 permalink: future-music-genres
-nav_order: 4
 ---
 
 # Future Music Genre Generator
 
-What will the music of the far future sound like?
-
-How can we hear those future genres in the music of today?
+Putting all the music genres and a bunch of sci fi ideas in a blender to create new music genres.
 
 ![Sample image of Future Music Genre Generator](/img/future-music-teaser-2.jpg)
-![Sample image of Future Music Genre Generator](/img/future-music-teaser.jpg)
 
-
-## Current State ##
+##	Current State
 
 [Lo-fi perchance generator](https://perchance.org/music-genres-draft) - seriously, there's basically no design here, use at your own risk(y) pleasure.
 

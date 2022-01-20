@@ -6,7 +6,7 @@ has_children: true
 nav_order: 5
 ---
 
-# Faceland: a Sphere of Masks, Dolls, Puppets, and the Humans Who Hide Behind Them
+# Faceland: a World of Masks, Dolls, Puppets, and the Humans Who Hide Behind Them
 
 
 Two facts about Faceland:
@@ -20,7 +20,7 @@ To get by, most humans do one of three things:
 * Control a PUPPET.
 * Possess a DOLL. 
 
-A work-in-progress sphere for Troika, planning (at least) 6 backgrounds each for Masks, Puppets, & Dolls.
+A work-in-progress setting.
 
 Maybe an adventure, too.
 

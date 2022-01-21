@@ -108,7 +108,9 @@ As always, make up other uses and effects as desired.
 | 89   | **It's Beginning to Look a Lot Like Christmas** (1) | Appearing out of thin air: Snow. Holly. Singing. Kids. Skating. Hot cocoa. Lights. Ornaments. Presents. Etc. |
 | 90   | **Slow Motion Detonation** (2)                      | Causes target to explode very, very slowly.                  |
 | 91   | **Wave of Change** (3)                              | All coins within 1 mile of the caster free themselves from the pockets, purses and banks in which they are stored and form a massive wave that surges towards a point determined by the caster. |
-| 92   | **Pause + Reset** (5)                               | Caster stops time and can rewind up to five minutes to reset the situation to its previous state. 1-in-6 chance that time resumes with slight reality distortion. |
-| 93   | **Let There Be Light Again** (2)                    | Reignites a light that has just been extinguished.           |
-| 94   |                                                     |                                                              |
+| 92   | **Pause + Reset** (4)                               | Caster stops time and can rewind up to five minutes to reset the situation to its previous state. 1-in-6 chance that time resumes with slight reality distortion. |
+| 93   | **Let There Be Light Again** (2)                    | Reignites a light that has previously been extinguished.     |
+| 94   | **Flowering Dimensions** (1)                        | Creates a local confluence of d6+3 dimensions which combine and bloom into a prismatic flower, with the colors, aromas, formations, laws of biology and physics, and psycho-medicininal properties of its origin dimensions. |
+| 95   | **Open the Light** (2)                              | Target source of light is opened, allowing the caster to peer and/or pass through. |
+| 96   |                                                     |                                                              |
 

@@ -146,4 +146,11 @@ As always, make up other uses and effects as desired. If your system allows it, 
 | 126  | **Panic Attack** (1)                                | Caster gives themself a panic attack, which sucks for the caster, but shocks those around and overwhelms them with concern for the caster. |
 | 127  | **Up in Smoke** (1)                                 | Caster suddenly and rapidly ascends in a plume of smoke.     |
 | 128  | **Water** (1)                                       | Caster can produce enough water to hydrate a small plant or creature. |
-| 129  |                                                     |                                                              |
+| 129  | **Feel the Way I Want** (1)                         | Target creature feels the way the caster wants them to feel, for 15 minutes. |
+| 130  | **Twitch** (1)                                      | Target twitches uncontrollably for 5 minutes.                |
+| 131  | **Never Ending Game** (3)                           | Enchants target game so that anyone who begins playing can never stop |
+| 132  | **Twist N Shout**  (2)                              | Target begins twisting their body in seemingly impossible ways, and hurling obscenities and curses. |
+| 133  | **Bloodcount** (1)                                  | Caster discerns the exact volume of blood in target creature, blood type, and count of red blood cells. |
+| 134  | **Twin Flame** (1)                                  | Creates a paired, twin flame of another flame anywhere in the world. |
+| 135  | **Sing Praise** (1)                                 | The caster sings a song of praise for target creature, which is convinced of the caster's utter devotion and loyalty. |
+| 136  |                                                     |                                                              |

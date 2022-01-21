@@ -327,12 +327,17 @@ You were royally born, but missing half of your blood. Your parents, to their ow
 * 2 Spell - Bloodhail
 * 2 Spell - Raining blood
 * 2 Spell - Flesh without blood
+* 2 Spell - Bloodcount
 * 2 Knife fighting 
 
 
 **Special**
 
 You must consume half your weight in blood every 24 hours or die.
+
+**Spell**: Bloodcount (1)
+
+Caster discerns the exact volume of blood in target creature, blood type, and count of red and white blood cells.
 
 [back to index](#index)
 <p></p>

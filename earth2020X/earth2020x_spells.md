@@ -136,4 +136,14 @@ As always, make up other uses and effects as desired.
 | 116  | **Copycat** (1)                                     | Creates a perfect copy of target cat, down to its personality and memories. |
 | 117  | **Actions Speak** (1)                               | A loud voice begins narrating all the actions that a target does. |
 | 118  | **Press Start** (2)                                 | A start button appears on any vehicle, object, system or process that needs to be started. The caster can press the button to get it to start. |
-| 119  |                                                     |                                                              |
+| 119  | **Slip Away** (2)                                   | The caster can just, kind of, you know, ease on out of a situation, pretty much unnoticed. |
+| 120  | **More of the Same** (2)                            | Creates some more of something.                              |
+| 121  | **Angel Eyes** (1)                                  | Caster's eyes enlarge, go all white and glow with an intense energy, |
+| 122  | **Hellmouth** (1)                                   | Caster gives their mouth over to a demon for 5 minutes, during which time the demon can say whatever they feel like saying (cursing humanity, booming out omens, begging for forgiveness, revealing secrets, etc). The demon can also hear anything the caster could hear. |
+| 123  | **Blur** (1)                                        | Blurs the view or details of something.                      |
+| 124  | **Coming Soon** (1)                                 | Target has a vague but urgent and palpable sense that *something* is coming soon. Caster can specify whether that is a good or bad something. |
+| 125  | **Spitting Image** (1)                              | Caster can spit out an image that perfectly portrays something down to the tiniest detail. This can be something the caster has seen before, or something just described to them. |
+| 126  | **Panic Attack** (1)                                | Caster gives themself a panic attack, which sucks for the caster, but shocks those around and overwhelms them with concern for the caster. |
+| 127  | **Up in Smoke** (1)                                 | Caster suddenly and rapidly ascends in a plume of smoke.     |
+| 128  | **Water** (1)                                       | Caster can produce enough water to hydrate a small plant or creature. |
+| 129  |                                                     |                                                              |

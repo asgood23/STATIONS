@@ -112,5 +112,28 @@ As always, make up other uses and effects as desired.
 | 93   | **Let There Be Light Again** (2)                    | Reignites a light that has previously been extinguished.     |
 | 94   | **Flowering Dimensions** (1)                        | Creates a local confluence of d6+3 dimensions which combine and bloom into a prismatic flower, with the colors, aromas, formations, laws of biology and physics, and psycho-medicininal properties of its origin dimensions. |
 | 95   | **Open the Light** (2)                              | Target source of light is opened, allowing the caster to peer and/or pass through. |
-| 96   |                                                     |                                                              |
-
+| 96   | **Changing Faces** (2)                              | Swaps the faces of two target creatures, lasts for 15 minutes. If both parties consent, the change can be permanent. |
+| 97   | **Triangle Cloud** (1)                              | Summons a large, dense, triangle-shaped cloud that hovers direcly above the caster or another target for one hour. |
+| 98   | **Strange Overtones** (2)                           | Enchants the caster's voice to create strange harmonics and overtones as they speak or sing, causing confusion and wonder in all who hear. |
+| 99   | **Weak Spot** (1)                                   | Identify the weak spot in any creature, item, system, situation, argument, belief system, etc. |
+| 100  | **100 Boyfriends** (2)                              | Summons 100 boyfriends to do the caster's bidding for 5 minutes. |
+| 101  | **Ecstasy (Over & Over)** (1)                       | Target is overwhelmed by waves of absolute ecstasy that repeat every minute for 15 minutes. |
+| 101  | **Into a Circle** (2)                               | The caster can immediately appear in any circle regardless of distance or physical obstacles. |
+| 102  | **Color of the Pool** (1)                           | Any of amount of contained liquid becomes the color desired by the caster. |
+| 103  | **Beast Mode** (2)                                  | Target becomes nigh-invulnerable and able to accomplish astonishing feats for 15 minutes. |
+| 104  | **Tether** (1)                                      | Creates an invisible, unbreakable tether between two objects until dismissed by the caster. |
+| 105  | **Still Light** (1)                                 | Stops any moving lights.                                     |
+| 106  | **Make Room** (2)                                   | Creates a room immediately adjacent to the room the caster currently occupies; the room fits within the overall architecture and theme of the building, and all others believe the room has always been there. 3-in-6 chance that there is something immediately useful to the caster in the room |
+| 107  | **Superblast!** (2)                                 | Knocks down and stuns everyone in a half-mile radius, including the caster. |
+| 108  | **Say Something** (1)                               | Compels a target to say something somewhat relevant to the conversation at hand, even if it's not exactly what the caster was asking for. |
+| 109  | **Get Older** (1)                                   | Ages the target d6 years.                                    |
+| 110  | **Demon Dance** (2)                                 | Summons 2d6 demons from an infernal dance party; the demons: 1) keep dancing and don't seem to notice. 2) notice observers and pull them into the dance. 3) notice their new surroundings and are really, really pissed |
+| 111  | **Cloud into River** (2)                            | Pulls a cloud down from the sky and transforms it into a river. |
+| 112  | **Hell Strike** (1)                                 | Target is struck by a terrifying, debilitating vision of hell, in which they seem themselves undergoing eternal torment. The vision may or may not be true. |
+| 113  | **Scorpion Breath** (1)                             | Caster's next exhalation is full of dry heat, grainy sand and aerosolized scorpion venom. |
+| 114  | **Open Eye Signal** (2)                             | The caster can send a brief signal to any open eye or eyes, regardless of time or distance. |
+| 115  | **Strange Attractors** (2)                          | Target object begins attracting another type of object rapidly and violently, as if compelled by an overwhelming magnet force. |
+| 116  | **Copycat** (1)                                     | Creates a perfect copy of target cat, down to its personality and memories. |
+| 117  | **Actions Speak** (1)                               | A loud voice begins narrating all the actions that a target does. |
+| 118  | **Press Start** (2)                                 | A start button appears on any vehicle, object, system or process that needs to be started. The caster can press the button to get it to start. |
+| 119  |                                                     |                                                              |

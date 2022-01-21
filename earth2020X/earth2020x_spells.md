@@ -12,7 +12,7 @@ Spell descriptions come from an AI interpreting Spotify song titles as actual sp
 
 Loosely described, spell cost listed for Troika, and some Troika-specific mechanical effects provided for some spells.
 
-As always, make up other uses and effects as desired.
+As always, make up other uses and effects as desired. If your system allows it, the caster can expend some resource to increase the effect, duration, range, etc of a spell.
 
 |      |                                                     |                                                              |
 | ---- | --------------------------------------------------- | ------------------------------------------------------------ |

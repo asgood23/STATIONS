@@ -153,4 +153,6 @@ As always, make up other uses and effects as desired. If your system allows it, 
 | 133  | **Bloodcount** (1)                                  | Caster discerns the exact volume of blood in target creature, blood type, and count of red blood cells. |
 | 134  | **Twin Flame** (1)                                  | Creates a paired, twin flame of another flame anywhere in the world. |
 | 135  | **Sing Praise** (1)                                 | The caster sings a song of praise for target creature, which is convinced of the caster's utter devotion and loyalty. |
-| 136  |                                                     |                                                              |
+| 136  | **Meltdown** (1)                                    | Target has an debilitating emotional meltdown.               |
+| 137  | **Brutal Truth** (2)                                | The caster gains knowledge of a truth so brutal it will paralyze the target; they can use that truth however they see fit. |
+| 138  |                                                     |                                                              |

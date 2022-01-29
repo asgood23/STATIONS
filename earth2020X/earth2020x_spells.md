@@ -148,7 +148,7 @@ As always, make up other uses and effects as desired. If your system allows it, 
 | 128  | **Water** (1)                                       | Caster can produce enough water to hydrate a small plant or creature. |
 | 129  | **Feel the Way I Want** (1)                         | Target creature feels the way the caster wants them to feel, for 15 minutes. |
 | 130  | **Twitch** (1)                                      | Target twitches uncontrollably for 5 minutes.                |
-| 131  | **Never Ending Game** (3)                           | Enchants target game so that anyone who begins playing can never stop |
+| 131  | **Never Ending Game** (3)                           | Enchants target game so that anyone who begins playing can never stop. |
 | 132  | **Twist N Shout**  (2)                              | Target begins twisting their body in seemingly impossible ways, and hurling obscenities and curses. |
 | 133  | **Bloodcount** (1)                                  | Caster discerns the exact volume of blood in target creature, blood type, and count of red blood cells. |
 | 134  | **Twin Flame** (1)                                  | Creates a paired, twin flame of another flame anywhere in the world. |

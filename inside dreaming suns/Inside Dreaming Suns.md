@@ -33,11 +33,7 @@ xo Stations xo
 
 ## Howling Warrens
 
-**Concept**
-
-There are a bunch of Warrens, and each Warren howls about a different thing. Stop the Warrens, Save the World.  
-
-**Design Direction**
+*There are a bunch of Warrens, and each Warren howls about a different thing. Stop the Warrens, Save the World.*  
 
 What do The Warrens want? Why are they all named Warren? Give each Warren a thing to howl about and a type of damage their howling causes. Watch season six of Buffy the Vampire Slayer.
 
@@ -45,11 +41,7 @@ What do The Warrens want? Why are they all named Warren? Give each Warren a thin
 
 ## Maze Of Little Winds  
 
-**Concept**
-
-A very pleasant maze, with very pleasant little winds.  
-
-**Design Direction**
+*A very pleasant maze, with very pleasant little winds.*  
 
 Create a table of Little Winds that are really quite nice. For each entry: name of the wind, aroma of the wind, positive effect of the wind, beloved memory that the wind stirs. Also, there's a Maze that the Little Winds flow through. Make the Maze nice too. Easy ways to get in and out, plenty of benches and areas to loaf and lounge at leisure. Pleasant maze creatures and how they help you. Plentiful and nourishing food and drink. Springtime.
 
@@ -105,11 +97,7 @@ Basically, The Office meets Grey's Anatomy meets The Odyssey. Office foibles, pr
 
 ## Born Into The Ancient Candlefingers  
 
-**Concept**
-
-Unto every 7th generation a child is born with Ancient Candlefingers: a blessing, a curse, a portent of GREAT and TERRIBLE DEEDS.  
-
-**Design Direction**
+*Unto every 7th generation a child is born with Ancient Candlefingers: a blessing, a curse, a portent of GREAT and TERRIBLE DEEDS.*  
 
 A child has been BORN with ANCIENT CANDLEFINGERS, as the prophecies have foretold. You must protect the child from those who would destroy them, help them harness the power of CANDLEFINGERS, and ensure they fulfill their GREAT and TERRIBLE PURPOSE, whatever that is.
 
@@ -117,11 +105,7 @@ A child has been BORN with ANCIENT CANDLEFINGERS, as the prophecies have foretol
 
 ## Hot Buried Facility  
 
-**Concept**
-
-It is said that out in the desert there is A FACILITY buried deep, real deep. And it's hot.  
-
-**Design Direction**
+*It is said that out in the desert there is A FACILITY buried deep, real deep. And it's hot.*  
 
 How deep is THE FACILITY buried? What happens there? Why is it so damn hot? Who runs the facility? Are they also hot? What are their stats and stuff? Who BURIED the facility and why and how and when?!
 

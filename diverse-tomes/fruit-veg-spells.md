@@ -58,4 +58,4 @@ Work in progress, objects may have shifted during flight.
 44. **Cherry Bomb** - cherries thrown by the caster explode on impact
 45. **Arugulag** - a bunch of arugula grows into a prison camp
 45. **Aspearagus** - asparagus stalks thrown by the caster grow into the size, density, and impaling power of spears
-45.  
+45.  **Agourdian Knot** - [something something knot made of gourd]

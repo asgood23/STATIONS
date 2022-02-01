@@ -57,11 +57,7 @@ Create a table of Little Winds that are really quite nice. For each entry: name 
 
 ## The Coven's Deck ##
 
-**Concept**
-
-An ancient coven becomes obssessed with building the perfect collectible card game deck.
-
-**Design Direction** 
+*An ancient coven's obssession with building the perfect collectible card game deck.*
 
 What's their game of choice? (Magic? Pokemon? Um... that Vampire card game from the 90s?) How do they fund their obsession? Whom do they want to defeat? Probably include a minigame where the actually play the card game or something.
 
@@ -69,11 +65,7 @@ What's their game of choice? (Magic? Pokemon? Um... that Vampire card game from 
 
 ## Dunes Driven To The Monarch
 
-**Concept**
-
-The Monarch has ordered the rebellious Dunes to be rounded up and driven to the palace for judgment and execution. Fight the vile Dune Drivers, defy the Monarch and ride your Dunes to freedom.
-
-**Design Direction**
+*The Monarch has ordered the rebellious Dunes to be rounded up and driven to the palace for judgment and execution. Fight the vile Dune Drivers, defy the Monarch and ride your Dunes to freedom.*
 
 The players are all Children of the Dunes, beneficiaries, servants, guardians of the great sentient, roaming Dunes that move about the planet bringing sand, spice and (some say) salvation in their wake. The Monarch has deemed the Dunes and their Children an existential threat to The One True Order.  Players battle the Dune Drivers and either escape or overthrow the Monarchy. Setting is basically Dune, obviously, but there are no sandworms and the Dunes are moving, sentient gods on which the Children of the Dunes live. Just steal names and locations from the Dune books. Psychadelic desert landscapes, strange plants bloom, spice flows.
 
@@ -81,11 +73,7 @@ The players are all Children of the Dunes, beneficiaries, servants, guardians of
 
 ## To Catch Dredged Churches  
 
-**Concept**
-
-After a millennia stuck in the muck and filth of the world, ancient sentient Churches creak to life, cause havoc and evade escape.  
-
-**Design Direction**
+*After a millennia stuck in the muck and filth of the world, ancient sentient Churches creak to life, cause havoc and evade escape.*  
 
 What's the deal with these Churches? They need, like, motivations, stats, backstories, relationships, factions, treasures inside, caretakers probably. Are the Churches allied? Are they all of the same religion? What kind of havoc do they cause? Who is responsible for catching the Churches, and why do they always fail spectacularly at it? Bonus points for detailed Church Pursuit rules.
 
@@ -93,11 +81,7 @@ What's the deal with these Churches? They need, like, motivations, stats, backst
 
 ## Night to Kill the Sun  
 
-**Concept**
-
-You and your friends have one night to kill the sun. Which is challenging because it is night and you can't see the sun and also it's really really far away.  
-
-**Design Direction**
+*You and your friends have one night to kill the sun. Which is challenging because it is night and you can't see the sun and also it's really, really far away.*  
 
 The PCs have to find a way to see and then kill the sun despite the fact that it is night. Meandering philosophical arguments about the meaning of "night" and "day." Crazed schemes due to failure. The Sun probably has vastly powerful minions that don't even acknowledge the PCs. Whose idea was it to kill the Sun again? Don Quixote meets Dazed and Confused.
 
@@ -105,11 +89,7 @@ The PCs have to find a way to see and then kill the sun despite the fact that it
 
 ## Outside A Defeated Reptile  
 
-**Concept**
-
-After a month-long battle, your party has defeated a behemoth reptile god. Your comrades have entered the vast carcass searching for loot. You drew the short straw and have to remain outside, keeping watch.  
-
-**Design Direction**
+*After a month-long battle, your party has defeated a behemoth reptile god. Your comrades have entered the vast carcass searching for loot. You drew the short straw and have to remain outside, keeping watch.*  
 
 Watch the clouds. Kick some rocks. Complain to your familiar. Think about the friends you made (and lost) along the way. Climb and crawl and explore the outside of the carcass; maybe there's some good loot on the outside? Needs a table of junk (and some treasure) found on the carcass of the reptile god, maybe a map of the carcass. Table of types of clouds and what shapes the character sees in them. Table of threats the player is supposed to be looking out for.
 
@@ -117,11 +97,7 @@ Watch the clouds. Kick some rocks. Complain to your familiar. Think about the fr
 
 ## Gods Inflame the Tooth
 
-**Concept** 
-
-A dentist office specializing in oral ailments caused by vindictive deities. 
-
-**Design Direction**
+*A dentist office specializing in oral ailments caused by vindictive deities.* 
 
 Basically, The Office meets Grey's Anatomy meets The Odyssey. Office foibles, pranks, tensions, romance. Someone is secretly a God. Staff is probably mix of humans and magical creatures. What are some of the oral ailments? Who certifies this office? What insurance do they take? Instead of character sheets, create intake forms. Bonus points for "tooth"/"truth" puns. Create an Into the Odd hack called "Into the Mouth".
 

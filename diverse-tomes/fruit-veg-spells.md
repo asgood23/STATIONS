@@ -45,7 +45,7 @@ Work in progress, objects may have shifted during flight.
 19.  **Tear Down this Walnut!** - shouting this phrase at a wall while throwing a walnut at it, the caster summons a mob of people who dismantle the wall, while the wall's keepers look on, unable to intervene
 19.  **Apricot** - target apricot grows in size until it can serve as a simple bed
 19.  **Kegplant** - target eggplant spouts a spigot which pours a fantastic sour ale, unending supply lasts for 24 hours.
-19.  **That's the Last Strawberry**! - this curse causes a target strawberry to be the last strawberry that will ever be available in the region, and the last strawberry the eater will ever enjoy
+19.  **That's the Last Strawberry**! - this curse causes a target strawberry to be the last strawberry that will ever be available in the region, and/or the last strawberry the eater will ever enjoy
 19.  **Lemon, Aide!** - the caster shouts these words into the air, and life hands them a lemon, which somehow provides them the exact assistance they require
 19.  **Lettuce Pray** - holding a head of lettuce above their head, the caster instills a sense of calm religious wonder in a crowd
 19.  **Potatoestoes** - target's toes become potatoes
@@ -58,4 +58,14 @@ Work in progress, objects may have shifted during flight.
 44. **Cherry Bomb** - cherries thrown by the caster explode on impact
 45. **Arugulag** - a bunch of arugula grows into a prison camp
 45. **Aspearagus** - asparagus stalks thrown by the caster grow into the size, density, and impaling power of spears
+45. **Scarrot** - the caster holds up a carrot; anyone viewing the carrot sees it not as a carrot but as their worst nightmare
+45. **Doomsday Pepper** - target pepper grows into an impenetrable, indestructible bunker with room for four and provisions to last 2d6 days
+45. **Pumpkinship** - all pumpkins and other gourds within 25 feet of the caster sprout arms and legs and will do the bidding of the caster, whom they see as a long lost cousin
+45. **Zoocchini** - target zucchini splits open an 2d6 random zoo animals pour out and expand into their full sizes
+45. **Artichoke** - target chokes on a small artichoke now caught in their throat
+45. **Lime After Lime** - the caster can pull up to 2d100 limes from their pocket or other small space, one after another
+45. 
+45. ...
+45. 
+45. **Potatotality** - [something about the totality]
 45.  **Agourdian Knot** - [something something knot made of gourd]

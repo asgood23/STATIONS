@@ -10,11 +10,11 @@ permalink: inside-dreaming-suns
 
 (illustration by [perplexing ruins](https://www.perplexingruins.com/))
 
-I found out about the [Random Adventure Jam](https://itch.io/jam/random-adventure-jam) with about two weeks left for submissions; not enough time (for me, at least) to create an *actual* adventure, but PLENTY of time to create a bunch of short sketches of *potential* adventures, and to enlist some talented Discordians to contribute.  
+I found out about the [Random Adventure Jam](https://itch.io/jam/random-adventure-jam) with about two weeks left for submissions; not enough time (for me, at least) to create an *actual* adventure, but PLENTY of time to create a bunch of short sketches of *potential* adventures (think of them as "adventure-design-hooks", and to enlist some talented Discordians to contribute.  
 
 Below are the results of this mini jam-within-a-jam. Most of my entries skew on the absurd side, but there are more serious ideas throughout, especially from my friends on Discord. Read through for ideas, or play this like a mini-meta-adventure-design-design-adventure:
 
-1. Get some friends together
+1. Get some friends together (or get yourself together)
 2. Roll a dXXX and go to the corresponding entry
 3. Develop the idea into a full-fledged adventure and get in touch
 

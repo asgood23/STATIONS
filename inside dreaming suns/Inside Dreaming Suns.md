@@ -20,8 +20,6 @@ Below are the results of this mini jam-within-a-jam. Most of my entries skew on 
 
 Seriously though, if you do want to riff on these ideas and develop something with them, just let us know; each entry has a link to its creator so you can get in touch with them directly. The rights to their words remain with them.
 
-Any unattributed adventure sketches are from Stations (Adam, Jamie and Rick).
-
 Thanks for reading, and thanks to [Loot the Room](https://loottheroom.uk/) for the [random title generator](https://loottheroom.uk/random-adventure-title-generator), the game jam, and the friends we made along the way.
 
 xo Stations xo

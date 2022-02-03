@@ -10,8 +10,8 @@ permalink: crow-up-to
 
 
 
-| 1  | Being eaten by a hawk.                   | How much is left?                     |
 | -- | ---------------------------------------- | ------------------------------------- |
+| 1  | Being eaten by a hawk.                   | How much is left?                     |
 | 2  | Being loud.                              | Why?                                  |
 | 3  | Breathing its last breath.               | What killed it?                       |
 | 4  | Choking on something.                    | What did it eat?                      |

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fruit and Vegetable Spells
-parent: Diverse Tomes
+parent: Table of Tables
 permalink: fruit-vegetable-spells
 
 ---

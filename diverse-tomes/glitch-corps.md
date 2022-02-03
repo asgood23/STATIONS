@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glitch Corps
-parent: Diverse Tomes
+parent: Table of Tables
 permalink: glitch-corps
 ---
 # Glitch Corps

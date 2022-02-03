@@ -2,7 +2,7 @@
 layout: default
 title: Culture-Inspired Spaceship Names
 permalink: culture-ship-names
-parent: Diverse Tomes
+parent: Table of Tables
 ---
 
 

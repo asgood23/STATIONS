@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Future Music Genres
-parent: Diverse Tomes
+parent: Table of Tables
 permalink: future-music-genres
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calvin's Spellbook
-parent: Diverse Tomes
+parent: Table of Tables
 permalink: calvins-spellbook
 ---
 

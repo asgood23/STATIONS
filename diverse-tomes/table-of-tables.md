@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Diverse Tomes
-permalink: diverse-tomes
+title: Table of Tables
+permalink: table-of-tables
 has_children: true
 ---
 
-# Diverse Tomes
+# Table of Tables
 
 Miscellaneous collection of spellbooks, bestiaries, etc.
 Contents may have shifted during flight.

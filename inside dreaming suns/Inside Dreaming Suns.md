@@ -107,67 +107,83 @@ A child has been BORN with ANCIENT CANDLEFINGERS, as the prophecies have foretol
 
 How deep is THE FACILITY buried? What happens there? Why is it so damn hot? Who runs the facility? Are they also hot? What are their stats and stuff? Who BURIED the facility and why and how and when?!
 
+---
 
+## Between Their Abundant Bears  
 
-|      | Title                               | Concept                                                      | Design Direction                                             |
-| ---- | ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|      |                                     |                                                              |                                                              |
-|      |                                     |                                                              |                                                              |
-| 3    | Between Their Abundant Bears        | There's a mysterious "They" who have LOTS of bears.          | Play to find out who They are, why they have so many bears, and WHAT LIES BETWEEN their abundant bears. Bonus points for creating playbooks for every single type of bear. This is probably Powered by the (Bear) Apocalypse. |
-| 4    | To Find a Stone                     | (no concept)                                                 | Go out and find a stone. Write detailed notes about how you did it. |
-| 5    | Treasure Harvest                    | Treasures planted in the ground grow into more treasure that can be harvested. This is obviously a big deal. | What are these treasures? By what sorcery do they grow like crops? What rituals accompany the harvesting? What's wrong with this year's harvest? What do people eat if the only thing they harvest is TREASURE? Create a very elaborate inventory management system and bartering rules. |
-| 6    |                                     |                                                              |                                                              |
-| 7    | The Songsmith's Doom                | A songsmith at the peak of their craft is DOOMED.            | What kind of music does the Songsmith create? How many albums have they produced. What do their album covers look like? How do their fans dress? Design an entire adventure that doesn't address the Doom aspect at all. |
-|      |                                     |                                                              |                                                              |
-| 9    | Aboard Shimmering Bodies            | A peaceful microbiome of fleas, fungus and other small creatures develop in the armpits and crotches of Twilight vampires. | Have fun with that one.                                      |
-| 10   | The Songsmith's Light               | Sequel or prequel or reboot of The Songsmith's Doom, focused on more aspects of the Songsmith. | As "The Songsmith's Doom", explore all aspects of the Songsmith EXCEPT the light from the title. |
-|      |                                     |                                                              |                                                              |
-| 12   | Weighing Beginnings on the Dim God  | As a once bright and mighty God slowly dims into nothingness, their assistants huddle on the God's body and attempt to write a new beginning for the universe. | What domain did the God oversee? Why are they DIMMING? Who are these assistants and why are they so presumptious to assume that they can write new beginnings? How do they "weigh" these proposed beginnings? Is there like a writer's room or something? You could make this into a competitve game where each assistant has to write and pitch a unique beginning to impress the others. |
-| 13   | The Curse Layer's Hall              | A dying Curse Layer goes on a final walk of their master's Great Hall, reminiscing about their life and laying a few final curses. | This one is probably more like a worldbuilding or story game. Sounds kind of fun actually. Tell the story of the Curse Layer, the House they serve, the curses they've created, and how those various histories are embedded in the Great Hall. Could make for a cool adventure location afterwords. |
-|      |                                     |                                                              |                                                              |
-|      |                                     |                                                              |                                                              |
-| 16   | Moon Born Into The Dungeon          | There's a dungeon so immense it can contain celestial bodies. A Moon was born into this dungeon. | Damn, this one is epic! Adventure hook: find the Moon Born into the Dungeon and help it escape. But seriously, how? How does one even build such a dungeon, much less maintain it? How does the Moon move, how was it born? Easy way out: the Moon is personsified as are all the celestial bodies in the dungeon, in which case it's just a basic dungeon with a bunch of stars painted on it and stuff. Don't take the easy way out. |
-| 17   | In Thrall To Springs Reptiles       | Obsessive herpetologists on spring break travel to a remote island that is just stupid with reptiles. | Mix of finding reptiles, studying reptiles, obsessively arguing over the characteristics of reptiles, bringing reptiles treats, etc, 1-in-20 chance a reptile is a whole new species, but then WHO GETS NAMING RIGHTS? Bestiary is just all the known reptiles. Standard island locations, all have reptiles. Also, Spring Break partying. |
-| 18   | Anomalous Little Mountain           | There's a little mountain that's ... a little ... different? |                                                              |
-|      |                                     |                                                              |                                                              |
-| 20   | Swine Escaping The Sky              | Some vile curse has caused all pigs everywhere to fear the sky and panic trying to escape it. | Each character plays as 10 pigs (at least). Give them all adorable names. Every round roll d100 and this is how many pigs are infected with THE CURSE. Detail how those pigs try to escape the sky. |
-| 21   | Lorekeeper In The Shattered Maze    | Deep within a shattered maze, an ancient Lorekeeper pores over their infinite library of lore. | Good luck getting a useful story out of the Lorekeeper; mostly they just go on and on and on about irrelevant minutiae. |
-| 22   | Behind The Extradimensional Monarch | It is well known that the Extradimensional Monarch is only a figurehead, a puppet, a meta-head on a meta-stick. But who is really in control of All Realities? | Play to discover who (or what) is the real power behind the extradimensional monarch. |
-| 23   |                                     |                                                              |                                                              |
-| 24   | Versus Simple Skies                 |                                                              |                                                              |
-| x    | Caves from The God                  | the god has created caves, as a gift to their creation       | what god?<br />caves as sacred spaces<br />etc               |
-| x    | Eight Dancing Deep                  | there are The Eight, dancing in the deep. who are they? where in the deep are they? what are their dances and their powers? |                                                              |
-| x    | Flesh Maze Of The Queen             |                                                              | i mean, it's a flesh maze, there's a queen. damn.            |
-| x    | Hammered By Little Gods             |                                                              | Hahaha                                                       |
-| x    | Aboard Floating Teeth               | a world of no land and no gods, the gods are all dead and gone, but their teeth are fricking HUGE and float on... | Types of teeth, cavities as caves, cultures of teeth, piloting a tooth, is there actually a world below? |
-| x    | Eight Death Lands                   |                                                              | yeah, eight lands of death, cool                             |
-| x    | Cup of Death Dreamers               |                                                              | Death Dreamers use cups to drink death and spit out dreams, the PCs have found one such cup, in the mountain hermitage of one of the last Death Dreamers, next to the dead Death Dreamer |
+*There's a mysterious "They" who have LOTS of bears.*  
 
+Play to find out who They are, why they have so many bears, and WHAT LIES BETWEEN their abundant bears. Bonus points for creating playbooks for every single type of bear. This is probably Powered by the (Bear) Apocalypse.
 
+---
 
+## To Find a Stone  
 
+Go out and find a stone. Write detailed notes about how you did it.
 
+---
 
+ ## Treasure Harvest  
 
+*Treasures planted in the ground grow into more treasure that can be harvested. This is obviously a big deal.*  
 
+What are these treasures? By what sorcery do they grow like crops? What rituals accompany the harvesting? What's wrong with this year's harvest? What do people eat if the only thing they harvest is TREASURE? Create a very elaborate inventory management system and bartering rules.
 
+---
 
+## The Songsmith's Doom  
 
+*A songsmith at the peak of their craft is DOOMED.*  
 
+What kind of music does the Songsmith create? How many albums have they produced. What do their album covers look like? How do their fans dress? Design an entire adventure that doesn't address the Doom aspect at all.
 
+---
 
+## The Songsmith's Light  
 
+Sequel or prequel or reboot of The Songsmith's Doom, focused on more aspects of the Songsmith.  
 
+As "The Songsmith's Doom", explore all aspects of the Songsmith EXCEPT the light from the title.
 
+---
 
+## Aboard Shimmering Bodies  
 
+*A peaceful microbiome of fleas, fungus and other small creatures develop in the armpits and crotches of Twilight vampires.*  
 
+Have fun with that one.
 
+---
 
+## Weighing Beginnings on the Dim God  
 
+*As a once bright and mighty God slowly dims into nothingness, their assistants huddle on the God's body and attempt to write a new beginning for the universe.*  
 
+What domain did the God oversee? Why are they DIMMING? Who are these assistants and why are they so presumptious to assume that they can write new beginnings? How do they "weigh" these proposed beginnings? Is there like a writer's room or something? You could make this into a competitve game where each assistant has to write and pitch a unique beginning to impress the others.
 
+---
 
+## The Curse Layer's Hall  
 
+*A dying Curse Layer goes on a final walk of their master's Great Hall, reminiscing about their life and laying a few final curses.*  
 
+This one is probably more like a worldbuilding or story game. Sounds kind of fun actually. Tell the story of the Curse Layer, the House they serve, the curses they've created, and how those various histories are embedded in the Great Hall. Could make for a cool adventure location afterwords.
+
+---
+
+## Moon Born Into The Dungeon  
+
+*There's a dungeon so immense it can contain celestial bodies. A Moon was born into this dungeon.*  
+
+Damn, this one is epic! Find the Moon Born into the Dungeon and help it escape. But seriously, how? How does one even build such a dungeon, much less maintain it? How does the Moon move, how was it born? Easy way out: the Moon is personsified as are all the celestial bodies in the dungeon, in which case it's just a basic dungeon with a bunch of stars painted on it and stuff. Don't take the easy way out.
+
+---
+
+## In Thrall To Springs Reptiles  
+
+*Obsessive herpetologists on spring break travel to a remote island that is just stupid with reptiles.*  
+
+Mix of finding reptiles, studying reptiles, obsessively arguing over the characteristics of reptiles, bringing reptiles treats, etc, 1-in-20 chance a reptile is a whole new species, but then WHO GETS NAMING RIGHTS? Bestiary is just all the known reptiles. Standard island locations, all have reptiles. Also, Spring Break partying.
+
+---
 

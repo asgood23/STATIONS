@@ -62,10 +62,10 @@ Basically, everything is chains.
 
 **Special**
 
-Spell: Chain Lightning (2)
+**Spell**: Chain Lightning (2)
 The caster summons a chain made out of lightning, which electrocutes anyone who tries to free themself from it.
 
-Spell: Disconnect (1)
+**Spell**: Disconnect (1)
 The caster can disconnect any one thing from any other thing(s) to which it is bound.
 
 [back to index](#index)
@@ -169,7 +169,7 @@ For five minutes, the target is struck by extreme paranoia and debilitating doub
 **Special**
 After you first encounter one of your fear quirks, cross it out. When all are crossed out, change “Afraid of Nothing” to “Afraid of Everything (-1 on all tests)”
 
-Spell: Airstrike (3) 
+**Spell**: Airstrike (2) 
 The caster savagely beats the air, causing it to rush towards a target and strike them (damage as Unarmed).
 
 [back to index](#index)
@@ -628,7 +628,7 @@ Accessing the quantum realm, you can understand and influence the minute chaotic
 
 **Possessions**
 
-* Fangs
+* Fangs (damage as Knife)
 
 **Advanced Skills**
 
@@ -673,9 +673,51 @@ A blinding vision of light, death and destruction, floating mercilessly above th
 
 **Special**
 
-Test Luck while disemboweling a creature; success brings you a painful vision of the nearest dragon and a sense of its general location. Failure grants you the vision, but also delivers a vision of you to the dragon.
+Test Luck while disemboweling a creature; success brings you a painful vision of the nearest dragon and a sense of its general location. Failure grants you the vision, but also delivers a vision of you to the dragon.	
 
-​	
+[back to index](#index)
+
+---
+
+## Plant Thief
+
+---
+
+Plants are not property. You liberate them and return them to all members of the One Family of Light and Love.
+
+**Tattoo**
+
+* *Love is Real*
+
+**Quirks**
+
+* Computer Face//Pure Being
+* Tenderhearted
+* Pure love
+
+**Possessions**
+
+* Lucky clover (+1 on Luck rolls)
+* Garden dove (damage as Small Beast)
+* Bags (filled with plants:)
+  * Death blooms (6, damage as Pistolet, paralyzing)
+  * Cherry blossoms (3, restore 1 Luck)
+  * Berries (3, restore 1 Stamina )
+  * Boneflower (stabilize against death)
+  * Seeds
+* invisible string
+
+**Advanced Skills**
+
+* 4 Language of flowers
+* 3 Yesterday's forest magic
+* 3 Sowing seeds
+* 2 Inbetween
+
+**Special**		
+
+Test Luck for a nearby plant to assist you in some crucial way. 
+
 
 [back to index](#index)
 

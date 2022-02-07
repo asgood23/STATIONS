@@ -293,6 +293,7 @@ Spell: Talk Words (3)
 By gathering a group of your 1 Billion Dogs, you can get each of them to say one word in perfectly clear Human, in order (up to a 20 word phrase). You can only state the phrase once, so you better hope the recipient is listening and doesn’t get so freaked out by your speech that they immediately forget what you actually said (test Luck).
 
 [back to index](#index)
+
 <p></p>
 
 ---
@@ -637,5 +638,79 @@ Accessing the quantum realm, you can understand and influence the minute chaotic
 * 2 Become death
 
 [back to index](#index)
+
+---
+
+## 14 - Dragon Slayer
+
+---
+
+A blinding vision of light, death and destruction, floating mercilessly above the ground. The empty vessel of some god hellbent on erasing dragons from the world. 
+
+**Tattoo**
+
+* *My Ego Dies at the End*
+
+**Quirks**
+
+* Beautiful, but bleak
+* Weightless
+* No eyes
+
+**Possessions**
+
+* Purity shards (6, damage as Fusil, emits light as Torch)
+* Bird and flag (bird damages as Small Beast)
+* Crystal sword (damage as Longsword)
+
+**Advanced Skills**
+
+* 3 Biblical violence (fighting with Purity Shards and Crystal Sword)
+* 2 Sonic sense
+* 2 Wetwork
+* 2 Walking in the dark
+* 2 Science / visions
+
+**Special**
+
+Test Luck while disemboweling a creature; success brings you a painful vision of the nearest dragon and a sense of its general location. Failure grants you the vision, but also delivers a vision of you to the dragon.
+
+​	
+
+[back to index](#index)
+
+---
+
+## TEMPLATE (COPY ME)
+
+---
+
+
+
+**Tattoo**
+
+* 
+
+**Quirks**
+
+* 
+
+**Possessions**
+
+* 
+
+**Advanced Skills**
+
+* 
+
+**Special**		
+
+
+
+
+
+[back to index](#index)
+
+
 
 <p></p>

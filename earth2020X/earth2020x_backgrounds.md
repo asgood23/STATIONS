@@ -683,7 +683,7 @@ Test Luck while disemboweling a creature; success brings you a painful vision of
 
 ---
 
-Plants are not property. You liberate them and return them to all members of the One Family of Light and Love.
+Plants, like information, want to be free. You liberate and return them to all members of the One Family of Light and Love.
 
 **Tattoo**
 

@@ -699,12 +699,12 @@ Plants are not property. You liberate them and return them to all members of the
 
 * Lucky clover (+1 on Luck rolls)
 * Garden dove (damage as Small Beast)
-* Bags (filled with plants:)
-  * Death blooms (6, damage as Pistolet, paralyzing)
+* Bags (filled with various plant matter:)
   * Cherry blossoms (3, restore 1 Luck)
   * Berries (3, restore 1 Stamina )
   * Boneflower (stabilize against death)
   * Seeds
+  * Death blooms (6, damage as Pistolet, paralyzing)
 * invisible string
 
 **Advanced Skills**

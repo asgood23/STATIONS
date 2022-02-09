@@ -1,1 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: G-7YFR550ESE
+
+
+logo: "/img/horiz_black@2x.png"

@@ -7,6 +7,7 @@ nav_order: 3
 ---
 
 # A Child’s Troika Alphabet
+{: .no_toc }
 
 *Being a Primer on the Known and Unknown Spheres, their Divers Inhabitants, and the Spells and Many Oddities Therein.* 
 
@@ -19,11 +20,9 @@ Inspired by Victorian children's alphabet books.
 
 
 ## Backgrounds A-Z
-
 {: .no_toc }
 
 1. TOC
-
 {:toc}
 
 ---
@@ -71,7 +70,7 @@ By eating a small sample of dirt, you can tell exactly where it came from and wh
 
 You are a fancy and fantastic fox farmer. You are also actually a Fox. You raise foxes to dance and fly and generally be fantastic.
 
-![mister fox](/Users/adamgood/Documents/GitHub/stations/img/childs/misterfox.jpg)
+![mister fox](/img/childs/misterfox.jpg)
 
 **Possessions**
 
@@ -188,7 +187,7 @@ You are nothing (and everything), nowhere (so, everywhere), you cannot be harmed
 
 ---
 
-![a pugilist](/Users/adamgood/Documents/GitHub/stations/img/childs/Tom_Cribb,_pugilist.jpeg)
+![a pugilist](/img/childs/Tom_Cribb,_pugilist.jpeg)
 
 They said you would come, a fighter for the workers, who’d punch more than just the clock, who could swing with words as well as fists!
 

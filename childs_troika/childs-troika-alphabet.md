@@ -22,7 +22,7 @@ Inspired by Victorian children's alphabet books.
 ## Backgrounds A-Z
 {: .no_toc }
 
-1. TOC
+1. 
 {:toc}
 
 ---

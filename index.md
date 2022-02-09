@@ -7,8 +7,6 @@ nav_order: 1
 
 Welcome to stations.
 
-We make the mystery greater.
-
 Here you will mostly find lots of game-ready content, presented in a clean, usable, searchable and FREE format.
 
 Use the very nifty, fast and accurate search function at the top!
@@ -29,6 +27,3 @@ Occasionally we will publish collections of this material with nice art, layout,
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/stations" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/stations', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email for occasional notifications of new games and game resources. No spam ever.</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
 
-## Meet Purson
-
-![Purson Station](/img/Pruflas.jpeg)

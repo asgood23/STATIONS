@@ -3,9 +3,11 @@ title: Home
 nav_order: 1
 ---
 
-# stations 
+#  
 
-Welcome to stations.
+![stations logo](/img/itch_logo_1.png)
+
+Welcome to Stations.
 
 Here you will mostly find lots of game-ready content, presented in a clean, usable, searchable and FREE format.
 

@@ -3,8 +3,6 @@ title: Home
 nav_order: 1
 ---
 
-#  
-
 ![stations logo](/img/itch_logo_1.png)
 
 Welcome to Stations.

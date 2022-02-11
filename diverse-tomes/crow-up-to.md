@@ -8,7 +8,7 @@ permalink: crow-up-to
 
 # What's That Crow Up To?
 
-![crow](/img/crow.jpg)
+![crow](/img/crow.jpg)	
 
 | -- | ---------------------------------------- | ------------------------------------- |
 | 1  | Being eaten by a hawk.                   | How much is left?                     |

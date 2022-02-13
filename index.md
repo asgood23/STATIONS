@@ -5,7 +5,7 @@ nav_order: 1
 
 ![stations logo](/img/itch_logo_1.png)
 
-Find **game**-friendly and **remix-reuse**-ready content, tools, and utilities in clean, usable, FREE formats. 
+Free, accessible, **remix-reuse**-ready content, tools, and utilities for your games and other wonders.  
 
 Take what you want. Use what you need. Break everything and you’ll be left with what you never knew to look for.
 

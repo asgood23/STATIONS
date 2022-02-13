@@ -14,5 +14,5 @@ Email signal at 72stations.com
 
 **Twitter**
 
-[Twitter A](https://twitter.com/asgood)
-[Twitter J](https://twitter.com/jamiegp) 
+[Twitter A](https://twitter.com/asgood)  
+[Twitter J](https://twitter.com/jamiegp)   

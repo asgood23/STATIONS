@@ -20,6 +20,7 @@ As always, make up other uses and effects as desired in discussion with your gam
 
 
 ## Spells
+{: .no_toc }
 
 |      |                                                     |                                                              |
 | ---- | --------------------------------------------------- | ------------------------------------------------------------ |

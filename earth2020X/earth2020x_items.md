@@ -15,6 +15,7 @@ Item descriptions come from an AI interpreting Spotify song titles as actual thi
 Generally, assume an item adds a +1 bonus to rolls associated with it. Make up other uses and effects as desired in discussion with your gamerunner.
 
 ## Playlist
+{: .no_toc }
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0VTAv9ZG7SkCpzTDFt1Hnl?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 

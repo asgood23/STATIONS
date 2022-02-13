@@ -20,6 +20,7 @@ As always, make up other uses and effects as desired in discussion with your gam
 
 
 ## Spells
+
 |      |                                                     |                                                              |
 | ---- | --------------------------------------------------- | ------------------------------------------------------------ |
 | 1    | **Wave of Babies (2)**                              | The caster waves at the target in a friendly, innocent, and utterly adorable manner; the target perceives the wave as coming from a beautiful baby, and is overcome with affection for the caster and will do their best to please them for a few minutes. |

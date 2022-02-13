@@ -6,7 +6,7 @@ permalink: earth-2020X-spells
 ---
 
 # Earth 2020X Spells
-*This will be a constantly expanding table of spells from the [Earth 2020X - Spells playlist](https://open.spotify.com/playlist/5MFCzwtOlvJnoN1Rbljy61?si=4c8db4ba56434b63)*
+*This will be a constantly expanding table of spells from the [Earth 2020X - Spells playlist](https://open.spotify.com/playlist/5MFCzwtOlvJnoN1Rbljy61?si=4c8db4ba56434b63){:target="_blank"}*
 Have you created your own spells from the playlist? Send them to us.
 
 Spell descriptions come from an AI interpreting Spotify song titles as actual spells that are cast by wizards on Earth.

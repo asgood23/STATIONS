@@ -1,5 +1,5 @@
 ---
-title: Connect with Stations
+title: Connect with STATIONS
 nav_order: 8
 ---
 

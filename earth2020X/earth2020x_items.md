@@ -8,8 +8,6 @@ permalink: earth-2020X-items
 # Earth 2020X Items
 *This page catalogs an expanding collection of items created using the Earth 2020X process and playlists. Have you created your own? Send it to us.*
 
-Have you created your own items from the playlist? Send them to us.
-
 Item descriptions come from an AI interpreting Spotify song titles as actual things that must exist on Earth.
 
 Generally, assume an item adds a +1 bonus to rolls associated with it. Make up other uses and effects as desired in discussion with your gamerunner.

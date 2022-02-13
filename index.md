@@ -5,25 +5,13 @@ nav_order: 1
 
 ![stations logo](/img/itch_logo_1.png)
 
-Welcome to Stations.
+Find **game**-friendly and **remix-reuse**-ready content, tools, and utilities in clean, usable, FREE formats. 
 
-Here you will mostly find lots of game-ready content, presented in a clean, usable, searchable and FREE format.
+Take what you want. Use what you need. Break everything and you’ll be left with what you never knew to look for.
 
-Use the very nifty, fast and accurate search function at the top!
+We may make not-free physical material in the future.
 
-Occasionally we will publish collections of this material with nice art, layout, etc.
+**STATIONS believes in safe, inclusive gaming.** Don't be an asshole, and keep your tables free of bigotry and hate.
 
-**This site is a very nascent rough work-in-progress**
-
-## Connect with Adam Station
-
-- adam AT therealadamgood.com - most direct way to get in touch
-- [Twitter](https://twitter.com/asgood) - mostly lurking, occasionally posting
-- [Instagram](https://www.instagram.com/adamsgood/) - ditto
-- [Pinterest](https://www.pinterest.com/adamsgood/_saved/) - so many moodboards!
-- Discord: Adam Station (he/him)#2818 (active in various weird and rules-light TTRPG communities)
-
-## Subscribe for updates
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/stations" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/stations', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email for occasional notifications of new games and game resources. No spam ever.</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+STATIONS, by definition, will always be a work-in-progress. Tell us what you think.
 

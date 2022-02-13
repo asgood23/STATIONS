@@ -8,13 +8,19 @@ permalink: earth-2020X
 
 # Earth 2020X
 
-## Overview ##
+Earth 2020X is a sphere intended for Troika! but ready to be used with any gaming system. 
 
+A distant and advanced AI has tapped into a Spotify -- its sole source of understanding Earth. It has come to believe that this is a CODEX of life on earth, the spells of it’s resident wizards, their equipment, weapons, personalities, and even their tattoos that declare their worldview and passions (because, of course, everyone on Earth would have these).
 
+The AI is remixing material from these playlists to create a small group of wizards that it is projecting across the universe onto Earth -- where they can blend in with the natives and complete the AI’s mission.
+
+What distinguishes Earth 2020X from other spheres and worlds players may be accustomed to is that Earth 2020X is *here* and *now*. As a gamerunner, you should use any and all resources to make the reality your players encounter as contemporary and immediate as possible. Individuals running Earth 2020X have used all manner of combinations of Internet-based maps, news sources, and media.
+
+The pages that follow focus on character creation. Additional material (on locations, encounters and adventures) will be added as it is developed.
 
 ## Process and Principles ##
 
-
+Use the playlists to generate Troika! backgrounds (or characters for any system you prefer). We will provide a growing list of interpretations for various playlist entries, but these are intended as directional, not canonical. Work with your gamerunner to craft whatever interpretations are most useful and interesting for your table.
 
 ## Playlists ##
 

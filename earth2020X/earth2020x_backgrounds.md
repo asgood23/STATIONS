@@ -8,13 +8,18 @@ permalink: earth-2020X-backgrounds
 # Earth 2020X Backgrounds
 {: .no_toc }
 
-*This page catalogs an expanding collection of Troika backgrounds created using the Earth 2020X process and playlists. Text is draft at this point.*
+*This page catalogs an expanding collection of Troika! backgrounds created using the Earth 2020X process and playlists. Have you created your own? Send it to us.*
 
-These backgrounds are the product of a befuddled AI intrepreting Spotify as the sole source of all truth about Earth 2020X; the AI has created avatars based on song titles to send to Earth, blend in  and observe the locals. That's gonna go well...
+These backgrounds are the product of a distant AI interpreting Spotify as the sole source of all truth about Earth. The AI has created avatars based on song titles to send to Earth, blend in with the locals, and complete a mission for the AI. That’ll be interesting.
 
-Did I mention that the AI believes that EVERYONE on Earth has a tattoo that declares their worldview and passions?
+Did we mention that the AI understand that EVERYONE on Earth has a tattoo that declares their worldview and passions?
 
-## Index
+## Playlist
+{: .no_toc }
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5peJMvNPWE4rLbZkN9cW9t?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+## Backgrounds
 {: .no_toc }
 - TOC
 {:toc}

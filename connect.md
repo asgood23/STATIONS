@@ -7,6 +7,8 @@ Email signal at 72stations.com
 
 [Our pinterest ](https://www.pinterest.com/72stations)has [many](https://www.pinterest.com/72stations/stations/), [many](https://www.pinterest.com/72stations/faceland-masks-puppets-dolls/) [moodboards](https://www.pinterest.com/72stations/childs-troika-alphabet/)
 
-[Instagram J](https://www.instagram.com/jamiegp/)  | [ Instagram A](https://www.instagram.com/adamsgood/)
+[Instagram A](https://www.instagram.com/adamsgood/)
+[Instagram J](https://www.instagram.com/jamiegp/) 
 
-[Twitter J](https://twitter.com/jamiegp)  |  [Twitter A](https://twitter.com/asgood)
+[Twitter A](https://twitter.com/asgood)
+[Twitter J](https://twitter.com/jamiegp) 

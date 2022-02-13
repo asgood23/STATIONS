@@ -8,11 +8,17 @@ permalink: earth-2020X-items
 # Earth 2020X Items
 *This will be a constantly expanding table of items from the [Earth 2020X - Stuff playlist](https://open.spotify.com/playlist/0VTAv9ZG7SkCpzTDFt1Hnl?si=4fb383509e1b4915){:target="_blank"}*
 
-*Have you created your own items from the playlist? Send them to us.*
+Have you created your own items from the playlist? Send them to us.
 
 Item descriptions come from an AI interpreting Spotify song titles as actual things that must exist on Earth.
 
 Generally, assume an item adds a +1 bonus to rolls associated with it. Make up other uses and effects as desired in discussion with your gamerunner.
+
+## Playlist
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0VTAv9ZG7SkCpzTDFt1Hnl?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+## Items
 
 |      |                               |                                                              |
 | ---- | ----------------------------- | ------------------------------------------------------------ |

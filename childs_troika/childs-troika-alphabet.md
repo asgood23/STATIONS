@@ -11,7 +11,7 @@ nav_order: 3
 
 *Being a Primer on the Known and Unknown Spheres, their Divers Inhabitants, and the Spells and Many Oddities Therein.* 
 
-An in-progress collection of alliterative Troika backgrounds to help young witches and wizards learn the alphabet.
+An in-progress collection of alliterative Troika backgrounds to help young witches and wizards **survive** **the alphabet**.
 
 Inspired by Victorian children's alphabet books.
 

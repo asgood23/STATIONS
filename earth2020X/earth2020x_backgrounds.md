@@ -686,7 +686,7 @@ Test Luck while disemboweling a creature; success brings you a painful vision of
 
 ---
 
-## Plant Thief
+## 14. Plant Thief
 
 ---
 

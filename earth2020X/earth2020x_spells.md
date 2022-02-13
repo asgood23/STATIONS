@@ -7,13 +7,19 @@ permalink: earth-2020X-spells
 
 # Earth 2020X Spells
 *This will be a constantly expanding table of spells from the [Earth 2020X - Spells playlist](https://open.spotify.com/playlist/5MFCzwtOlvJnoN1Rbljy61?si=4c8db4ba56434b63)*
+Have you created your own spells from the playlist? Send them to us.
 
-Spell descriptions come from an AI interpreting Spotify song titles as actual spells that can be cast on Earth 2020X.
+Spell descriptions come from an AI interpreting Spotify song titles as actual spells that are cast by wizards on Earth.
 
-Loosely described, spell cost listed for Troika, and some Troika-specific mechanical effects provided for some spells.
+Loosely described, spell costs are listed for Troika, and some Troika-specific mechanical effects provided for some spells.
 
-As always, make up other uses and effects as desired. If your system allows it, the caster can expend some resource to increase the effect, duration, range, etc of a spell.
+As always, make up other uses and effects as desired in discussion with your gamerunner. If your system allows it, the caster can expend resources to increase the effect, duration, range, etc of a spell.
 
+## Playlist
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5MFCzwtOlvJnoN1Rbljy61?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+## Spells
 |      |                                                     |                                                              |
 | ---- | --------------------------------------------------- | ------------------------------------------------------------ |
 | 1    | **Wave of Babies (2)**                              | The caster waves at the target in a friendly, innocent, and utterly adorable manner; the target perceives the wave as coming from a beautiful baby, and is overcome with affection for the caster and will do their best to please them for a few minutes. |

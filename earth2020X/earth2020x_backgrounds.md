@@ -12,7 +12,7 @@ permalink: earth-2020X-backgrounds
 
 These backgrounds are the product of a distant AI interpreting Spotify as the sole source of all truth about Earth. The AI has created avatars based on song titles to send to Earth, blend in with the locals, and complete a mission for the AI. That’ll be interesting.
 
-Did we mention that the AI understand that EVERYONE on Earth has a tattoo that declares their worldview and passions?
+Did we mention that the AI believes that EVERYONE on Earth has a tattoo that declares their worldview and passions?
 
 ## Playlist
 {: .no_toc }
@@ -124,7 +124,7 @@ Surrealist Names
 5. Mar
 6. Ang
 
-Spell: Fear Your Mind (2)
+**Spell**: Fear Your Mind (2)
 For five minutes, the target is struck by extreme paranoia and debilitating doubt as they begin to question and fear the workings of their own mind.
 
 [back to index](#index)
@@ -256,7 +256,7 @@ Worshipping the sun, understanding it, bathing in its glow and glory, harnessing
 **Special**
 You don’t need to eat. You get your nourishment directly from the sun, and it heals you rapidly when you bathe in it for at least one hour, stripped naked, hands behind your head, eyes wide open staring up into its eternal Glory.
 
-Spell: Sun Hands (4)
+**Spell**: Sun Hands (4)
 The caster’s hands become Sun Hands, casting the blinding light of the sun in all directions and emitting incinerating heat (2d6 burn) onto anything the caster touches. The caster is generally fine, but receives a strong sunburn on any exposed flesh.
 
 [back to index](#index)
@@ -296,7 +296,7 @@ You are 1 Billion Dogs, spread out across the planet, telepathically connected, 
 
 **Special**
 
-Spell: Talk Words (3) 
+**Spell**: Talk Words (3) 
 By gathering a group of your 1 Billion Dogs, you can get each of them to say one word in perfectly clear Human, in order (up to a 20 word phrase). You can only state the phrase once, so you better hope the recipient is listening and doesn’t get so freaked out by your speech that they immediately forget what you actually said (test Luck).
 
 [back to index](#index)
@@ -485,7 +485,7 @@ The caster is able to open a brief, direct connection with (a/the) Lord, during 
 
 **Spell**: Friendly Fire (2)
 
-The caster summons 2d6 fire sprites that will obey simple commands and attack enemies, but will not harm allies (damage as Small Beast, burn)
+The caster summons d6 fire sprites that will obey simple commands and attack enemies, but will not harm allies (damage as Small Beast, burn)
 
 **Spell**: No Mask (1)
 
@@ -521,7 +521,7 @@ I’ve heard the children sing this song about you:
 
 **Possessions**
 
-* Crushed velvet (all clothes made from, count as Modest Armour)
+* Crushed velvet (all clothes made from, counts as Modest Armour)
 * Small hat
 * Music box
 * Little boxes (each filled with a different item from the following):
@@ -554,7 +554,7 @@ I’ve heard the children sing this song about you:
 * 1 Timing
 * 1 Weeping
 
-**Special***
+***Special**
 
 There are actually infinite little boxes filled with items in your big black car. 
 Whenever you need a little box with a specific item, test Luck.
@@ -622,7 +622,7 @@ By opening themselves up to the subtle social-emotional vibrations of an adjacen
 
 *You don't know if the machine is working or not-working until you open it up.*
 
-Accessing the quantum realm, you can understand and influence the minute chaotic workings of reality. With these gifts, you were obviously put to work fixing things. To most observers, your head is mounted sideways, but when un-observed, you have multiple heads which are mounted at any and/or all angles. To access the quantum realm of any object, you have to sink your fangs into it and taste the flavor.
+Accessing the quantum realm, you can understand and influence the minute chaotic workings of reality. With these gifts, you were obviously put to work fixing things. To most observers, your head is mounted sideways, but when un-observed, you have multiple heads which are mounted at any and/or all angles. To access the quantum realm of any object, you have to sink your fangs into it and taste the multi-flavor.
 
 **Tattoo**
 

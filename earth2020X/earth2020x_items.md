@@ -6,7 +6,7 @@ permalink: earth-2020X-items
 ---
 
 # Earth 2020X Items
-*This will be a constantly expanding table of items from the [Earth 2020X - Stuff playlist](https://open.spotify.com/playlist/0VTAv9ZG7SkCpzTDFt1Hnl?si=4fb383509e1b4915){:target="_blank"}*
+*This page catalogs an expanding collection of items created using the Earth 2020X process and playlists. Have you created your own? Send it to us.*
 
 Have you created your own items from the playlist? Send them to us.
 
@@ -14,9 +14,10 @@ Item descriptions come from an AI interpreting Spotify song titles as actual thi
 
 Generally, assume an item adds a +1 bonus to rolls associated with it. Make up other uses and effects as desired in discussion with your gamerunner.
 
-## Playlist
+## Items Playlist
 {: .no_toc }
 
+(Embed is limited to 100 songs; go to the playlist for the full selection)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0VTAv9ZG7SkCpzTDFt1Hnl?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ## Items

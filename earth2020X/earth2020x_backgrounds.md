@@ -17,8 +17,9 @@ Did we mention that the AI understand that EVERYONE on Earth has a tattoo that d
 ## Playlist
 {: .no_toc }
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5peJMvNPWE4rLbZkN9cW9t?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+(Embed is limited to 100 songs; go to the playlist for the full selection)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5peJMvNPWE4rLbZkN9cW9t?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ## Backgrounds
 {: .no_toc }

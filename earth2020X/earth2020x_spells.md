@@ -6,8 +6,8 @@ permalink: earth-2020X-spells
 ---
 
 # Earth 2020X Spells
-*This will be a constantly expanding table of spells from the [Earth 2020X - Spells playlist](https://open.spotify.com/playlist/5MFCzwtOlvJnoN1Rbljy61?si=4c8db4ba56434b63){:target="_blank"}*  
-Have you created your own spells from the playlist? Send them to us.
+
+*This page catalogs an expanding collection of Troika! spells created using the Earth 2020X process and playlists. Have you created your own? Send it to us.*
 
 Spell descriptions come from an AI interpreting Spotify song titles as actual spells that are cast by wizards on Earth.
 
@@ -15,7 +15,10 @@ Loosely described, spell costs are listed for Troika, and some Troika-specific m
 
 As always, make up other uses and effects as desired in discussion with your gamerunner. If your system allows it, the caster can expend resources to increase the effect, duration, range, etc of a spell.
 
-## Playlist
+## Spells Playlist
+
+(Embed is limited to 100 songs; go to the playlist for the full selection)
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5MFCzwtOlvJnoN1Rbljy61?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 

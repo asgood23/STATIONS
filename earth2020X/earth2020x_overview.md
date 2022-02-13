@@ -36,6 +36,9 @@ Stations maintains the following Spotify playlists for you to use for character 
 - [Quirks](https://open.spotify.com/playlist/4blygdZRCuup8tyY7UamYm?si=0b5154826d4a4980) (physical, mental, emotional, social)
 - [Tattoos](https://open.spotify.com/playlist/2bqNuOZdLIxMI3zRMogcXw?si=264f3f166ea84873)
 
-*If you like an artist's music, consider buying it directly from them*
+If you like an artist’s music, please consider buying directly from them however you can.
 
-*On these playlists, the songs, lyrics or artists do not reflect our beliefs or values. While we don’t intentionally add anything horrible e.g. racist, sexist, classist, homophobic, fascist, hate-filled, etc, we don’t fully vet every artist and every lyric. PLEASE, if you notice that an artist is horrible in any of the ways in the list above, let us know and we’ll remove it.*
+The songs, lyrics, and artists on these playlists are not intended to reflect our beliefs or values at STATIONS. While we haven’t intended to add anything racist, sexist, classist, homophobic, fascist, or hate-filled, we’ve created these playlists for gameplay and haven’t had the resources to fully vet every artist and the lyrics of every song included.
+
+PLEASE, if you find an artist or song in these playlists who is horrible in any of the ways noted above, please reach out and let us know. We’ll remove them.
+

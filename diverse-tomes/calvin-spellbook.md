@@ -22,6 +22,6 @@ Periodically updated.
 9. **Meowmy Meowmy Meowmy Meowmy Meowmy Meowmy Meowmy Meowmy** - this spell instantly changes everything around you into cats, but you shall fall into the void then. Trust me, this spell is not useful at all unless you want to die, in which case it's instantly useful. Now you have the ability to die. In your dreams. Because this isn't real.
 10. **Meowfur** - turns every person around you into a cat, including you.
 10. **7-Foot Dwayne** - summons a giant Dwayne "The Rock" Johnson to do your bidding
-10. **Amongoose** - Summons a giant goose in an Among Us costume
-10. 
+10. **Amongoose** - summons a giant goose in an Among Us costume
+10. **Axolotl Questions** - everyone tells lots of axolotl jokes; when this effect wears off, everyone turns into axolotls and the world ends
 

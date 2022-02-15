@@ -1,6 +1,6 @@
 ---
 title: Connect with STATIONS
-nav_order: 9
+nav_order: 7
 ---
 
 Email signal at 72stations.com

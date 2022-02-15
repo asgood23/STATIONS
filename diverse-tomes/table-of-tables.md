@@ -2,6 +2,7 @@
 layout: default
 title: Table of Tables
 permalink: table-of-tables
+nav_order: 5
 has_children: true
 ---
 

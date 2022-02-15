@@ -3,7 +3,7 @@ layout: default
 title: Faceland
 permalink: faceland
 has_children: true
-nav_order: 5
+nav_order: 4
 ---
 
 # Faceland: a World of Masks, Dolls, Puppets, and the Humans Who Hide Behind Them

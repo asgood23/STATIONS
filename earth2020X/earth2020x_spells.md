@@ -166,4 +166,9 @@ As always, make up other uses and effects as desired in discussion with your gam
 | 135  | **Sing Praise** (1)                                 | The caster sings a song of praise for target creature, which is convinced of the caster's utter devotion and loyalty. |
 | 136  | **Meltdown** (1)                                    | Target has a debilitating emotional meltdown.                |
 | 137  | **Brutal Truth** (2)                                | The caster gains knowledge of a truth so brutal it will paralyze the target; they can use that truth however they see fit. |
-| 138  |                                                     |                                                              |
+| 138  | **Vomitself** (3)                                   | The target painfully vomits up a tiny version of itself, which is dazed, confused, and utterly defenseless for 1d4 rounds. Damage inflicted upon the tiny self is magnified 4-fold onto the original target. Stats for the tiny self are 1/4 of the original target. |
+| 139  | **Illusion of Forever** (1)                         | Target area appears to all observers to extend forever, e.g. a pit is infinitely deep, a mirror infinitely reflective, a distance between two points insurmountably far. |
+| 140  | **Tangled Up in Blue** (1)                          | Target is surrounded by a hazy blur of blue, tangible light, inextricably tangled up for 1d4 rounds. |
+| 141  | **Back to Black** (2)                               | The caster can back into a shadow and reappear out of another shadow up to d6 miles away. |
+| 142  | **Self-Immolate** (3)                               | Caster's body explodes into dancing flame, incinerating their clothing and anything flammable attached to them, but leaving their body unharmed. Lasts for 5 minutes. Unarmed attacks by the caster cause 2d6 burn damage. |
+| 143  | **Missile Command** (2)                             | Caster can alter the direction, speed, trajectory etc of a missile or other ranged weapon. |

@@ -3,7 +3,9 @@ title: Connect with STATIONS
 nav_order: 7
 ---
 
-Email signal at 72stations.com
+**Email** signal at 72stations.com
+
+**PDFs** at Itch: https://72stations.itch.io/
 
 [Our pinterest ](https://www.pinterest.com/72stations){:target="_blank"} has [many](https://www.pinterest.com/72stations/stations/){:target="_blank"}, [many](https://www.pinterest.com/72stations/faceland-masks-puppets-dolls/){:target="_blank"} [moodboards](https://www.pinterest.com/72stations/childs-troika-alphabet/){:target="_blank"}
 

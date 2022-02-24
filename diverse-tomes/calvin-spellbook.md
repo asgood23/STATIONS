@@ -3,6 +3,7 @@ layout: default
 title: Calvin's Spellbook
 parent: Table of Tables
 permalink: calvins-spellbook
+description: Spells described by a 7-year old. Use with caution.
 ---
 
 # Calvin's Spellbook

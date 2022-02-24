@@ -4,7 +4,12 @@ remote_theme: pmarsceill/just-the-docs
 # e.g, UA-1234567-89
 ga_tracking: G-7YFR550ESE
 
-
 logo: "/img/horiz_black.png"
 
 footer_content: "<a href=\"https://tinyletter.com/stations\" target=\"_blank\" rel=\"noreferrer noopener\">Subscribe to Stations Signal</a> for periodic updates and free resources."
+
+twitter:
+  username: asgood
+  card: summary 
+  
+  

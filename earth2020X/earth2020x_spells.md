@@ -172,3 +172,4 @@ As always, make up other uses and effects as desired in discussion with your gam
 | 141  | **Back to Black** (2)                               | The caster can back into a shadow and reappear out of another shadow up to d6 miles away. |
 | 142  | **Self-Immolate** (3)                               | Caster's body explodes into dancing flame, incinerating their clothing and anything flammable attached to them, but leaving their body unharmed. Lasts for 5 minutes. Unarmed attacks by the caster cause 2d6 burn damage. |
 | 143  | **Missile Command** (2)                             | Caster can alter the direction, speed, trajectory etc of a missile or other ranged weapon. |
+| 144  |                                                     |                                                              |

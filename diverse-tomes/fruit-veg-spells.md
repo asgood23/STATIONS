@@ -8,6 +8,8 @@ permalink: fruit-vegetable-spells
 
 # d* Fruit and Vegetable Spells
 
+![an image of a guarana plant that looks like eyes](/img/eye_guarana.jpeg)
+
 Strange and unpredictable spells for veggie lovers; use at your own risk.
 
 Work in progress, objects may have shifted during flight.

@@ -20,7 +20,7 @@ Generally, assume an item adds a +1 bonus to rolls associated with it. Make up o
 
 ## Items
 
-|      |                               |                                                              |
+| #    | Item                          | Description                                                  |
 | ---- | ----------------------------- | ------------------------------------------------------------ |
 | 1    | **Liberty bell**              | A small handbell that, when sounded, kindles an overwhelming desire for freedom in all who hear it. The strength of their desire inspires them to overcome any current challenges to their freedom, however extreme. |
 | 2    | **Sleep TV**                  | Seemingly normal TV that, when watched for five minutes, causes a deep, undisturbable sleep for eight hours, during which the sleeper dreams of bizarre reality shows. |

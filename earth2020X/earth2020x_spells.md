@@ -25,7 +25,7 @@ As always, make up other uses and effects as desired in discussion with your gam
 ## Spells
 {: .no_toc }
 
-|      |                                                     |                                                              |
+| #    | Spell                                               | Effect                                                       |
 | ---- | --------------------------------------------------- | ------------------------------------------------------------ |
 | 1    | **Wave of Babies (2)**                              | The caster waves at the target in a friendly, innocent, and utterly adorable manner; the target perceives the wave as coming from a beautiful baby, and is overcome with affection for the caster and will do their best to please them for a few minutes. |
 | 2    | **Sun Hands (4)**                                   | The caster’s hands become Sun Hands, casting the blinding light of the sun in all directions and emitting incinerating heat (2d6 burn) onto anything the caster touches. The caster is generally fine, but receives a strong sunburn on any exposed flesh. |

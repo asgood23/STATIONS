@@ -14,12 +14,12 @@ Quick character seeds from various lyrical worlds.
 Roll 4d20 and use in the system of your choice.
 
 {:toc}
-
+*	
 
 
 ---
 
-## King Gizzard and the Lizard Wizard
+## King Gizzard and the Lizard Wizard ##
 
 ---
 
@@ -50,14 +50,12 @@ Roll 4d20. This is you. Happy voyaging.
 
 ---
 
-## Aesop Rock
+## Aesop Rock ## 
 
 ---
 
 Roll 4d20. This is you. Go forth, spirit.
 
-|      |
-| ---- |
 
 |      | Background                    | Abilities                  | Items                             | Quirk                              |
 | ---- | ----------------------------- | -------------------------- | --------------------------------- | ---------------------------------- |

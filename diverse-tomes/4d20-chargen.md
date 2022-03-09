@@ -66,7 +66,7 @@ Roll 4d20. This is you. Go forth, spirit.
 | 6    | Father Time                   | Make a pipe outta anything | Liquid happy citizen enhancer     | Tongue full of glass               |
 | 7    | Tenderfoot Cadet              | Reinvent dream application | Book of Bitter Aspects            | Severed vision                     |
 | 8    | God Clone                     | Death chant                | Merit badge                       | Frigid liquid backbone             |
-| 9    | Bill Collector                | Manufacture medicine       | Rusty hammer                      | Comfortably numb                   |
+| 9    | Bill Collector                | Manufacture medicine       | Bazooka tooth                     | Comfortably numb                   |
 | 10   | Doom Litigant                 | Medusa glances             | Magic beans                       | Impressive wingspan                |
 | 11   | Prototype King Beserker       | Sight beyond               | Mug a frigid, mug a solar         | Human heart tattoo                 |
 | 12   | Syndicate Jackal              | Broken arrow               | Sticky panoramic contaminant      | Phony voice                        |

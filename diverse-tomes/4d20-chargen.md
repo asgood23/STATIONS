@@ -84,6 +84,8 @@ Roll 4d20. This is you. Go forth, spirit.
 ## Guided by Voices ##
 ---
 
+Roll 4d20. This is you. Gold star for you.
+
 |    | Background           | Abilities               | Items                      | Quirk                    |
 | -- | -------------------- | ----------------------- | -------------------------- | ------------------------ |
 | 1  | King Shit            | Playing solos           | Subspace biographies       | Flat beauty              |

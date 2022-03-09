@@ -86,25 +86,25 @@ Roll 4d20. This is you. Go forth, spirit.
 
 Roll 4d20. This is you. Gold star for you.
 
-|      | Background           | Abilities               | Items                      | Quirk                    |
-| ---- | -------------------- | ----------------------- | -------------------------- | ------------------------ |
-| 1    | King Shit            | Playing solos           | Subspace biographies       | Flat beauty              |
-| 2    | Pop Zeus             | Cigarette tricks        | Singing razorblade         | Amplified to rock        |
-| 3    | Psychic Pilot        | Rooster riding          | Hermit stew                | Sad baby eyes            |
-| 4    | Wrinkled Ghost       | Chicken blows           | Valuable hunting knife     | Lips of steel            |
-| 5    | Trendspotter Acrobat | Repilian beauty secrets | Lip curlers                | Aerial nostalgia         |
-| 6    | Kicker of Elves      | Standing still          | Ambergris                  | Weak flesh               |
-| 7    | Robot Boy            | Scorched earth          | Jar of cardinals           | Hunter complex           |
-| 8    | Hot Freak            | Don't stop now          | Freedom cake               | Greenface                |
-| 9    | Ex-Supermodel        | Underwater explosions   | Pink gun                   | Atom eyes                |
-| 10   | Haircut Sphinx       | Take to the sky         | Crunch pillow              | Bulldog skin             |
-| 11   | Liquid Kid           | Be the light            | Evil speakers              | In stitches              |
-| 12   | Tiny Ape             | No sky                  | Jellyfish reflector        | Strumpet eye             |
-| 13   | Creep Doctor         | Little lines            | Burning flag birthday suit | Born on seaweed          |
-| 14   | Starboy              | Mushroom art            | Gun rack                   | Awful bliss              |
-| 15   | Janitor X            | Optical hopscotch       | Zoo pie                    | Dines alone              |
-| 16   | Wondering Boy Poet   | Surgical focus          | Scary magnets              | Nothing wrong            |
-| 17   | Matter Eater Lad     | Wrecking now            | Devil doll                 | All in silence           |
-| 18   | Volcano Diver        | Big trouble             | Fool ticket                | Bad luck                 |
-| 19   | Dr. Genesis          | Car language            | Father Sgt. christmas card | Cracked up like the road |
-| 20   | Girl from the Sun    | Storm vibrations        | Pretty bombs               | Relatively sane          |
+|      | Background           | Abilities               | Items                                       | Quirk                    |
+| ---- | -------------------- | ----------------------- | ------------------------------------------- | ------------------------ |
+| 1    | King Shit            | Playing solos           | Subspace biographies                        | Flat beauty              |
+| 2    | Pop Zeus             | Cigarette tricks        | Singing razorblade                          | Amplified to rock        |
+| 3    | Psychic Pilot        | Rooster riding          | Hermit stew                                 | Sad baby eyes            |
+| 4    | Wrinkled Ghost       | Chicken blows           | Valuable hunting knife                      | Lips of steel            |
+| 5    | Trendspotter Acrobat | Repilian beauty secrets | Lip curlers                                 | Aerial nostalgia         |
+| 6    | Kicker of Elves      | Standing still          | Ambergris                                   | Weak flesh               |
+| 7    | Robot Boy            | Scorched earth          | Jar of cardinals                            | Hunter complex           |
+| 8    | Hot Freak            | Don't stop now          | Freedom cake                                | Greenface                |
+| 9    | Ex-Supermodel        | Underwater explosions   | Pink gun                                    | Atom eyes                |
+| 10   | Haircut Sphinx       | Take to the sky         | Crunch pillow                               | Bulldog skin             |
+| 11   | Liquid Kid           | Be the light            | Evil speakers                               | In stitches              |
+| 12   | Tiny Ape             | No sky                  | Jellyfish reflector                         | Strumpet eye             |
+| 13   | Creep Doctor         | Little lines            | Burning flag birthday suit                  | Born on seaweed          |
+| 14   | Starboy              | Mushroom art            | Gun rack                                    | Awful bliss              |
+| 15   | Janitor X            | Optical hopscotch       | Zoo pie                                     | Dines alone              |
+| 16   | Wondering Boy Poet   | Surgical focus          | Scary magnets                               | Nothing wrong            |
+| 17   | Matter Eater Lad     | Wrecking now            | Devil doll                                  | All in silence           |
+| 18   | Volcano Diver        | Big trouble             | Fool ticket                                 | Bad luck                 |
+| 19   | Dr. Genesis          | Car language            | _The Goldheart Mountaintop Queen Directory_ | Cracked up like the road |
+| 20   | Girl from the Sun    | Storm vibrations        | Pretty bombs                                | Relatively sane          |

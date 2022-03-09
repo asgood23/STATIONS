@@ -7,7 +7,6 @@ description: Roll 4d20 to create a character seed.
 ---
 
 # 4d20 Character Generators
-
 {: .no_toc }
 
 Quick character seeds from various lyrical worlds.

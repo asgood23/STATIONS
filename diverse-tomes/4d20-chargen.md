@@ -13,7 +13,7 @@ Quick character seeds from various lyrical worlds.
 Roll 4d20 and use in the system of your choice.
 
 {:toc}
-*	
+
 
 
 ---
@@ -78,3 +78,30 @@ Roll 4d20. This is you. Go forth, spirit.
 | 18   | Anti-Midas                    | Word murdering             | Blood sandwich                    | A dozen pair of cartoon eyes       |
 | 19   | Blurry Sasquatch              | Alley gospel               | Foie gras bust of Albert Einstein | Lazy eye                           |
 | 20   | The Impossible Kid            | Pick apart the pixels      | Levitating car                    | Christ-pose                        |
+
+---
+## Guided by Voices ##
+---
+
+|    | Background           | Abilities               | Items                      | Quirk                    |
+| -- | -------------------- | ----------------------- | -------------------------- | ------------------------ |
+| 1  | King Shit            | Playing solos           | Subspace biographies       | Flat beauty              |
+| 2  | Pop Zeus             | Cigarette tricks        | Singing razorblade         | Amplified to rock        |
+| 3  | Psychic Pilot        | Rooster riding          | Hermit stew                | Sad baby eyes            |
+| 4  | Wrinkled Ghost       | Chicken blows           | Valuable hunting knife     | Lips of steel            |
+| 5  | Trendspotter Acrobat | Repilian beauty secrets | Lip curlers                | Aerial nostalgia         |
+| 6  | Kicker of Elves      | Standing still          | Ambergris                  | Weak flesh               |
+| 7  | Robot Boy            | Scorched earth          | Jar of cardinals           | Hunter complex           |
+| 8  | Hot Freak            | Don't stop now          | Freedom cake               | Greenface                |
+| 9  | Ex-Supermodel        | Underwater explosions   | Pink gun                   | Atom eyes                |
+| 10 | Haircut Sphinx       | Take to the sky         | Crunch pillow              | Bulldog skin             |
+| 11 | Liquid Kid           | Bomb the bee-hive       | Evil speakers              | In stitches              |
+| 12 | Tiny Ape             | No sky                  | Jellyfish reflector        | Strumpet eye             |
+| 13 | Creep Doctor         | Little lines            | Burning flag birthday suit | Born on seaweed          |
+| 14 | Starboy              | Mushroom art            | Gun rack                   | Awful bliss              |
+| 15 | Janitor X            | Optical hopscotch       | Zoo pie                    | Dines alone              |
+| 16 | Wondering Boy Poet   | Surgical focus          | Scary magnets              | Nothing wrong            |
+| 17 | Matter Eater Lad     | Wrecking now            | Devil doll                 | All in silence           |
+| 18 | Volcano Diver        | Big trouble             | Fool ticket                | Bad luck                 |
+| 19 | Dr. Genesis          | Car language            | Father Sgt. christmas card | Cracked up like the road |
+| 20 | Girl from the Sun    | Storm vibrations        | Pretty bombs               | Relatively sane          |

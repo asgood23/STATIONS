@@ -108,3 +108,36 @@ Roll 4d20. This is you. Gold star for you.
 | 18   | Volcano Diver        | Big trouble             | Fool ticket                                 | Bad luck                 |
 | 19   | Dr. Genesis          | Car language            | _The Goldheart Mountaintop Queen Directory_ | Cracked up like the road |
 | 20   | Girl from the Sun    | Storm vibrations        | Pretty bombs                                | Relatively sane          |
+
+---
+
+## Death Grips ##
+
+---
+
+Roll 4d20. This is you. Beware the guillotine. Yuh.
+
+|      | Background          | Abilities                                                    | Items                        | Quirk                                                        |
+| ---- | ------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| 1    | Thief in da Night   | Face Melter                                                  | Rabid dog                    | Crow Skeleton Wings                                          |
+| 2    | Lord of the Game    | Counterfeiting                                               | Lead pipe                    | You waste your life living in altered states                 |
+| 3    | Jenny Death         | Triflin'                                                     | A Jar of Gutter Flies        | Face of a woman. Tentacles for arms.                         |
+| 4    | Lost Boy            | Sculpting                                                    | An Enigmatic Onion           | There's a python in your belly.                              |
+| 5    | Get gotter          | Shovel Fighting                                              | Loose Cigarettes             | You’ve slapped the moon. Pah Pow Boom                        |
+| 6    | Satanic Priestess   | Rubberized Skin                                              | Scalpel                      | Glowing Horns.                                               |
+| 7    | Anne Bonny          | Vomit Flies                                                  | 2d3 Thunder in Vials         | You know trash. You know clean won’t last.                   |
+| 8    | Billy Not Really    | Head Hunting                                                 | Polygraph Machine            | You have a dilemma, but you’ll win your dilemma.             |
+| 9    | Scarecrow           | Glyph Hissing                                                | Trans Am                     | You got beat up, you got bigger.                             |
+| 10   | Beyond Alive        | Creepin’                                                     | Pint of Snake Blood          | Countless Current Identities.                                |
+| 11   | The Senile King     | Taxidermy                                                    | Jet-pack                     | Golden Teeth.                                                |
+| 12   | Houdini             | Surfing Gasoline                                             | A Grease Trap                | Rabbit Ears.                                                 |
+| 13   | BB Poison           | Saboteur                                                     | Kevlar Jacket                | Satan is pleased.                                            |
+| 14   | Linda               | Once a day you can duplicate an item and have an exact replica until the next morning. | Faucet Full of Acid          | You keep calling the mothership but they ain't answering     |
+| 15   | Ex Military         | Bell Ringer                                                  | Witch Fur                    | Standing up for yourself is the best feeling you can have, even better than drugs. |
+| 16   | Jungle Bubble Maker | Forensics                                                    | War Marching drums           | \[Reboot System Now\]                                        |
+| 17   | Little Richard      | Bombing                                                      | Caddle Prod                  | You've made your beef with discotechs known.                 |
+| 18   | Cut Throat          | Beatdown                                                     | Psychotropic Steal Trap      | You just joined the rave scene.                              |
+| 19   | Edward Cullen       | Giving Bad People Good Ideas                                 | Witch Tongue                 | You are a machine, human, malformed machine, uninformed unit from a forlorn regime. |
+| 20   | More Than a Fairy   | Drunken Fighting on the Dance Floor                          | Motorcyle and a Sleeping Bag | You don't care where you're from or where you're going. It's all about where you're at. |
+
+(by [spooky jaguar productions](https://spookyjaguar.itch.io/third-sphere){:target="_blank"})

@@ -10,7 +10,10 @@ description: Roll 4d20 to create a character seed.
 {: .no_toc }
 
 Quick character seeds from various lyrical worlds.
+
 Roll 4d20 and use in the system of your choice.
+
+Create your own and [send it to us](https://72stations.com/connect.html)! (We'll put it up on the site and attribute your contribution).
 
 {:toc}
 * 

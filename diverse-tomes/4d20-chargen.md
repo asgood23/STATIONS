@@ -144,3 +144,34 @@ Roll 4d20. This is you. Beware the guillotine. Yuh.
 | 20   | More Than a Fairy   | Drunken Fighting on the Dance Floor                          | Motorcyle and a Sleeping Bag | You don't care where you're from or where you're going. It's all about where you're at. |
 
 (by [spooky jaguar productions](https://spookyjaguar.itch.io/third-sphere){:target="_blank"})
+
+---
+
+## Deerhoof ##
+
+---
+
+Roll 4d20. This is you now. Meet the perfect you.
+
+|      | Background                                  | Abilities                  | Items                  | Quirk              |
+| ---- | ------------------------------------------- | -------------------------- | ---------------------- | ------------------ |
+| 1    | Criminal of the Dream                       | Slow motion detonation     | Tiny bubbles           | Fresh born         |
+| 2    | Plant Thief                                 | Believe E.S.P.             | Wrong time capsule     | Damaged eyes       |
+| 3    | Baby Boo                                    | Manufacturing scarcity     | Midnight bicycle       | Model behavior     |
+| 4    | Twin Killers                                | Giga dance                 | Invisible birds        | Candyhands         |
+| 5    | Panda Panda Panda                           | Spirit ditties of no tone  | Epic love poem         | Flaming whiskers   |
+| 6    | Milk Man                                    | Unbar ye gates of hell     | Small axe              | Purple past        |
+| 7    | Paradise Girl                               | Describe ancient mysteries | Plastic thrills        | Rainbow silhouette |
+| 8    | Devil and His Anarchic Surrealist Retinue\* | Fraction anthem            | Acceptance speech      | Bone-dry           |
+| 9    | The Last Trumpeter Swan                     | Mountain moves             | Black pitch            | Frenzied handsome  |
+| 10   | Future Teenage Cave Artist                  | Sea moves                  | Chandelier searchlight | Sunnyside          |
+| 11   | Spirited Deerchild                          | Secret mobilization        | Jagged fruit           | Holy night fever   |
+| 12   | Dispossessor                                | God speaking               | Cast off crown         | Gold on black      |
+| 13   | The Duck                                    | Look away                  | Matchbook              | Hears echoes       |
+| 14   | Mirror Monster                              | All rise                   | Hot mint air baloon    | Halfrabbit         |
+| 15   | God 2                                       | Rat attack                 | Chatterbox             | Halfdog            |
+| 16   | Super Duper Rescue Head                     | Witchery glamour spell     | New sneakers           | Halfbird           |
+| 17   | The Galaxist                                | Milking                    | Apple bomb             | Halfmole           |
+| 18   | Dream Wanderer                              | Do parties                 | Magic star             | So small           |
+| 19   | Lemon & Little Lemon                        | Tuning a stray             | Forbidden fruits       | Trickybird         |
+| 20   | Eye Bright Bugler                           | You can see                | Xmas tree              | Despacere          |

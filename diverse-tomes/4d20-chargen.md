@@ -175,3 +175,5 @@ Roll 4d20. This is you now. Meet the perfect you.
 | 18   | Dream Wanderer                              | Do parties                 | Magic star             | So small           |
 | 19   | Lemon & Little Lemon                        | Tuning a stray             | Forbidden fruits       | Trickybird         |
 | 20   | Eye Bright Bugler                           | You can see                | Xmas tree              | Despacere          |
+
+(*) roll on the table d4 times to create your retinue

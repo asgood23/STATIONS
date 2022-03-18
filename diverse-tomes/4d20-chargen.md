@@ -177,3 +177,36 @@ Roll 4d20. This is you now. Meet the perfect you.
 | 20   | Eye Bright Bugler                           | You can see                | Xmas tree              | Despacere          |
 
 (*) roll on the table d4 times to create your retinue
+
+---
+
+## IDLES ##
+
+---
+
+Roll 4d20. This is you now. Laugh. Destroy. Stomp everywhere.
+
+|      | Background                  | Abilities               | Items                  | Quirk                               |
+| ---- | --------------------------- | ----------------------- | ---------------------- | ----------------------------------- |
+| 1    | Human Jelly                 | Caduceus Kick           | Carcinogenic Water     | Big Mirror of a Smile               |
+| 2    | Person With A Perm          | Concrete and Leather    | Hairspray              | Jaw Like a Fuck-Off Bear Trap       |
+| 3    | Car Crasher                 | False Front             | Motivational DVDs      | Loves Holding Hands                 |
+| 4    | Catcaller Killer            | Riding Wave             | Bag of Michael Keaton  | Crawls Everywhere                   |
+| 5    | Television Destroyer        | Gyrate Beautifully      | US Flag Pants          | Always Dancing                      |
+| 6    | Scum                        | Vibrate Eyes            | Rocket Fuel            | Cannot Go Slow                      |
+| 7    | Mother                      | Freddy Mercury          | 1d6 Molotovs           | Laughs at Tyrants                   |
+| 8    | Heel                        | Skin is Molotov         | Sarcasm Amputator      | Studies Gotho 1649                  |
+| 9    | Father                      | Body Full of Pins       | Cut Down Throne        | Makes wonderful cookies             |
+| 10   | Model Village Escapee       | Rollerblade Sword Fight | Katana                 | Stomps Everywhere                   |
+| 11   | Snowflake                   | Avalanche               | Spraypaint             | Friend in Every Dive Bar            |
+| 12   | Sloganeer                   | Middle Finger           | 6 Cheap Beers          | Denies All Gods                     |
+| 13   | Excommunicated Office Drone | Musical Metamorphosis   | Delay Pedal            | Always Tagging                      |
+| 14   | Blue Blood Vampire          | Hyper Caring            | Reigns                 | Never Had A Job                     |
+| 15   | Loop Smasher                | Ballroom Sway           | Crowbar                | Raises Sharks                       |
+| 16   | Barfight Gladiator          | Shrug It Off            | 1d6 Benzocaine Bottles | Never Sleeps, Dances                |
+| 17   | Baron-hearted Betrayer      | Blend In                | Asteroid Stone Mace    | Full of Hot Air                     |
+| 18   | The Worst Lover             | Mean Business           | Rollerblades           | Natural Winner Despite All Evidence |
+| 19   | Uniter                      | Cry To Me               | Snake In Boots         | Talks to Vultures                   |
+| 20   | Rottweiler                  | Arson                   | Newspaper Clippings    | Attracts Ghosts                     |
+
+(by [charvus](https://charvus.itch.io/stellar-punk-weirdos))

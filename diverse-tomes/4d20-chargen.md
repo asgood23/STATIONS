@@ -210,3 +210,34 @@ Roll 4d20. This is you now. Laugh. Destroy. Stomp everywhere.
 | 20   | Rottweiler                  | Arson                   | Newspaper Clippings    | Attracts Ghosts                     |
 
 (by [charvus](https://charvus.itch.io/stellar-punk-weirdos))
+
+---
+
+## Joanna Newsom ##
+
+---
+
+Roll 4d20. This is you now. Sparrow. Monkey. Bear. Restless, drunk and dour.
+
+|      | Background                         | Abilities                                 | Items                                                        | Quirk                                                        |
+| ---- | ---------------------------------- | ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | Midwife                            | Drag a comb through the meadow            | Bones of the birches                                         | Mica-spangled                                                |
+| 2    | Monkey                             | Skipping little stones                    | Ledger of the names of the stars                             | Dolorous with vines                                          |
+| 3    | Bear                               | Asterisms in the stars' set order         | The Lord's sword                                             | Dumbstruck with the sweetness of being                       |
+| 4    | Stable Boy                         | Dirge for the dead                        | Ties that bind (barbed and spined)                           | Restless, aimless, drunk and dour                            |
+| 5    | Heartless Hay-monger               | Spelunking                                | Fancy clothes                                                | High-fence, horse-sense, wisdom                              |
+| 6    | Sparrow                            | Insatiable shadow                         | Dun-brown gown of fur                                        | A-steeped in milk and honey                                  |
+| 7    | The Happiest Woman Among All Women | Hundred raging waters                     | Old kelp dripping with brine                                 | Courage of a clown, or a cur or a kite, jerking tight at its tether |
+| 8    | Sisyphus                           | Systems of strings                        | An apron full of boulders                                    | Mute as a rock                                               |
+| 9    | Spider's Ghost                     | Warble and rise, like a sparrow           | A cap fashioned from a page of Camus                         | Cut from cardboard and old magazines                         |
+| 10   | Sibyl Sea-Cow                      | Carry water and chop wood                 | Limitless minnows                                            | Streaked with soot, heavy-booted and wild-eyed               |
+| 11   | Endless Sleeper                    | Almost-unbearable vision                  | Sawdust and diamonds                                         | Pale-faced and grave                                         |
+| 12   | Wild Cosmia                        | Swallow sadness                           | A little white dove, made with love, made with love;<br>made with glue, and a glove, and some pliers | Grow evermore lighter and lighter                            |
+| 13   | Esme                               | Stutter and freeze                        | Murthering stake                                             | Eyes black and shiny as boots                                |
+| 14   | Little Life-Giver                  | Karate                                    | A bitter herb that blooms but one day a year, by the riverside | Only skin                                                    |
+| 15   | Impossible Bird                    | Pray and suspend                          | Candy weighing pockets down                                  | Only will speak in code                                      |
+| 16   | Cassiopeia                         | Prayer for rare grace                     | The right books                                              | Smell of a low and of a lazy cinder smoking                  |
+| 17   | Endless Toad                       | Fumbling green gentleness                 | An awfully real gun                                          | Groping blindly, hungry for anything                         |
+| 18   | Lady Bright                        | Fire below and fire above and fire within | Light, undiluted                                             | Heartbroke and inchoate                                      |
+| 19   | Three Little Babes                 | Speak my name and I appear                | Bats bringing night in                                       | Water for limbs, fire for hair                               |
+| 20   | St. George and the Dragon          | Dimming divide                            | Dried rose petals                                            | Disembodied and dustly                                       |

@@ -16,7 +16,7 @@ Roll 4d20 and use in the system of your choice.
 Create your own and [send it to us](https://72stations.com/connect.html)! (We'll put it up on the site and attribute your contribution).
 
 {:toc}
-* 
+1. 
 
 
 
@@ -241,3 +241,36 @@ Roll 4d20. This is you now. Sparrow. Monkey. Bear. Restless, drunk and dour.
 | 18   | Lady Bright                        | Fire below and fire above and fire within | Light, undiluted                                             | Heartbroke and inchoate                                      |
 | 19   | Three Little Babes                 | Speak my name and I appear                | Bats bringing night in                                       | Water for limbs, fire for hair                               |
 | 20   | St. George and the Dragon          | Dimming divide                            | Dried rose petals                                            | Disembodied and dustly                                       |
+
+---
+
+## Dan Deacon ##
+
+---
+
+Roll 4d20. This is you. Mind on fire, taking it to the max.
+
+---
+
+|      | Background                                                   | Abilities                                                | Items                                                        | Quirk                                    |
+| ---- | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
+| 1    | Bear with a Sick Band (of ghosts and cats and pigs and bats with brooms and bats<br>and wigs and rats) | All Light, Everywhere                                    | A Leaf That Is Bleeding Slowly                               | Always Running                           |
+| 2    | Beast Bee                                                    | Become a Mountain                                        | A Perfect Coat                                               | Bees Won't Leave Me Alone                |
+| 3    | Beastman                                                     | Become the Ocean (the salt, the sand, the waves)         | Big Milk                                                     | Big Teeth                                |
+| 4    | Bumble Bee Crown King                                        | Burn Bright (the fire inside is brighter than you think) | Big Old Bombs                                                | Can't Seem to Escape the Smell of Sea    |
+| 5    | Captain Tying Knots                                          | Can See With Eyes Closed                                 | Boats Made of Coats                                          | Exploded Skin                            |
+| 6    | A Crab Twice Your Size                                       | Change Your Life                                         | Body Camera                                                  | Ghost                                    |
+| 7    | The Crystal Cat                                              | Climbing into the Night Sky                              | Drums Made of Dragons                                        | Hungry for the Future                    |
+| 8    | Eddie the Rebel                                              | Dig Deep (the water deep down is safe enough to drink)   | Gliss Riffer                                                 | Languid and Bittersweet                  |
+| 9    | The Expanding Man                                            | Dream Audit                                              | Loud Loud Gong                                               | Mind on Fire                             |
+| 10   | The Horse Who Made Believe                                   | Feel Free (first you must relax before transcend)        | Phony Ropes                                                  | No Prints                                |
+| 11   | King of the Trees                                            | Feel So Fine                                             | Photographic Revolver                                        | Not So Brave                             |
+| 12   | Lion with a Shark's Head                                     | Feel the Lightning                                       | Rat Poison                                                   | Not Tired                                |
+| 13   | Meme Generator                                               | Heaven Into Ice Cream                                    | Rattlesnake Gun                                              | On Fire                                  |
+| 14   | Mr. Balloon Hands                                            | Jurassic Bark                                            | Sharp Swords                                                 | Rubber Toes                              |
+| 15   | Mystic Familiar                                              | Mighty Roar                                              | Some Bees (roll d4 for their mood whenever they are released: (1) Better Off Left Alone (2) Fell Better Off in the Throne (3) Friendly Like You and Me (4) Lazy) | Slow Like a Glue                         |
+| 16   | Old Owl                                                      | Rave                                                     | Sweet Cakes                                                  | So Lucky                                 |
+| 17   | One Black Knight                                             | Stay Sharp (time will want it smooth around the end)     | The Best Ohio Smores                                         | Ten Thousand Eyes and Four Hundred Hands |
+| 18   | Paddling Ghost                                               | Take it to the Max                                       | Tiny Little City                                             | There Are Fears I Cannot Face            |
+| 19   | Pink Batman                                                  | Turn into Crystals                                       | Two Might Steeds                                             | Wide-eyed                                |
+| 20   | Trippy Green Skull                                           | Work the Saxophone                                       | Wet Wings                                                    | Wrong So Many Times                      |

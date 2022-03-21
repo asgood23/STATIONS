@@ -6,6 +6,8 @@ permalink: calvins-spellbook
 description: Spells described by a 7-year old. Use with caution.
 ---
 
+
+
 # Calvin's Spellbook
 
 *Spells described by a 7-year old, transcribed directly by your humble servant. Use with caution.*
@@ -27,3 +29,4 @@ Periodically updated.
 | 11   | 7-Foot Dwayne                                           | Summons a giant Dwayne “The Rock” Johnson to do your bidding. |
 | 12   | Amongoose                                               | Summons a giant goose in an Among Us costume.                |
 | 13   | Axolotl Questions                                       | Everyone tells lots of axolotl jokes; when this effect wears off, everyone turns into axolotls and the world ends |
+| 14   | Holy Cow                                                | Makes cows fall from the sky until the whole world is holy and everyone eats the cows. But sorry, this is not real. IN YOUR DREAMS you can do it, but it won't ever happen. Maybe once. |

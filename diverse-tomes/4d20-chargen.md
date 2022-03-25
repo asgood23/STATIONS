@@ -274,3 +274,102 @@ Roll 4d20. This is you. Mind on fire, taking it to the max.
 | 18   | Paddling Ghost                                               | Take it to the Max                                       | Tiny Little City                                             | There Are Fears I Cannot Face            |
 | 19   | Pink Batman                                                  | Turn into Crystals                                       | Two Might Steeds                                             | Wide-eyed                                |
 | 20   | Trippy Green Skull                                           | Work the Saxophone                                       | Wet Wings                                                    | Wrong So Many Times                      |
+
+---
+
+## YES
+
+---
+
+Roll 4d20. This is you. Dance through the light, Sound Chaser.
+
+|      | Background                       | Abilities                      | Items             | Quirk                       |
+| ---- | -------------------------------- | ------------------------------ | ----------------- | --------------------------- |
+| 1    | The Prophet                      | Silent Talking                 | A Venture         | Does It Really Happen       |
+| 2    | The Messenger                    | Dancing Through the Light      | Amazing Grace     | Don't Kill The Whale        |
+| 3    | Starship Trooper                 | Friend of a Friend             | Cans and Brahms   | Every Little Thing          |
+| 4    | Machine Messiah                  | In the Tower                   | Final Eyes        | I Would Have Waited Forever |
+| 5    | Holy Lamb                        | Into the Lens                  | Solly's Beard     | It's Over                   |
+| 6    | Harold Land                      | Long Distance Runaround        | Sweet Dreams      | Leave It                    |
+| 7    | Dear Father                      | Perpetual Change               | Time and a Word   | Turn of the Century         |
+| 8    | Big Generator                    | Rhythm of Love                 | White Car         | We Have Heaven              |
+| 9    | Astral Traveller                 | Shock to the System            | Fist of Fire      | Let's Pretend               |
+| 10   | Spirit of Survival               | Second Attention               | Birthright        | We Agree                    |
+| 11   | Siberian Khatru                  | Tempus Fugit                   | Miracle of Life   | Something's Coming          |
+| 12   | The Fish                         | Shoot High Aim Low             | The Ladder        | I'm Running                 |
+| 13   | Sound Chaser                     | Magnification                  | Time and a Word   | Golden Age                  |
+| 14   | Roundabout                       | Take the Water to the Mountain | Wheels            | Leave Well Alone            |
+| 15   | The Ancient Giants Under the Sun | It Can Happen                  | Nine Voices       | Believe Again               |
+| 16   | South Side of the Sky            | I See You                      | Lightning Strikes | Life on a Film Set          |
+| 17   | Revealing Science of God         | Awaken                         | Clear Days        | Almost Like Love            |
+| 18   | Masquerade                       | Life Seeker                    | Angkor Wat        | Minus the Man               |
+| 19   | Heart of the Sunrise             | Future Memories                | The Western Edge  | Death of Ego                |
+| 20   | Dreamtime                        | Fly From Here                  | Subway Walls      | True Beginner               |
+
+(by Kakashi)
+
+---
+
+## Genesis
+
+---
+
+Roll 4d20. This is you. You seem to have an invisible touch, Watcher of the Skies.
+
+|      | Background                    | Abilities                              | Items                    | Quirk                      |
+| ---- | ----------------------------- | -------------------------------------- | ------------------------ | -------------------------- |
+| 1    | Harlequin                     | Small Talk                             | Burning Rope             | Image Blown Out            |
+| 2    | Shepherd                      | Chamber of 32 Doors                    | Pigeons                  | Healthaze                  |
+| 3    | Watcher of the Skies          | Misunderstanding                       | Seven Stones             | A Trick of the Tail        |
+| 4    | Harold the Barrel             | Dancing With The Moonlit Knight        | Carpet Crawlers          | Please Don't Ask           |
+| 5    | Illegal Alien                 | Feeding the Fire                       | Dodo                     | Counting Out Time          |
+| 6    | Man of Our Times              | Invisible Touch                        | Evil Jam                 | Get 'em Out by Friday      |
+| 7    | The Supernatural Anaesthetist | Visions of Angels                      | Fading Lights            | The Serpent                |
+| 8    | Lilywhite Lilith              | Blood On The Rooftops                  | Silver Rainbow           | In Too Deep                |
+| 9    | Lurker                        | Uncertain Weather                      | The Last Domino          | One Man's Fool             |
+| 10   | Man on the Corner             | The Raven                              | Cuckoo Cocoon            | Throwing It All Away       |
+| 11   | Robbery, Assault And Battery  | Window                                 | One-eyed Hound           | The Serpent                |
+| 12   | Mad Man Moon                  | The Return Of The Giant Hogweed        | Hairless Heart           | The Day The Light Went Out |
+| 13   | The Colony Of Slippermen      | The Waiting Room                       | Open Door                | Shipwrecked                |
+| 14   | Mama                          | One for the Vine                       | Fly on a Windshield      | Many Too Many              |
+| 15   | All In A Mouse's Night        | Scenes From A Night's Dream            | The Fountain Of Salmacis | Stagnation                 |
+| 16   | Deep In The Motherlode        | Riding the Scree                       | The Silent Sun           | In the Wilderness          |
+| 17   | Duke's Travels                | The Grand Parade Of Lifeless Packaging | The Musical Box          | Alone Tonight              |
+| 18   | Eleventh Earl Of Mar          | Snowbound                              | Time Table               | Dreaming While You Sleep   |
+| 19   | The Conqueror                 | Driving in the Last Spike              | The Knife                | Beloved Summer             |
+| 20   | It                            | Calling All Stations                   | White Mountain           | Entangled                  |
+
+(by Kakashi)
+
+---
+
+## Jethro Tull
+
+---
+
+Roll 4d20. This is you. Sitting on a park bench.
+
+|      | Background                | Abilities                         | Items                                             | Quirk                                   |
+| ---- | ------------------------- | --------------------------------- | ------------------------------------------------- | --------------------------------------- |
+| 1    | Saboteur                  | The Witch's Promise               | One Brown Mouse                                   | Old Ghosts                              |
+| 2    | Jack-a-lynn               | Motoreyes                         | Warm Sporran                                      | Ears of Tin                             |
+| 3    | Kelpie                    | A Stitch in Time                  | Cup of Wonder                                     | Stuck in the August Rain                |
+| 4    | Minstrel In The Gallery   | Cold Wind To Valhalla             | Broadsword                                        | Thick As A Brick                        |
+| 5    | Nursie                    | Summerday Sands                   | A Small Cigar                                     | Part Of The Machine                     |
+| 6    | Jack In The Green         | Walk Into Light                   | The Whaler's Dues                                 | Bad—eyed And Loveless                   |
+| 7    | Dr. Bogenbroom            | Dogs In The Midwinter             | Heavy Horses                                      | Man Of Principle                        |
+| 8    | Baker Street Muse         | Strange Avenues                   | Gold—tipped Boots, Black Jacket And Tie           | Beside Myself                           |
+| 9    | Flying Dutchman           | Fire At Midnight                  | Dangerous Veils                                   | Down At The End Of Your Road            |
+| 10   | Pied Piper                | Old Ghosts                        | Fylingdale Flyer<br>General Crossing<br>Glory Row | I Don't Want To Be Me                   |
+| 11   | Crash—barrier Waltzer     | Sparrow On The Schoolyard Wall    | North Sea Oil                                     | Locomotive Breath                       |
+| 12   | Fat Man                   | A Better Moon                     | Rare And Precious Chain                           | White Innocence                         |
+| 13   | Seal Driver               | And The Mouse Police Never Sleeps | Moths                                             | Wounded, Old And Treacherous            |
+| 14   | Warchild                  | Black Sunday                      | Piece Of Cake                                     | Hard Liner                              |
+| 15   | Black Satin Dancer        | Jack Frost And The Hooded Crow    | Salamander                                        | Lap Of Luxury                           |
+| 16   | Rosa On The Factory Floor | Look At The Animals               | Uniform                                           | Protect And Survive                     |
+| 17   | The Whistler              | Undressed To Kill                 | Big Dipper                                        | Too Old To Rock'n Roll Too Young To Die |
+| 18   | Quizz Kid                 | Wind Up                           | Rocks On The Road                                 | Solitaire                               |
+| 19   | Cross-Eyed Mary           | Reasons For Waiting               | Toad In The Hole                                  | This Is Not Love                        |
+| 20   | Aqualung                  | Raising Steam                     | The Clasp                                         | Occasional Demons                       |
+
+(by Kakashi)

@@ -412,4 +412,4 @@ Roll 4d20. This is you now. Burning in the sun, missing your homeland, trying to
 | 19   | Tuned into the tomb of Jehova                          | Play your tunes loud enough to shake the room     | A battering ram                               | Heard the world was ending soon                     |
 | 20   | The ghost                                              | A charger                                         | Grown flowers                                 | You want provocative                                |
 
-(by [KrilltheKill](https://linktr.ee/krillthekill))
+(by [KrilltheKill](https://linktr.ee/krillthekill){:target="_blank"})

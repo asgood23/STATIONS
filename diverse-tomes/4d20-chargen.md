@@ -380,3 +380,36 @@ Roll 4d20. This is you. Sitting on a park bench.
 | 20   | Aqualung                  | Raising Steam                     | The Clasp                                         | Occasional Demons                       |
 
 (by Kakashi)
+
+---
+
+## Gorillaz
+
+---
+
+Roll 4d20. This is you now. Burning in the sun, missing your homeland, trying to fit in.
+
+|      | Background                                             | Abilities                                         | Items                                         | Quirk                                               |
+| ---- | ------------------------------------------------------ | ------------------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
+| 1    | A scary gargoyle on a tower                            | Paralyze dreamers with the nightmares we all keep | Rhinestone Eyes                               | Made of Plastic Power                               |
+| 2    | A collection of empire ants                            | Little memories marching on                       | Your little feet                              | Soon, like a wave, that pass will fall              |
+| 3    | A broken man with a broken love                        | Recreate entire worlds inside of your world       | The force between                             | There's nothing you can say to broke hearted people |
+| 4    | A whale of the deep dark seas                          | Styrofoam deep sea landfill                       | Casio on a plastic beach                      | Automated computer speech                           |
+| 5    | A father in the place you love                         | Fighting for something new                        | Sex and drugs rusting into you                | No one needs the heart of you                       |
+| 6    | A giant disembodied head                               | Hold it down dare                                 | A small synth keyboard                        | It feels like you were there yourself               |
+| 7    | Someone who once lived in the foot of a great mountain | Live in harmony with the spirit of nature         | Remains of the spirit of the mountain, Monkey | You miss your homeland, now gone forever            |
+| 8    | A wild gunslinger                                      | Burning in the sun                                | A gun                                         | All you do is dance                                 |
+| 9    | A cat in a hazmat suit from a melancholy town          | Turn forever, hand in hand                        | Windmill on a floating island                 | With your sound you kill the Inc.                   |
+| 10   | A music magician                                       | No sound spell                                    | An out of tune bass                           | Magic on you                                        |
+| 11   | A cameraman                                            | Digital won't let them go                         | A camera                                      | You're not all in this world                        |
+| 12   | A tethered man                                         | Get the cool shoeshine                            | Lead nike shoe                                | The world is spinning too fast                      |
+| 13   | God, King, Murdoc                                      | You are God                                       | Johny's corpse                                | Trying to fit in                                    |
+| 14   | Isolated man                                           | Good aim                                          | Bechained ball                                | You're the lonely twin                              |
+| 15   | Oscilating man                                         | Stimulate the dopamine passing through your head  | Satelites, passing by                         | Do you look like me?                                |
+| 16   | A beautiful person                                     | Clap your hands                                   | A mansion                                     | Kills the vibe due to jealously                     |
+| 17   | A sorcerer                                             | Cool down                                         | Inner vision                                  | Struggles holding on                                |
+| 18   | Every sound from everyone                              | You can hear it too                               | A new world                                   | Everyone is receiving you                           |
+| 19   | Tuned into the tomb of Jehova                          | Play your tunes loud enough to shake the room     | A battering ram                               | Heard the world was ending soon                     |
+| 20   | The ghost                                              | A charger                                         | Grown flowers                                 | You want provocative                                |
+
+(by [KrilltheKill](https://linktr.ee/krillthekill))

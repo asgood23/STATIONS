@@ -19,7 +19,7 @@ Create your own and [send it to us](https://72stations.com/connect.html)! (We'll
 
 ![Kicker of Elves illustration by Evlyn Moreau](/img/4d20/ElvesKicker-web.jpg)
 
-*Illustration of [Guided by Voices table](https://72stations.com/4d20-character-generators#guided-by-voices) by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){target="_blank"}*
+*Illustration of [Guided by Voices table](https://72stations.com/4d20-character-generators#guided-by-voices) by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){:target="_blank"}*
 
 {:toc}
 1. 

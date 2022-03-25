@@ -15,6 +15,10 @@ Roll 4d20 and use in the system of your choice.
 
 Create your own and [send it to us](https://72stations.com/connect.html)! (We'll put it up on the site and attribute your contribution).
 
+![ElvesKicker-web](/img/4d20/ElvesKicker-web.jpg)
+
+Illustration of Guided by Voices table by Evlyn Moreau
+
 {:toc}
 1. 
 

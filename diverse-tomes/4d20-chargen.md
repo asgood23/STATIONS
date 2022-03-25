@@ -15,9 +15,9 @@ Roll 4d20 and use in the system of your choice.
 
 Create your own and [send it to us](https://72stations.com/connect.html)! (We'll put it up on the site and attribute your contribution).
 
-![ElvesKicker-web](/img/4d20/ElvesKicker-web.jpg)
+![Kicker of Elves illustration by Evlyn Moreau](/img/4d20/ElvesKicker-web.jpg)
 
-Illustration of Guided by Voices table by Evlyn Moreau
+*Illustration of [Guided by Voices table](https://72stations.com/4d20-character-generators#guided-by-voices) by [https://www.patreon.com/evlynmoreau](https://www.patreon.com/evlynmoreau)*
 
 {:toc}
 1. 

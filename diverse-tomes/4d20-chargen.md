@@ -3,7 +3,7 @@ layout: default
 title: 4d20 Character Generators
 parent: Table of Tables
 permalink: 4d20-character-generators
-description: Roll 4d20 to create a character seed.
+description: 4d20 character creation tables using the lyrics of artists such as Death Grips, King Gizzard & the Lizard Wizard, Guided by Voices, and more.
 ---
 
 # 4d20 Character Generators

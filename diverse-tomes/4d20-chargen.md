@@ -15,11 +15,11 @@ Roll 4d20 and use in the system of your choice.
 
 Create your own and [send it to us](https://72stations.com/connect.html)! (We'll put it up on the site and attribute your contribution).
 
-[Sign up for our mailing list](https://tinyletter.com/stations) to get notified when we add more tables!
+[Sign up for our mailing list](https://tinyletter.com/stations){target="_blank"} to get notified when we add more tables!
 
 ![Kicker of Elves illustration by Evlyn Moreau](/img/4d20/ElvesKicker-web.jpg)
 
-*Illustration of [Guided by Voices table](https://72stations.com/4d20-character-generators#guided-by-voices) by [https://www.patreon.com/evlynmoreau](https://www.patreon.com/evlynmoreau){target="_blank" rel="noopener noreferrer"}*
+*Illustration of [Guided by Voices table](https://72stations.com/4d20-character-generators#guided-by-voices) by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){target="_blank"}*
 
 {:toc}
 1. 

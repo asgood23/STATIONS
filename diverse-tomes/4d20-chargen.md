@@ -4,6 +4,7 @@ title: 4d20 Character Generators
 parent: Table of Tables
 permalink: 4d20-character-generators
 description: 4d20 character creation tables using the lyrics of artists such as Death Grips, King Gizzard & the Lizard Wizard, Guided by Voices, and more.
+image: /img/4d20/ElvesKicker-web.jpg
 ---
 
 # 4d20 Character Generators

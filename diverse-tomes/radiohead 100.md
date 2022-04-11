@@ -4,7 +4,7 @@ title: Radiohead Doomscape
 parent: Table of Tables
 permalink: radiohead-doomscape
 description: d100 elements for a doomed and dying world, sampled from Radiohead songs
-image: 
+image: /img/Radiohead_Doomscape_prev.jpg
 
 ---
 

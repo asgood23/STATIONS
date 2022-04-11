@@ -10,7 +10,11 @@ nav_order: 6
 
 Things we've published or whose publication is imminent.
 
-All publications are currently free.
+## The Forest Will Not Be Tamed ##
+
+20 conditions for characters entering strange forests. Submission to the [Cairn: Forests of Another Name](https://itch.io/jam/forests-of-another-name){:target="_blank"} jam.
+
+<iframe frameborder="0" src="https://itch.io/embed/1481971?linkback=true&amp;bg_color=252624&amp;fg_color=F6F7F5&amp;link_color=4210FF&amp;border_color=363636" width="552" height="167"><a href="https://72stations.itch.io/the-forest-will-not-be-tamed">The Forest Will Not Be Tamed by 72stations</a></iframe>
 
 ## Inside Dreaming Suns
 20 random adventure seeds for the [Random Adventure Jam](https://itch.io/jam/random-adventure-jam){:target="_blank"}. Fight the Death Carbon Goats, wallow in your melancholy Outside a Defeated Reptile, get Hammered by Fever Demons, and more! Assembled by STATIONS and a cast of friends.

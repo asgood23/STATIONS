@@ -16,6 +16,8 @@ Roll 4d20 and use in the system of your choice.
 
 Create your own and [send it to us](https://72stations.com/connect.html)! (We'll put it up on the site and attribute your contribution).
 
+(Here's a [spreadsheet template](https://docs.google.com/spreadsheets/d/1qU0W57lGsWEtWef7dWU11_cnkld6xufX1BJTf0F4DlA/edit#gid=1126858464){:target="_blank"} to get you started!)
+
 [Sign up for our mailing list](https://tinyletter.com/stations){:target="_blank"} to get notified when we add more tables!
 
 ![Kicker of Elves illustration by Evlyn Moreau](/img/4d20/ElvesKicker-web.jpg)

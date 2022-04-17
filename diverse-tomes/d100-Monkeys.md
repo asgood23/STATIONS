@@ -8,108 +8,123 @@ description: d100 monkeys with interesting stories and secret darknesses.
 
 # d100 Monkeys
 
-coming soon...
 
 
-|      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
+
+| #   | Name                         | Item                                                                                          | Passion                         | Secret Darkness                                                                                                                               |
+| --- | ---------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | "Harold"                     | \[redacted\]                                                                                  | \[redacted\]                    | \[redacted\]                                                                                                                                  |
+| 2   | Alex                         | magnifying glass                                                                              | stamp collecting                | arson                                                                                                                                         |
+| 3   | Also Frank                   | baseball bats                                                                                 | baseball                        | is a mimic                                                                                                                                    |
+| 4   | Baby                         | a laptop                                                                                      | doomscrolling                   | retirement compound in New Zealand                                                                                                            |
+| 5   | Baby                         | a huge piña colada                                                                            | heavy lifting                   | is a cyborg                                                                                                                                   |
+| 6   | Bing Crosby                  | bling                                                                                         | crosswords                      | sabotages holidays                                                                                                                            |
+| 7   | Bingo                        | road maps of the southwestern United States                                                   | antiques                        | flips a coin to decide if you live or die                                                                                                     |
+| 8   | Bion                         | a cell phone                                                                                  | the budget process              | must pass on a deadly curse through sexual contact                                                                                            |
+| 9   | Bogey                        | a toothpick                                                                                   | mysteries                       | keeps used toothpicks                                                                                                                         |
+| 10  | Bon Bon                      | ten family photos                                                                             | history                         | survives on fresh monkey blood                                                                                                                |
+| 11  | Bonkers                      | a monkey's paw                                                                                | murder                          | leaves the toilet seat up on purpose                                                                                                          |
+| 12  | Boo                          | tissues                                                                                       | obituaries                      | feels nothing for fellow creatures                                                                                                            |
+| 13  | Buttons                      | a rubber stamp                                                                                | the proper forms                | mines cryptocurrency                                                                                                                          |
+| 14  | Cantaloupe                   | 1 bullet (.22)                                                                                | dams                            | bites their nails                                                                                                                             |
+| 15  | Charlie                      | a penknife                                                                                    | accounting                      | barely controllable pyrokinesis                                                                                                               |
+| 16  | Cherg the Destroyer          | a battered Walkman                                                                            | reggaeton                       | started a compelling podcast but quit fourteen episodes in                                                                                    |
+| 17  | Chomp Chomp                  | silver fangs                                                                                  | vampire culture                 | rejected screenplays                                                                                                                          |
+| 18  | Cindrella                    | half a pound chocolate bar                                                                    | stamps                          | likes to eat with forks                                                                                                                       |
+| 19  | Clem                         | a pitch pipe                                                                                  | barbershop quartet              | can kill with a word                                                                                                                          |
+| 20  | Cookie                       | a pumpkin                                                                                     | ball room dancing               | cannibalism                                                                                                                                   |
+| 21  | Dex                          | fidget spinner                                                                                | parkour                         | approximately six captives in a bunker                                                                                                        |
+| 22  | Dodger                       | needle and thread                                                                             | taxidermy                       | steals the pets of friends and acquaintances, then feigns outrage and offers emotional support (occassionally sexual)                         |
+| 23  | Don                          | dice                                                                                          | gambling                        | cocaine addiction                                                                                                                             |
+| 24  | Dweazil                      | a set of gaming dice                                                                          | folk music                      | is a cop                                                                                                                                      |
+| 25  | Einstein                     | a TI-82 graphing calculator                                                                   | button mashing                  | hires assassins to knock off rivals                                                                                                           |
+| 26  | Eli                          | a ragdoll                                                                                     | philosophy                      | never returns calls                                                                                                                           |
+| 27  | Falafel                      | destitute dwarf trinkets                                                                      | bacon-wrapped workwear          | never returns shopping carts                                                                                                                  |
+| 28  | Flim-flam                    | 3 packs of unfiltered cigarettes                                                              | erotica                         | is a serial stalker                                                                                                                           |
+| 29  | Frank                        | golf clubs                                                                                    | golf                            | none: is a genuinely decent monkey                                                                                                            |
+| 30  | Freshy                       | hundreds of small plastic bags                                                                | collecting                      | compelled to eat own feces                                                                                                                    |
+| 31  | Genevieve                    | a tea set                                                                                     | etiquette                       | character assassination                                                                                                                       |
+| 32  | Geoff                        | a triple platinum credit card                                                                 | fine wine                       | bodies in the basement                                                                                                                        |
+| 33  | Go Go                        | drum sticks                                                                                   | Go Go music                     | creepy doll collection                                                                                                                        |
+| 34  | Good Boy                     | inspirational stickers                                                                        | education                       | conducts psychological experiments on unsuspecting participants                                                                               |
+| 35  | Gracie                       | powerful magnets                                                                              | physics                         | stealing people's journals, searching for clues                                                                                               |
+| 36  | Gray                         | a box of broken crayons                                                                       | art                             | subtly graffitis paintings in museums                                                                                                         |
+| 37  | Grobert                      | a papier maché version of themselves                                                          | extramarital flirting           | spitting when no-one's looking (but really nasty)                                                                                             |
+| 38  | Gustav                       | a collection of travel dictionaries (from Swedish)                                            | linguistics                     | searching for The Word that Ends Worlds                                                                                                       |
+| 39  | Ham Jack 3                   | ivory cutlery                                                                                 | fine dining                     | the taste of human tears                                                                                                                      |
+| 40  | Heston                       | a girl's doll                                                                                 | escape                          | blew it up                                                                                                                                    |
+| 41  | Himbo                        | a counterfeit police badge                                                                    | Jack London                     | hoarder                                                                                                                                       |
+| 42  | Honey Dew                    | a machete                                                                                     | political unrest                | speaks French fluently                                                                                                                        |
+| 43  | Hua                          | post-it notes                                                                                 | HR                              | hates people                                                                                                                                  |
+| 44  | Hüm                          | a towel                                                                                       | interpretive dance              | interpretive murder                                                                                                                           |
+| 45  | Isaac                        | a ritual dagger                                                                               | sacrifice                       | operates under a fake name                                                                                                                    |
+| 46  | Ivy Posh                     | day planner                                                                                   | order                           | beating people with bones                                                                                                                     |
+| 47  | Jimmy Jim Jaja               | 5-pin bowling ball                                                                            | defending the indefensible      | hates other monkeys                                                                                                                           |
+| 48  | Joe                          | 16-piece dinnerware set, still in box                                                         | jackfruits                      | kleptomaniac for silverware                                                                                                                   |
+| 49  | Jolene                       | breath like spring                                                                            | love                            | taking other people's partners                                                                                                                |
+| 50  | Juicer                       | assorted fruits and a juicer                                                                  | juice                           | spikes the juice                                                                                                                              |
+| 51  | kespe-(2309860067)           | a typewriter                                                                                  | hitting 'em keys (cannot read)  | escaped the infinite money cage with her complete page 54 of Othello, stolen from kespe-2309860068                                            |
+| 52  | Kia                          | the sign of her god                                                                           | healing                         | let her best friend die                                                                                                                       |
+| 53  | Lady                         | a log                                                                                         | prophecy                        | knows when and how every person will die                                                                                                      |
+| 54  | Lambo                        | a microphone                                                                                  | karaoke                         | sends death threats to pop stars                                                                                                              |
+| 55  | Lem                          | harmonica                                                                                     | artificial intelligence         | compulsive liar                                                                                                                               |
+| 56  | Lil' Bit                     | stilts                                                                                        | acrobatics                      | wanted for murder                                                                                                                             |
+| 57  | Lil' Koko                    | a tiny kitten                                                                                 | dioramas                        | eats kittens when nervous / scared                                                                                                            |
+| 58  | Lôrn                         | an ancient scroll                                                                             | dead languages                  | 500 years old                                                                                                                                 |
+| 59  | Luc                          | an epee                                                                                       | fencing                         | uses performance enhancing drugs                                                                                                              |
+| 60  | Lula                         | a discreet handgun                                                                            | debate                          | embezzling money from the non-profit they manage                                                                                              |
+| 61  | Mako                         | an iPad Pro                                                                                   | character design                | gathering body parts to assemble a monster                                                                                                    |
+| 62  | Max                          | energy drinks                                                                                 | speedruns                       | doesn't share                                                                                                                                 |
+| 63  | Michel                       | a dog                                                                                         | vegan sausages                  | is a cannibal                                                                                                                                 |
+| 64  | Miles                        | racing gloves                                                                                 | drifting                        | frequent hit and runs                                                                                                                         |
+| 65  | Mubba                        | 2 candles                                                                                     | xtreme sports                   | hates their prehensile tail                                                                                                                   |
+| 66  | Napoleon                     | riding crop                                                                                   | dressage                        | directs a social media troll farm                                                                                                             |
+| 67  | Naruto                       | a katana                                                                                      | Pablo Neruda                    | writes bad poetry                                                                                                                             |
+| 68  | Nemo                         | a sea anchor                                                                                  | krill                           | likes to drown insects (exoskeletons belong in the water)                                                                                     |
+| 69  | Nibbles                      | a grudge                                                                                      | vengeance                       | has a twin brother they are intensely jealous of                                                                                              |
+| 70  | Papaya                       | three sticks of butter                                                                        | jelly beans                     | has 14 cats                                                                                                                                   |
+| 71  | Pogo                         | a chainsaw                                                                                    | music                           | hates dogs                                                                                                                                    |
+| 72  | pork loin                    | a gnawed up leg bone                                                                          | solvents                        | will teabag everyone eventually                                                                                                               |
+| 73  | Renard                       | three pet foxes                                                                               | parties                         | is a trained assassin                                                                                                                         |
+| 74  | Renato                       | voice recorder with some instructions recorded                                                | 1960s design                    | talks but continuosly tries to convince you that it is all in your head                                                                       |
+| 75  | Rio                          | a bible                                                                                       | liberation theology             | watches you while you sleep                                                                                                                   |
+| 76  | Roxie                        | lip stick                                                                                     | opera                           | public urination                                                                                                                              |
+| 77  | Rudiger                      | a rolled up Sun newspaper                                                                     | screaming                       | once shot a man in Reno, just to watch him die                                                                                                |
+| 78  | Scream                       | a jar of tasty dried butterflies                                                              | the smell of summer rain        | devilishly silent                                                                                                                             |
+| 79  | Shakes-(349853986)           | net, berret                                                                                   | smoking cigs, talking philosphy | should be catching escaped monkey typists                                                                                                     |
+| 80  | Shiny                        | a small mirror                                                                                | abstract geometry               | is a doppelganger, killed the original                                                                                                        |
+| 81  | Sim                          | VR headset                                                                                    | meta                            | in thrall to Mark Zuckerberg                                                                                                                  |
+| 82  | Skwee                        | a journal                                                                                     | botany                          | casually poisons neighbors                                                                                                                    |
+| 83  | Sloan                        | an address, hastily scribbled on a scrap of paper                                             | justice                         | is a ghost                                                                                                                                    |
+| 84  | Smellraiser                  | a puzzle box                                                                                  | dimension-hopping               | cannot tell the difference between pleasure and pain                                                                                          |
+| 85  | Steve                        | a bundle of toothpicks                                                                        | chemistry                       | meth                                                                                                                                          |
+| 86  | Suleiman                     | brain in a jar                                                                                | conquest                        | haunted by a compulsion to pun                                                                                                                |
+| 87  | Teetoo                       | a sniper rifle                                                                                | assassination                   | sent from the future to kill all humans named "John" in order to prevent the rise of the One True John who will prevent the monkey apocalypse |
+| 88  | The Freshmaker               | mentos                                                                                        | chillin'                        | explosive anger issues                                                                                                                        |
+| 89  | The Quickening               | Abraham Lincoln's final breath                                                                | gumdrops                        | dreams of disappearing without a trace                                                                                                        |
+| 90  | Thom<br>(pronounced "Thawm") | perfectly sharpened #2 pencils                                                                | perfectly sharpened #2 pencils  | leaves a perfectly sharpened #2 pencil next to their victims                                                                                  |
+| 91  | Trumpet                      | a pogo stick                                                                                  | the Epics                       | wears a toupé                                                                                                                                 |
+| 92  | Virgil                       | simple robes                                                                                  | the natue of faith              | agent of the inquisition                                                                                                                      |
+| 93  | Wawa                         | a magic 8-ball                                                                                | ambiguity                       | stealing snacks from convenience stores                                                                                                       |
+| 94  | Westerly                     | a hat obscuring a smaller monkey, who wears a hat obscuring an even smaller monkey, and so on | Shakespeare                     | insatiable lust for the infinite typewriter                                                                                                   |
+| 95  | Wiffles                      | a camera                                                                                      | reality TV                      | installing surveillance videos in neighbor's homes                                                                                            |
+| 96  | Wink Wink                    | dark sunglasses                                                                               | flirting                        | recruits suicide bombers                                                                                                                      |
+| 97  | XG-Y98-BLUE                  | a million bugs                                                                                | hair design                     | is a NFT wannabe billionaire                                                                                                                  |
+| 98  | Yoma                         | a trenchcoat                                                                                  | travel                          | unwitting herald of the end times                                                                                                             |
+| 99  | Zara                         | a polaroid camera                                                                             | trendspotting                   | places RFID tags on everyone they meet                                                                                                        |
+| 100 | Zoey                         | a collection of wigs                                                                          | cosplay                         | is a close talker                                                                                                                             |
+
+
+
+Thanks to the following friends of STATIONS for contributing!
+
+- [Alfred Valley](https://alfredvalley.itch.io/) (37)
+- [Archaeomancer/Neonrelic](https://neonrelic.itch.io/) (74)
+- [Colin le Sueur](https://byodinsbeardrpg.com/) (40, 47, 77)
+- Edd0 (51)
+- [Iko](http://www.thelostbaystudio.com/) (5, 18, 63, 97)
+- [@john_errwin](https://twitter.com/john_errwin) (48)
+- [Luka Rejec](https://www.wizardthieffighter.com/) (86)
+- [Seth Ian](https://seth-ian.itch.io/) (14, 20, 24, 28, 41, 42, 65, 70, 71, 91)
+- tonycoolmen (11, 69)
+- [yumaikas](https://junglecoder.com/) (68)

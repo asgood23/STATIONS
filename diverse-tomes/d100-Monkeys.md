@@ -13,7 +13,7 @@ These monkeys are just like us, with stuff they carry, passions and secret darkn
 
 <img src="/img/Monkeywarrior.jpg" style="zoom:50%;" />
 
-Illustration by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){:target="_blank"}). Table created by STATIONS and friends ([credits](#Credits))
+Illustration by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){:target="_blank"}). Table created by STATIONS and friends ([credits](#credits))
 
 Roll d100  and read across for a Monkey, or roll 4d100 for a RandoMonkey.
 

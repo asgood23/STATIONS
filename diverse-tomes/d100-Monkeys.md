@@ -4,18 +4,20 @@ title: d100 Monkeys
 parent: Table of Tables
 permalink: d100-monkeys
 description: d100 monkeys with interesting stories and secret darknesses. 
-image: /img/
+image: /img/Monkeywarrior_twittercard.jpg
 ---
 
 # d100 Monkeys
 
-These monkeys are just like us, with stuff they carry, passions and secret darknesses.
+These monkeys are just like us: they carry cherished items, passions and secret darknesses. 
+
+Roll d100  and read across for a Monkey, or roll 4d100 for a RandoMonkey.
 
 <img src="/img/Monkeywarrior.jpg" style="zoom:50%;" />
 
-Illustration by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){:target="_blank"}). Table created by STATIONS and friends ([credits](#credits))
+Illustration by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){:target="_blank"}). 
 
-Roll d100  and read across for a Monkey, or roll 4d100 for a RandoMonkey.
+Table by STATIONS and friends ([credits](#credits)).
 
 
 | #   | Name                         | Item                                                                                          | Passion                         | Secret Darkness                                                                                                                               |

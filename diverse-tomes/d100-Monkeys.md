@@ -8,7 +8,9 @@ description: d100 monkeys with interesting stories and secret darknesses.
 
 # d100 Monkeys
 
+These monkeys are just like us, with stuff they carry, passions and secret darknesses.
 
+Roll d100 for and read across for a Monkey, or roll 4d100 for a RandoMonkey.
 
 
 | #   | Name                         | Item                                                                                          | Passion                         | Secret Darkness                                                                                                                               |

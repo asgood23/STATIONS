@@ -3,7 +3,7 @@ layout: default
 title: d100 Monkeys
 parent: Table of Tables
 permalink: d100-monkeys
-description: d100 monkeys with interesting stories and secret darknesses. 
+description: d100 monkeys with powerful passions, secret darknesses, and interesting items. 
 image: /img/Monkeywarrior_twittercard.jpg
 ---
 

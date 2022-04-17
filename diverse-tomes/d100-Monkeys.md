@@ -15,7 +15,7 @@ Roll d100  and read across for a Monkey, or roll 4d100 for a RandoMonkey.
 
 <img src="/img/Monkeywarrior.jpg" style="zoom:50%;" />
 
-Illustration by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){:target="_blank"}). 
+Illustration by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){:target="_blank"}. 
 
 Table by STATIONS and friends ([credits](#credits)).
 

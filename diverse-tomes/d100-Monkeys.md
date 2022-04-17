@@ -4,11 +4,16 @@ title: d100 Monkeys
 parent: Table of Tables
 permalink: d100-monkeys
 description: d100 monkeys with interesting stories and secret darknesses. 
+image: /img/
 ---
 
 # d100 Monkeys
 
 These monkeys are just like us, with stuff they carry, passions and secret darknesses.
+
+<img src="/img/Monkeywarrior.jpg" style="zoom:50%;" />
+
+Illustration by Evlyn Moreau. Table created by STATIONS and friends (see bottom of page for credits)
 
 Roll d100  and read across for a Monkey, or roll 4d100 for a RandoMonkey.
 

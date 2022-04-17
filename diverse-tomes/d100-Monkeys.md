@@ -13,7 +13,7 @@ These monkeys are just like us, with stuff they carry, passions and secret darkn
 
 <img src="/img/Monkeywarrior.jpg" style="zoom:50%;" />
 
-Illustration by Evlyn Moreau. Table created by STATIONS and friends (see bottom of page for credits)
+Illustration by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){:target="_blank"}). Table created by STATIONS and friends ([credits](#Credits))
 
 Roll d100  and read across for a Monkey, or roll 4d100 for a RandoMonkey.
 
@@ -122,6 +122,8 @@ Roll d100  and read across for a Monkey, or roll 4d100 for a RandoMonkey.
 | 100 | Zoey                         | a collection of wigs                                                                          | cosplay                         | is a close talker                                                                                                                             |
 
 
+
+## Credits 
 
 Thanks to the following friends of STATIONS for contributing!
 

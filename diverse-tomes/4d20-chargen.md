@@ -123,7 +123,7 @@ Roll 4d20. This is you. Gold star for you.
 
 ---
 
-## Death Grips ##
+## Death Grips (by spooky jaguar) ##
 
 ---
 
@@ -189,7 +189,7 @@ Roll 4d20. This is you now. Meet the perfect you.
 
 ---
 
-## IDLES ##
+## IDLES (by charvus) ##
 
 ---
 
@@ -286,7 +286,7 @@ Roll 4d20. This is you. Mind on fire, taking it to the max.
 
 ---
 
-## YES
+## Yes (by Kakashi)
 
 ---
 
@@ -319,7 +319,7 @@ Roll 4d20. This is you. Dance through the light, Sound Chaser.
 
 ---
 
-## Genesis
+## Genesis (by Kakashi)
 
 ---
 
@@ -352,7 +352,7 @@ Roll 4d20. This is you. You seem to have an invisible touch, Watcher of the Skie
 
 ---
 
-## Jethro Tull
+## Jethro Tull (by Kakashi)
 
 ---
 
@@ -385,7 +385,7 @@ Roll 4d20. This is you. Sitting on a park bench.
 
 ---
 
-## Gorillaz
+## Gorillaz (by KrilltheKill)
 
 ---
 
@@ -415,3 +415,34 @@ Roll 4d20. This is you now. Burning in the sun, missing your homeland, trying to
 | 20   | The ghost                                              | A charger                                         | Grown flowers                                 | You want provocative                                |
 
 (by [KrilltheKill](https://linktr.ee/krillthekill){:target="_blank"})
+
+---
+
+## Frank Ocean ##
+
+---
+
+Roll 4d20. This is you. Monk, switching worlds, lost in the sweet life.
+
+| #    | Background                  | Abilities                    | Items                    | Quirk                                 |
+| ---- | --------------------------- | ---------------------------- | ------------------------ | ------------------------------------- |
+| 1    | Super Rich Kid              | Swim Good                    | Novacane                 | Lost                                  |
+| 2    | Provider                    | See Both Sides (Like Chanel) | Nikes                    | Sweet Life                            |
+| 3    | Forrest Gump                | Self Control                 | Lens                     | Pretty Sweet                          |
+| 4    | Good Guy                    | Godspeed                     | Ivy                      | Cayendo (Falling Down)                |
+| 5    | Seigfried                   | Bad Religion                 | White Ferrari            | Eyes Don't Shed Tears                 |
+| 6    | Pilot Jones                 | End                          | Fertilizer               | Thinkin' Bout Forever                 |
+| 7    | Monk                        | Fall Into You                | Not Just Money           | Cool Enough                           |
+| 8    | Shooter                     | Switch Worlds                | Pink Matter              | Whole Body See-through                |
+| 9    | Bishop in the City          | Go to Hell                   | Fighter Jet              | Got Beaucoup Family                   |
+| 10   | Little Virgin               | Run to the Future            | Beach House in Idaho     | Can't Keep Up a Conversation          |
+| 11   | Sensei                      | Skin Like Bronze             | Transportation           | Everybody Needs You                   |
+| 12   | Mr. Benjamin                | March to the Rhythm          | A Quaalude               | Stressed Out                          |
+| 13   | Hemingway                   | Freeze Smoke Rings           | Marijuanna               | Self Made Millionaire                 |
+| 14   | A Thief                     | Stealth                      | Six Discs                | Sounds Make You Cry                   |
+| 15   | Cleopatra                   | See Through Walls            | Peaches                  | Quiet then Violent                    |
+| 16   | The Big Man                 | Prophesy                     | Cotton Candy             | Bad at Being Good                     |
+| 17   | Little Cousin               | Body-Jump                    | A Clock                  | Working at the Pyramid                |
+| 18   | Little Mermaid              | Free to Roam                 | A Rusty Revolver         | Tattoos                               |
+| 19   | Punk Madre                  | Glory from Above             | The Crown of our Pharoah | Lungs Sick                            |
+| 20   | One of God's Own Prototypes | Cannonball                   | Cymbals                  | Don't Like to Fight 'Til I'm Fighting |

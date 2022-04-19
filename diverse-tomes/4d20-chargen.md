@@ -446,3 +446,34 @@ Roll 4d20. This is you. Monk, switching worlds, lost in the sweet life.
 | 18   | Little Mermaid              | Free to Roam                 | A Rusty Revolver         | Tattoos                               |
 | 19   | Punk Madre                  | Glory from Above             | The Crown of our Pharoah | Lungs Sick                            |
 | 20   | One of God's Own Prototypes | Cannonball                   | Cymbals                  | Don't Like to Fight 'Til I'm Fighting |
+
+---
+
+## Bjork
+
+---
+
+Roll 4d20. All is full of love. You'll be taken care of. Go forth, moon, saint, dark matter hollow with crystalline wanderlust.
+
+| #    | Background                              | Abilities              | Items                          | Quirk                                                        |
+| ---- | --------------------------------------- | ---------------------- | ------------------------------ | ------------------------------------------------------------ |
+| 1    | Hunter                                  | Army of me             | Headphones                     | Wanderlust                                                   |
+| 2    | Stonemilker                             | It's oh so quiet       | Quicksand                      | Crystalline                                                  |
+| 3    | Claimstaker                             | Courtship              | History of Touches             | Hollow                                                       |
+| 4    | Venus as a Boy                          | Utopia                 | Sharing orb                    | Pneumonia                                                    |
+| 5    | Beautiful Mother                        | Future forever         | Dark matter                    | So broken                                                    |
+| 6    | Earth Intruder                          | Tabula rasa            | Car parts, bottles and cutlery | Humble                                                       |
+| 7    | Bachelorette                            | Notget                 | Pearl                          | Immature                                                     |
+| 8    | Pluto                                   | Undo                   | Ambergris                      | All neon like                                                |
+| 9    | Silver Fox                              | Scatterheart           | Holographic entrypoint         | Sun in my mouth                                              |
+| 10   | Murmuring Drone                         | Lionsong               | Mouths cradle                  | Violently happy                                              |
+| 11   | No Animal                               | Atom dance             | An echo, a stain               | Big time sensuality                                          |
+| 12   | A Lover Alone                           | Mouth mantra           | Anchor song                    | Like someone in love                                         |
+| 13   | Pagan Poet                              | Thunderbolt            | Hyperballad                    | Biophilia                                                    |
+| 14   | The Moon                                | Pagan poetry           | Sonic branches                 | State of emergency<br>Is where I want to be                  |
+| 15   | The Continent                           | Declare independence   | Everlasting necklace           | You'll be given love, you'll be taken care of                |
+| 16   | Virus                                   | Where is the line      | Mutual core                    | Wicked sense of humour                                       |
+| 17   | The Gate                                | Triumph of a heart     | Every single archive           | I imagine what my body would sound like slamming against those rocks |
+| 18   | Bird species never seen or heard before | Cocoon                 | A ball of yarn                 | The beautifullest, fragilest, still strong, dark and divine  |
+| 19   | Saint                                   | Crystallizing galaxies | Morse coding signals           | Craving miracles                                             |
+| 20   | Music Nerd                              | Unravel                | A hidden place                 | Definitely no logic                                          |

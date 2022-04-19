@@ -449,7 +449,7 @@ Roll 4d20. This is you. Monk, switching worlds, lost in the sweet life.
 
 ---
 
-## Bjork
+## Björk
 
 ---
 

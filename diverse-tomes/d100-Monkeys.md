@@ -3,7 +3,7 @@ layout: default
 title: d100 Monkeys
 parent: Table of Tables
 permalink: d100-monkeys
-description: d100 monkeys with powerful passions, secret darknesses, and interesting items. 
+description: d100 monkeys with powerful passions, and interesting items, and strange secrets.
 image: /img/Monkeywarrior_twittercard.jpg
 ---
 
@@ -20,7 +20,7 @@ Illustration by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){:target="_bl
 Table by STATIONS and friends ([credits](#credits)).
 
 
-| #   | Name                         | Item                                                                                          | Passion                         | Secret Darkness                                                                                                                               |
+| #   | Name                         | Item                                                                                          | Passion                         | Secret                                                                                                                                |
 | --- | ---------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | "Harold"                     | \[redacted\]                                                                                  | \[redacted\]                    | \[redacted\]                                                                                                                                  |
 | 2   | Alex                         | magnifying glass                                                                              | stamp collecting                | arson                                                                                                                                         |

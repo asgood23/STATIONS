@@ -9,7 +9,7 @@ image: /img/Monkeywarrior_twittercard.jpg
 
 # d100 Monkeys
 
-These monkeys are just like us: they carry cherished items, passions and secret darknesses. 
+These monkeys are just like us: they carry cherished items, strong passions and strange secrets. 
 
 Roll d100  and read across for a Monkey, or roll 4d100 for a RandoMonkey.
 

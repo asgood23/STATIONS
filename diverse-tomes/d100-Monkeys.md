@@ -13,7 +13,7 @@ These monkeys are just like us: they carry cherished items, strong passions and 
 
 Roll d100  and read across for a Monkey, or roll 4d100 for a RandoMonkey.
 
-<img src="/img/Monkey_web.jpeg" style="zoom:50%;" />
+<img src="/img/Monkey_web.jpeg" />
 
 Illustration by [Evlyn Moreau](https://www.patreon.com/evlynmoreau){:target="_blank"}. 
 

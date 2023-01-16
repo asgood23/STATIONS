@@ -11,7 +11,7 @@ nav_order: 1
 
 Making 100 Bastards (lightweight) RPG classes from music samples.
 
-Currently Kickstarting: https://www.kickstarter.com/projects/72stations/make-100-bastards
+[Currently Kickstarting](https://www.kickstarter.com/projects/72stations/make-100-bastards)
 
 When the Bastards are written, they'll all be available here, under a CC-BY 4.0 license.
 

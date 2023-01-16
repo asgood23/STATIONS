@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Sampleverse
-permalink: sample verse
-nav_order: 1
+permalink: sampleverse
+has_children: true
+nav_order: 2
 ---
 
 # The Sampleverse

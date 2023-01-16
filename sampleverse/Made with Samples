@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Sampleverse
-permalink: sampleverse
+title: Made with Samples
+permalink: made-with-samples
 has_children: true
 nav_order: 2
 ---
 
-# The Sampleverse
+# Made with Samples
 {: .no_toc }
 
 We make stuff from music samples.

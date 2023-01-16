@@ -2,7 +2,7 @@
 layout: default
 title: Make 100 Bastards
 permalink: make-100-bastards
-parent: Sampleverse
+parent: Made with Samples
 nav_order: 1
 ---
 

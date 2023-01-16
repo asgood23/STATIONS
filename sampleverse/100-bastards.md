@@ -9,7 +9,7 @@ nav_order: 1
 # Make 100 Bastards
 {: .no_toc }
 
-Making 100 Bastards (lightweight) RPG classes from music samples.
+Making 100 Bastards (lightweight RPG classes) from your music samples.
 
 [Currently Kickstarting](https://www.kickstarter.com/projects/72stations/make-100-bastards)
 

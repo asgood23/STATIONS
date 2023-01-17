@@ -2,6 +2,7 @@
 layout: default
 title: Faceland
 permalink: faceland
+parent: Projects
 has_children: true
 ---
 

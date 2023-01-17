@@ -5,6 +5,8 @@ parent: Tables
 permalink: d100-monkeys
 description: d100 monkeys with powerful passions, and interesting items, and strange secrets.
 image: /img/Monkeywarrior_twittercard.jpg
+nav_order: 1
+
 ---
 
 # d100 Monkeys

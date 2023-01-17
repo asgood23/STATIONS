@@ -1,6 +1,6 @@
 ---
 layout: default
-title: They Might Be Troika
+title: They Might Be Troika!
 parent: Made with Samples
 permalink: they-might-be-troika
 nav_order: 4

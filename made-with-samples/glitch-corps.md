@@ -8,7 +8,7 @@ permalink: sample-bastards
 
 <iframe frameborder="0" src="https://itch.io/embed/1856360?border_width=4&amp;bg_color=F20CAE&amp;fg_color=fcfafa&amp;link_color=f7fa5b" width="558" height="173"><a href="https://72stations.itch.io/sample-bastards">sample bastards. by STATIONS</a></iframe>
 
-36 strange classes for your game of bastards. (& other RPGs).
+36 strange classes for your game of bastards. (& other RPGs); all titles come from music references.
 
 You could be ... 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Forest Will Not Be Tamed
+parent: Publications
 permalink: the-forest-will-not-be-tamed
 ---
 

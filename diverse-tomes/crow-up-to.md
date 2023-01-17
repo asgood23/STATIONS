@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What's That Crow Up To?
-parent: Table of Tables
+parent: Tables
 permalink: crow-up-to
 
 ---

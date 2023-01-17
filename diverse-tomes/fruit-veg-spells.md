@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fruit and Vegetable Spells
-parent: Table of Tables
+parent: Tables
 permalink: fruit-vegetable-spells
 description: Strange and powerful spells for gardeners and vegetarian wizards. Use with caution.
 image: /img/eye_guarana.jpeg

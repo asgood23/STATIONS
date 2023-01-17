@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Radiohead Doomscape
-parent: Table of Tables
+parent: Made with Samples
 permalink: radiohead-doomscape
 description: d100 elements for a doomed and dying world, sampled from Radiohead songs
 image: /img/Radiohead_Doomscape_prev.jpg

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4d20 Faction Generator
-parent: Table of Tables
+parent: Made with Samples
 permalink: 4d20-faction-generator
 description: Roll 4d20 to create a cool faction.
 ---

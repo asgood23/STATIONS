@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Earth 2020X
+parent: Projects
 has_children: true
 permalink: earth-2020X
+
 ---
 
 # Earth 2020X

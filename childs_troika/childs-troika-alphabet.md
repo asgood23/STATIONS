@@ -2,6 +2,7 @@
 layout: default
 title: A Child's Troika Alphabet
 permalink: childs-troika-alphabet
+parent: Projects
 has_children: false
 ---
 

@@ -9,7 +9,7 @@ nav_order: 2
 # Made with Samples
 {: .no_toc }
 
-We make stuff from music samples.
+Harnessing music and other cultural sources to create unexpected and wondrous gaming content.
 
 
 

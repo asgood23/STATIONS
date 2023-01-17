@@ -3,6 +3,7 @@ layout: default
 title: Glitch Corps
 parent: Made with Samples
 permalink: glitch-corps
+nav_order: 2
 ---
 # Glitch Corps
 

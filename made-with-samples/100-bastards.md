@@ -23,8 +23,6 @@ Adding to this as the bastards come in...
 
 ## 100 Bastards
 
-[working doc as we we write them](https://docs.google.com/document/d/1DIrBDO2EWLywZx4GScfVCe_P5xFIsYhgNT8tMh4xnK0)
-
 *the 100 bastards will live here when we're done.*
 
 

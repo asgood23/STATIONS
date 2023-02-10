@@ -95,6 +95,7 @@ You always have the candy someone most desires. Start with the spells *Wrap a Ra
 *[Halohand](https://www.instagram.com/halohand_games/): “The Candy Man” by Sammy Davis Jr.*
 
 **Candy Man (alt. take) -**
+
 You are a human-sized Candy Golem intent on making the world taste good. You can peel confections from your own body that, when eaten, heal minor wounds (d6). You take d4 damage for every piece of yourself you give, which heals by normal means. You cannot benefit from eating your own magic. You carry a secret sadness that’s all your own.
 
  *“The Candy Man” by Aubrey Woods, Willy Wonka & the Chocolate Factory (soundtrack, 1971)*

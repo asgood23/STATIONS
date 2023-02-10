@@ -26,14 +26,10 @@ You are a gravedigger who dreams of winning big at games of chance. Start with y
 
 [ManaRampMatt](https://manarampmatt.itch.io/): “Ace of Spades” by Möterhead
 
-
-
 ## 2. Actress
 Start with a script, a black dress, a hardened heart, and +1 Wisdom. Test Luck to convincingly impersonate anyone.
 
 [ManaRampMatt](https://manarampmatt.itch.io/): “Cleopatra” by the Lumineers
-
-
 
 ## 3. Ancient One
 You are river and stone, moaning to the moon, swooning in the sunset. Start with the spells Whisper to Water, Stone to Dust, and Metal to Rust. A lily builds a home inside your bones.
@@ -63,8 +59,23 @@ You have five eyes, all blind, but each of which can detect (and emit) a differe
 Delphi: "Fire at Static Valley" by Godspeed You! Black Emperor
 
 ## 8. Blue Lotus Adept
+
+Start with the standard pale blue hooded robes of The Order, and three cherished blue lotus flowers. Choose one spell that reflects your Path within The Order: *Life from Lotus,* *Light from Lotus*, *Longing from Lotus*, *Lethargy from Lotus,* or *Lunacy from Lotus*. 
+
+[Chris Air](http://chrisair.itch.io): "blue lotus" by Sweeps
+
 ## 9. Bomb
+
+You are a living bomb. Once per day, you detonate, dealing 2d6 damage to anyone in proximity. You float on as a ghost and can test Luck to influence the physical world. The next morning you are whole again, ticking, ticking, ticking.
+
+Starling Ridgeway: “The Bomb” by Pigeon John
+
 ## 10. Boxer
+
+Your fists are deadly weapons (d6). You have +1 Strength and +1 Dexterity. You are always able to find poor, hidden lodgings known only to The Ragged People. Start with a pocket full of mumbles.
+
+[ManaRampMatt](https://manarampmatt.itch.io/): “The Boxer” by Simon and Garfunkel 
+
 ## 11. Brainwasher
 ## 12. Bug Collector
 ## 13. Candy Man

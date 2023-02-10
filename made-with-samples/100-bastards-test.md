@@ -24,69 +24,125 @@ Submissions to the Make 100 Bastards Kickstarter.
 ## 1. Ace of Spades
 You are a gravedigger who dreams of winning big at games of chance. Start with your ancestral spade that can dig through any surface (2d6).
 
-[ManaRampMatt](https://manarampmatt.itch.io/): “Ace of Spades” by Möterhead
+*[ManaRampMatt](https://manarampmatt.itch.io/): “Ace of Spades” by Möterhead*
 
 ## 2. Actress
 Start with a script, a black dress, a hardened heart, and +1 Wisdom. Test Luck to convincingly impersonate anyone.
 
-[ManaRampMatt](https://manarampmatt.itch.io/): “Cleopatra” by the Lumineers
+*[ManaRampMatt](https://manarampmatt.itch.io/): “Cleopatra” by the Lumineers*
 
 ## 3. Ancient One
 You are river and stone, moaning to the moon, swooning in the sunset. Start with the spells Whisper to Water, Stone to Dust, and Metal to Rust. A lily builds a home inside your bones.
 
-Krustentier: "Scissor Paper Rock" by Indica
+*Krustentier: "Scissor Paper Rock" by Indica*
 
 ## 4. Atom Heart Mother
 Once per day, birth a new element: a novel and powerful combination of particles and forces. Describe the power it gives you. Once you use its power, it grows up and leaves for another dimension.
 
-Moxie: "Atom Heart Mother" by Pink Floyd
+*Moxie: "Atom Heart Mother" by Pink Floyd*
 
 ## 5. Automatic Husband
 Test Luck to become a target’s Husband. Start with a pen, an imaginary map, and a birth chart made by a special commission of Navajo basketball coaches and blonde ladies.
 
-[Eric Swanson](https://www.instagram.com/wooodsman/),  “Automatic Husband” by Fiery Furnaces
+*[Eric Swanson](https://www.instagram.com/wooodsman/),  “Automatic Husband” by Fiery Furnaces*
 
 ## 6. Baby Criminal
 
 You are a criminal mastermind but also a toddler. You wear a hat made from a squirrel you killed and a leather jacket taken from the corpse of the first man that ever crossed you. You can smoke anything, but have to nap twice a day, and always dream of building a nuclear device. Your mother is crying, somewhere.
 
-Kaisa: “Baby Criminal” by Viagra Boys
+*Kaisa: “Baby Criminal” by Viagra Boys*
 
 ## 7. Black Emperor
 
 You have five eyes, all blind, but each of which can detect (and emit) a different Power: fire, static, void, sleep, storm. Start with five loyal advisers (d6+3 HP), one for each Power; they each have a spell associated with the power.
 
-Delphi: "Fire at Static Valley" by Godspeed You! Black Emperor
+*Delphi: "Fire at Static Valley" by Godspeed You! Black Emperor*
 
 ## 8. Blue Lotus Adept
 
 Start with the standard pale blue hooded robes of The Order, and three cherished blue lotus flowers. Choose one spell that reflects your Path within The Order: *Life from Lotus,* *Light from Lotus*, *Longing from Lotus*, *Lethargy from Lotus,* or *Lunacy from Lotus*. 
 
-[Chris Air](http://chrisair.itch.io): "blue lotus" by Sweeps
+*[Chris Air](http://chrisair.itch.io): "blue lotus" by Sweeps*
 
 ## 9. Bomb
 
 You are a living bomb. Once per day, you detonate, dealing 2d6 damage to anyone in proximity. You float on as a ghost and can test Luck to influence the physical world. The next morning you are whole again, ticking, ticking, ticking.
 
-Starling Ridgeway: “The Bomb” by Pigeon John
+*Starling Ridgeway: “The Bomb” by Pigeon John*
 
 ## 10. Boxer
 
 Your fists are deadly weapons (d6). You have +1 Strength and +1 Dexterity. You are always able to find poor, hidden lodgings known only to The Ragged People. Start with a pocket full of mumbles.
 
-[ManaRampMatt](https://manarampmatt.itch.io/): “The Boxer” by Simon and Garfunkel 
+*[ManaRampMatt](https://manarampmatt.itch.io/): “The Boxer” by Simon and Garfunkel* 
 
 ## 11. Brainwasher
+
+You can remove people’s brains, wash and soak them in various baths and solutions, and put them back in. Cures mental ailments and ends any charmed conditions or possession. 10% chance that it washes away a recent memory. This process takes about 30 minutes and does not harm the subject. (Yeah, you’re that good). Start with d6 spare brains in jars.
+
+*The Big Jumbowski: “Brainwasher” by Daft Punk*
+
 ## 12. Bug Collector
+
+Start with a pet centipede, millipede, and praying mantis you swear is a reincarnated priest out to get you. You can identify any bug. Spend a Luck point to avoid being stung, pinched, bit or otherwise harmed by any kind of bug.
+
+*Anonymous: “The Bug Collector” by Haley Heynderickx*
+
 ## 13. Candy Man
+
+You always have the candy someone most desires. Start with the spells *Wrap a Rainbow in a Sigh, Separate Sorrow*, and *Dip Tomorrow in a Dream*. People feel compelled to tell you their childhood wishes. You can eat anything as if it were candy.
+
+*[Halohand](https://www.instagram.com/halohand_games/): “The Candy Man” by Sammy Davis Jr.*
+
+**Candy Man (alt. take) -**
+You are a human-sized Candy Golem intent on making the world taste good. You can peel confections from your own body that, when eaten, heal minor wounds (d6). You take d4 damage for every piece of yourself you give, which heals by normal means. You cannot benefit from eating your own magic. You carry a secret sadness that’s all your own.
+
+ *“The Candy Man” by Aubrey Woods, Willy Wonka & the Chocolate Factory (soundtrack, 1971)*
+
 ## 14. Cave Dweller
+
+You are a cannibal. You walk on your hands as easily as your feet (+1 Dexterity). By staring long and deep at someone, you realize a truth that will refresh their broken mind. It’s empty in the valley of your heart, but you’ve left all your fears behind. Start with a noose around your neck.
+
+[*ManaRampMatt*](https://manarampmatt.itch.io/)*: “The Cave” by Mumford & Sons*
+
 ## 15. Chainmelter
+
+You were imprisoned for countless years, weighed down by the chains of despair and iron ones, too. One night you heard the sound of distant stars shifting into alignment, and your skin began to glow and pulse and burn. Your shackles melted away, and you were free. Now you seek to free all from their chains. Start with the spell *Fire Eyes*.
+
+[*Marren MacAdam*](https://marrensmusings.itch.io/)*: “Iron Shackles” by Luzifer*
+
 ## 16. Chauffeur
+
+You drive any vehicle with perfect, practiced professionalism. Start with the spell *Sing Blue Silver* and a mind full of glass splinters. Engines drone in time with your beating heart.
+
+[*Halohand*](https://www.instagram.com/halohand_games/)*: “The Chauffeur” by Duran Duran*
+
 ## 17. Child of the Rising Sun
+
+You have a bottle of booze, a suitcase, a deck of cards, and a ball and chain. You owe dangerous people serious money. Start with double the normal amount of Luck, but your Luck doesn’t replenish each morning. When you run out of Luck, something dreadful happens.
+
+*Starling Ridgeway: “The House of the Rising Sun” by The Animals*
+
 ## 18. Church Ghost
+
+You can hear emotions, find anyone that is hidden, and see through scars. You know that souls cannot actually be tainted. Start with the spell *Eternal Merge*. You glow faintly like a candle.
+
+*D. Nivens: “Cirice” by Ghost*
+
 ## 19. City Slicker
+
+You wear the finest urban-outdoor fashions (+1 AC) and insist on paying for items with something called a “credit card.” You have Advantage when navigating urban areas, and Disadvantage when navigating anywhere else. You’re just trying to get through the day. 
+
+*Billy Kearns: “City Slicker” by Ginger Root*
+
 ## 20. Coffin Carrier
-21. Dark Destroyer
+
+You have an adult-sized coffin. You can always carry it, no matter how heavy it gets, as long as the lid will close. You play in Satan’s band. Test Luck to summon a bandmate Devil to your aid (6HP, rend/burn/curse). Start with a pack of cigarettes and a bottle of cheap whiskey.
+
+*Starling Ridgeway: “I Carry the Coffin” by Ghoultown*
+
+## 21. Dark Destroyer
+
 22. Demon-Eyed
 23. Devil Dogs
 24. Disgraced Legionnaire

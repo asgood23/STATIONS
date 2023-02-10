@@ -22,7 +22,6 @@ Submissions to the Make 100 Bastards Kickstarter.
 
 
 ## 1. Ace of Spades
-
 You are a gravedigger who dreams of winning big at games of chance. Start with your ancestral spade that can dig through any surface (2d6).
 
 [ManaRampMatt](https://manarampmatt.itch.io/): “Ace of Spades” by Möterhead
@@ -30,7 +29,6 @@ You are a gravedigger who dreams of winning big at games of chance. Start with y
 
 
 ## 2. Actress
-
 Start with a script, a black dress, a hardened heart, and +1 Wisdom. Test Luck to convincingly impersonate anyone.
 
 [ManaRampMatt](https://manarampmatt.itch.io/): “Cleopatra” by the Lumineers
@@ -38,26 +36,45 @@ Start with a script, a black dress, a hardened heart, and +1 Wisdom. Test Luck t
 
 
 ## 3. Ancient One
+You are river and stone, moaning to the moon, swooning in the sunset. Start with the spells Whisper to Water, Stone to Dust, and Metal to Rust. A lily builds a home inside your bones.
+
+Krustentier: "Scissor Paper Rock" by Indica
 
 ## 4. Atom Heart Mother
+Once per day, birth a new element: a novel and powerful combination of particles and forces. Describe the power it gives you. Once you use its power, it grows up and leaves for another dimension.
 
+Moxie: "Atom Heart Mother" by Pink Floyd
 
 ## 5. Automatic Husband
+Test Luck to become a target’s Husband. Start with a pen, an imaginary map, and a birth chart made by a special commission of Navajo basketball coaches and blonde ladies.
+
+[Eric Swanson](https://www.instagram.com/wooodsman/),  “Automatic Husband” by Fiery Furnaces
+
 ## 6. Baby Criminal
+
+You are a criminal mastermind but also a toddler. You wear a hat made from a squirrel you killed and a leather jacket taken from the corpse of the first man that ever crossed you. You can smoke anything, but have to nap twice a day, and always dream of building a nuclear device. Your mother is crying, somewhere.
+
+Kaisa: “Baby Criminal” by Viagra Boys
+
 ## 7. Black Emperor
-8. Blue Lotus Adept
-9. Bomb
-10. Boxer
-11. Brainwasher
-12. Bug Collector
-13. Candy Man
-14. Cave Dweller
-15. Chainmelter
-16. Chauffeur
-17. Child of the Rising Sun
-18. Church Ghost
-19. City Slicker
-20. Coffin Carrier
+
+You have five eyes, all blind, but each of which can detect (and emit) a different Power: fire, static, void, sleep, storm. Start with five loyal advisers (d6+3 HP), one for each Power; they each have a spell associated with the power.
+
+Delphi: "Fire at Static Valley" by Godspeed You! Black Emperor
+
+## 8. Blue Lotus Adept
+## 9. Bomb
+## 10. Boxer
+## 11. Brainwasher
+## 12. Bug Collector
+## 13. Candy Man
+## 14. Cave Dweller
+## 15. Chainmelter
+## 16. Chauffeur
+## 17. Child of the Rising Sun
+## 18. Church Ghost
+## 19. City Slicker
+## 20. Coffin Carrier
 21. Dark Destroyer
 22. Demon-Eyed
 23. Devil Dogs

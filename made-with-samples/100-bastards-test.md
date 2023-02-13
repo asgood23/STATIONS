@@ -222,14 +222,130 @@ You have an adult-sized coffin. You can always carry it, no matter how heavy it 
 97. Zone Stepper
 
 
+
 # I search the bastard …
 
-d100 items to find on bastards and/or just laying around
+**d100 items to find on bastards and/or just laying around**
 
 
-# You Quirky Bastards
 
-[d100 quirks]
+
+
+
+# You quirky bastards...
+**d100 quirks for your bastards**
+
+
+
+
+
+
+# Where ya from, ya bastard?
+**d100 places of origin, or last known location**
+
+1. A castle in the air
+2. A chat room
+3. A digital eternity
+4. A dream house
+5. A drone maze
+6. A faraway moon
+7. A freak train
+8. A holy forest
+9. A mansion full of other's people's skulls
+10. A mass grave
+11. A Perfect Earth
+12. A prayer factory
+13. A pressure chamber
+14. A timehole
+15. A voice plantation
+16. A workshop behind the old arcade
+17. An alien sphere
+18. An amusement park on fire
+19. An Eden portal
+20. An immense endless belt of faces
+21. An orgasm theatre
+22. Archive Seven
+23. Between memories
+24. Blood River
+25. Cannibal Capital
+26. Chrome Country
+27. Combination Pizza Hut and Taco Bell
+28. Crystal Run
+29. Dark ruins
+30. Desert sands of Venus
+31. Deserted dunes
+32. Desolation Row
+33. Divine Wasteland
+34. Doom City
+35. Eternia
+36. Eye City
+37. Glue World
+38. Gnashville
+39. Graceland
+40. Heaven
+41. Hell
+42. Kingdom Falls
+43. Land of Honey
+44. Land of the Lords
+45. Land's End
+46. Mad City
+47. Main Street
+48. Melting houses of gold
+49. Memory's prism
+50. Mojave Desert
+51. Mount Everest
+52. Mouth Mountain
+53. New Orphan Asylum for Spirited Deerchildren
+54. Night City
+55. Planet Caravan
+56. Polygonwanaland
+57. Recycler 1a
+58. Recycler 1b
+59. Saturday City
+60. Shores of Mutilation
+61. Slaughter Beach
+62. Specter's Castle
+63. Strangeland
+64. Sun City
+65. Sushi Temple
+66. Temple of Angels
+67. Temple of Null
+68. The Abyss Mouth
+69. The Altered World
+70. The Black Star
+71. The Blood River
+72. The Cloud Monolith
+73. The Cosmic Cave
+74. The Court of the Crimson King
+75. The Crack of Doom
+76. The Danger Zone
+77. The factory of raw essentials
+78. The Falling Veil
+79. The Garden of Lust
+80. The hadal zone
+81. The Highway to the Stars
+82. The House of Light
+83. The House of Starbucks
+84. The Infinity Farm
+85. The Last Oasis
+86. The Lawless Lands
+87. The Lost River
+88. The Merry Barracks
+89. The Ocean of Tears
+90. The Ozone Clone Zone
+91. The People's Square
+92. The Planet of Straw Men
+93. The Pulsar Palace
+94. The River of Souls
+95. The Sea of Trees
+96. The Undimension
+97. The Western Union
+98. The White Sea
+99. The You Garden
+100. Widow City
+
+*with suggestions from Ryan Bell, Jessica Marquardt, and Eric Swanson*
+
 
 
 # Credits

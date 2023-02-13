@@ -227,6 +227,109 @@ You have an adult-sized coffin. You can always carry it, no matter how heavy it 
 
 **d100 items to find on bastards and/or just laying around**
 
+1. A cheating heart (packed in salt)
+2. Alien sphere
+3. All-seeing eye
+4. Angel's claw
+5. Anti-matter
+6. Bad self portraits
+7. Beef jerky
+8. Black cherry
+9. Black diamond
+10. Blood drawing
+11. Body parts
+12. Bodybag
+13. *Book of Bad Decisions*
+14. Bottle of rum
+15. Broken friendship bracelet
+16. Cat food
+17. Cheat codes
+18. Cherry blossoms
+19. Cherub rock
+20. Chimes
+21. Cloak of Feathers
+22. Cool soda
+23. Crispy duck
+24. Crow mask
+25. Crystal sword
+26. DEAD FLOWERS
+27. Dead man's diary
+28. Didgeridoo
+29. Dirty cutlass
+30. ECSTASY OF ST. TERESA
+31. Ether
+32. Flag of Fate
+33. Forbidden apple
+34. Fury whip
+35. Girl god gun
+36. Goatfuzz
+37. Grass amulet
+38. Heavy bells
+39. Heavy crown
+40. Honey
+41. Hot knife
+42. Houseplants
+43. Hymnal
+44. Impossible knots
+45. Jar of hearts
+46. Kaleidoscope
+47. Key of Solomon
+48. Light armour
+49. Lithium
+50. Lucky clover
+51. Maps
+52. Marijuana
+53. Mayonaise
+54. Memory shard
+55. Midnight wine
+56. Milk & codeine
+57. Mood ring
+58. Mouth of God
+59. Music box
+60. Nailgun
+61. Noise maker
+62. Nutmeg
+63. Oatmeal
+64. One way mirror
+65. Pamphlets
+66. Paper crown
+67. Paprika
+68. Peacebone
+69. Peaches
+70. People's faces
+71. Persuasion system
+72. Power glove
+73. Pseudo bread
+74. Purity shards
+75. Ray's foot
+76. Resurrection fern
+77. Russian doll
+78. Sacred text: *The Teaches of Peaches*
+79. Salt
+80. Samurai sword
+81. Scroll of Sorrow
+82. Silent metal
+83. Sister's Blade
+84. Skeleton key
+85. Sleeping pills
+86. Small hat
+87. Snake wand
+88. Sōlar blade
+89. Spikes
+90. Spine Of God
+91. Sun medallion
+92. The Book of Love
+93. The Eye of Ra
+94. The Queen's head
+95. Time in a bottle
+96. Tongues
+97. Two snakes
+98. Vampire money
+99. Wisdom eye
+100. Worms
+
+*with suggestions from Ryan Bell, John Card II, Kaisa Järvelä, and Eric Swanson*
+
 
 
 

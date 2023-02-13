@@ -341,8 +341,6 @@ You have an adult-sized coffin. You can always carry it, no matter how heavy it 
 
 
 
-
-
 # Where ya from, ya bastard?
 **d100 places of origin, or last known location**
 

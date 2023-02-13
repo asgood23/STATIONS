@@ -235,6 +235,109 @@ You have an adult-sized coffin. You can always carry it, no matter how heavy it 
 # You quirky bastards...
 **d100 quirks for your bastards**
 
+1. A dozen pair of cartoon eyes
+2. A lonely twin
+3. A message etched into your spine
+4. Always rambling
+5. An empty shell
+6. Attracts ghosts
+7. Avoids all eye contact
+8. Beautiful, but bleak
+9. Been in a cage 400 days
+10. Bees won't leave you alone
+11. Big mirror of a smile
+12. Big teeth
+13. Blind as the ocean's mind
+14. Bullet proof
+15. Burning eyes
+16. Burning fuse knitted into your bones
+17. Can't remember where you came from
+18. Cold hands
+19. Craving miracles
+20. Cries for no good reason
+21. Crooked teeth
+22. Crow skeleton wings
+23. Denies all gods
+24. Down with the sickness
+25. Eaten by worms
+26. Empty
+27. Everyone's darling
+28. Eyes black and shiny as boots
+29. Fantastic kisser
+30. Fazed out
+31. Forever heavy
+32. Frail and bedazzled
+33. Free spirit
+34. German haircut
+35. Goddess eyes
+36. Golden diva
+37. Golden teeth
+38. Gonna snap
+39. Greasy hands
+40. Half bird
+41. Half dog
+42. Half machine
+43. Hand crushed by a mallet
+44. Hears fake voices
+45. Heart of glass
+46. Hive mind
+47. Holy touch
+48. Humble
+49. Immature
+50. Implanted memories
+51. Invisible face
+52. Jaw like a fuck-off bear trap
+53. Kinky love
+54. Lightly sedated
+55. Lo fidelity
+56. Locust laced
+57. Lovely smile
+58. Milk-mouth
+59. Motoreyes
+60. Mute as a rock
+61. Mutilated lips
+62. Nervous laughter
+63. Never cry
+64. Not afraid of ghosts
+65. Occassional demons
+66. Oozing a brand-new cuneiform
+67. Pale as a banshee sun
+68. Phony voice
+69. Photosynthetic skin
+70. Pilgrim side eye
+71. Platinum skull
+72. Precious & perfect
+73. Predisposed to madness
+74. Primal
+75. Rabbit ears
+76. Real easy on the eyes
+77. Red right hand
+78. Restless leg
+79. Rottweiler smile
+80. Sentimental
+81. Severed vision
+82. Simple heart
+83. Small and efficient
+84. Stomps everywhere
+85. Strange claws
+86. Sweet bod
+87. Tattooed
+88. Terrified
+89. Thirsty
+90. Too weird to live, too rare to die
+91. Vampire smile
+92. Wanderlust
+93. Wasted
+94. Weak flesh
+95. Weightless
+96. White skin / tanned teeth
+97. Wicked sense of humour
+98. Wild imagination
+99. Wolf scent
+100. Young and happy
+
+*with suggestions from Ryan Bell, Dr. Mary C Crowell, Kaisa Järvelä, and Leigh Way*
+
 
 
 

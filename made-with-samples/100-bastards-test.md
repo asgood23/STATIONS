@@ -7,7 +7,7 @@ nav_order: 9
 ---
 
 # Make 100 Bastards
-{: .no_toc }
+
 
 ## 100 Bastards Playlist
 Submissions to the Make 100 Bastards Kickstarter.

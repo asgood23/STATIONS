@@ -485,41 +485,209 @@ You are a pair of highly trained regulators in an important industry. You are al
 
 ## 70. Sick as Fuck
 
+You are in your prime, but you’ve been bled dry. Start with a black hoodie, clenched fists (2d6 damage), broken chains, and a key to the empty place inside you. Start with the spell *Too Much Animosity*.
 
+*Jon Neddo: "Nero Forte" by Slipknot*
 
 ## 71. Sin Citizen
+
+Start with a bag of diamonds and a bag of dust. You only consume caviar and champagne; start with 2d6 servings. Your friends Fingers Freddie and Diamond Jim are always nearby, ready to help (for a price).
+
+*Anonymous: “Sin City” by AC/DC*
+
 ## 72. Sonic Rebel
+
+You have a battered leather jacket studded with metal and safety pins and a big patch that reads “Fuck the Ancient Ways” (+1 AC). Casting the spell *Sonic Onslaught*, you can amplify any sound into a deadly cacophony.
+
+*D. Nivens: “"Ancient Ways" by Interpol*
+
 ## 73. Sorrow Harvester
+
+Start with the spell *Invade Nightmares* and a silver scythe you can carry into dreams (2d6). Speaking the language of the mad, you weep what you sow. 
+
+[*ManaRampMatt*](https://manarampmatt.itch.io/): “Harvester of Sorrow” by Metallica
+
 ## 74. Statue of the King
+
+You are made of smooth, hard stone (+2 AC). Your crown is a beacon, your sword is covered in moss. You don’t remember your time as King, but you know the names of all your warriors and the spell *To My Side*.
+
+*Jon Neddo: “A Statue of the King” by Avatar*
+
 ## 75. Strange Formation
+
+Your first memory is of being beneath a statue, weeping. You are thousands of shards of glass, glistening this way and that, reflecting the starlight from which you may have come. You don’t remember anything. But you know that, somewhere, *she* loves you.
+
+*D. Nivens: "Mace Spray" by The Jezabels*
+
 ## 76. Straw Worker
+
+You turned your back on singing, and now you work with straw. Narrow your eyes to cast the spell *Leave it Alone*. Feel the vibrations deep in your bones to cast the spell *Find Home.* When you don’t like someone’s song, cast the spell *Bleed Words*. 
+
+[*ManaRampMatt*](https://manarampmatt.itch.io/): “Seven Nation Army” by The White Stripes
+
 ## 77. Subterranean Homesick Alien
+
+Start with a fond memory of your recent alien abduction and a small collection of home movies they gave you. They “taught” you the “spells” *Lock Up Spirits* and *Breath of Forgetting*. You are no longer so uptight.
+
+*Moxie: "Subterranean Homesick Alien" by Radiohead*
+
 ## 78. Sun Killer
+
+Start with a knife (2d6) forged in a dying star; it consumes any blaze it touches, physical or emotional. You can sing anyone to sleep. You were born to break.
+
+*John Thomas: “Sun Killer” by Spiritbox*
+
 ## 79. Super Rich Kid
+
+Start with 4d20+20 gold, your family’s sommelier (hireling, d6+1 HP) carrying 1d10 bottles of wine you can’t pronounce, and your loyal dealer (hireling, d6+6 HP) holding too many bowls of that green. Spend 1 gold to reroll Luck rolls, and you are entitled to twice your fair share of group treasure.
+
+[*Jamie*](https://twitter.com/jamiegp)*: “*[*Super Rich Kids*](https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb?si=9f7b4825c1614dd2)*” by Frank Ocean*
+
 ## 80. Super Trouper
+
+Start with a fabulous performing outfit, a microphone, and the spell *Shine Like the Sun*. All you want to do is eat and sleep and sing.
+
+*Clay Jensen*: “Super Trouper” by ABBA
+
 ## 81. Temper
+
+When you are stressed, roll d6 to determine the temperament that overwhelms you:
+
+1. Withdrawn
+2. Depressed
+3. Anxious
+4. Fixated
+5. Hyper
+6. Furious
+
+When you are *not* stressed, you can use the spell *Temper Temper* to influence a target’s mood or beliefs.
+
+[*IKO*](https://www.thelostbaystudio.com/): “Temper Temper” by Goldie
+
 ## 82. The Book of Right On
+
+You are the living embodiment and latest incarnation of the eternal *Book of Right On*. Fortune finds you fit and able, your fighting fame is fabled, and you can kill your dinner with a karate kick (unarmed attacks do 1d6 with Advantage). Start with +2 Wisdom and Dexterity, and the spells *Right On* and *Read Me*. 
+
+*Blake McStravick: “The Book of Right On” by Joanna Newsom*
+
 ## 83. The Eight Who Are One
+
+In ancient times, eight Mages who hated one another conspired to create a ritual that would grant them immortality. This angered the Gods, who cursed them to walk the Earth in a shared body until the End of Time. Each Mage knows a powerful spell. Role d8 after every rest to see which Mage is in control; the others watch in horror.
+
+The eight Mages and their spells:
+
+1. Kats, Spit **Void**
+2. Uhi, Consume **Matter**
+3. Iko, Split **Memory**
+4. Mae, Fold **Space**
+5. Eda, Stop **Time**
+6. Oba, Collapse **Spectrum**
+7. Ke, Puppet **Mind**
+8. Noble, One Hundred **Eyes**
+
+*Kaisa: "The Octuple Personality and Eleven Crows" by World's End Girlfriend*
+
 ## 84. The Guitar
+
+You are known only as “The Guitar.” You have no other name, no age, no known place of birth or ancestry. You carry an old beat-up six string that has possessed you. You can play any song ever written; test Luck to play the exact song someone needs to hear. Any damage done to your guitar is transferred to you.
+
+*Starling Ridgeway: “The Guitar” by Guy Clark*
+
 ## 85. The Man Who Sold the World
+
+You are the ghost of your former self, roaming for years, searching for form and land, staring at the remnants of humanity with a gazely gaze. Start with vast wealth, hazy memories of mass death, and the belief that you never lost control.
+
+*Moxie: “The Man Who Sold the World” by David Bowie*
+
 ## 86. The Spirit of Radio
+
+You travel at the speed of light and cannot be seen, only heard in song and a friendly voice. You can cruise the invisible airwaves to blast out of anyone’s turned-on radio, bearing a gift without price. You crackle with electric, timeless energy. Start with the spell *Make Mood*. 
+
+*Moxie: “The Spirit of Radio” by Rush*
+
 ## 87. Time Collector
+
+You see time as a constantly shifting, prismatic fractal stream of crystal fragments, which you collect to replay and rearrange. Start with three cherished Time Fragments and the spell *Improvise Memory*. You can stare directly at the sun.
+
+[*Cige*](https://cigeengine.blogspot.com/)*: “Fragments of Time” by Daft Punk*
+
 ## 88. Turbo Killer
+
+You reside on a giant floating cyber-cross in outer space. You wear a black hooded trench coat and a gas mask with glowing orange eyes. By grasping hands with the avatar of your ship, you can manifest on a nearby planet, driving a very cool, very fast car.
+
+*Todd A McFarland: “Turbo Killer” by Carpenter Brut,* [*music video*](https://www.youtube.com/watch?v=er416Ad3R1g) *by Seth Ickerman* 
+
 ## 89. Two-Headed Dog
-## 90. U3Buzz Basic
+
+You are a massive, anthropomorphic canine, and you recently lost your job at the Kremlin. You left with your severe black business suit, some important files, and the human jerky that you crave. You carry a poison-tipped umbrella (d6 damage, victims must Save or die). 
+
+[*Robert Coleman*](https://twitter.com/tripleneck)*: “Two Headed Dog (Red Temple Prayer)” by Roky Erickson*
+
+## 90. U3 Buzz Basic
+
+You only taste ash, smell smoke, see the world in hazy gray. You know the spells *Undo* and *Think of Fire*. Whenever you succeed at a roll, add one to your “Burn” tracker; when you hit eight, you erupt into flame that consumes you and anything you are touching, reducing you to a pile of ash. The next day, you rise again from the ash.
+
+*D. Nivens: "Rise" by Zamilska* 
+
 ## 91. Vengeful Mariner
+
+You have a musket (1d6), a holy relic from your time as a vestry-keeper, and your mother’s dying wish: *find him, bind him, tie him to a pole.* You start in the belly of a giant whale.
+
+*D. Nivens: “The Mariner’s Revenge Song” by The Decembrists*
+
 ## 92. Volcano
+
+You appear as an average human, but are actually the avatar of an ancient volcano. You are immune to heat and fire. What appears to be your skin is, in fact, a layer of magma. Anyone or anything that touches your flesh is likely to sink in and burn. Raise your fist to cast the spell *Burn the Veil*.
+
+*D. Nivens: “"Volcano Is Me" by Raised Fist*
+
 ## 93. Voodoo Chile
+
+You wear a Venus Witch’s Ring that allows you to exist both here and a million miles away, simultaneously. You can speak to lions and ride on eagles. Start with the spells *Desire Arrows* and *Summon Hummingbird*. Once per day you must float in a liquid garden or dust yourself with red sand.
+
+[*Chris Air*](http://chrisair.itch.io)*: "Voodoo Chile" by Jimi Hendrix*
+
 ## 94. Wandering Stranger
+
+You come from the sunset, from the sea, from sorrow. Cast the spell *Come Wander* to entice others to join you.
+
+*[IKO](https://www.thelostbaystudio.com/): “Come Wander with Me” by Jeff Alexander*
+
 ## 95. Wayfinder/Waymaker
+
+When you are presented with a seemingly intractable obstacle, test Luck to try to find a way around it. If you fail, describe how you will make your own way through the obstacle; you get Advantage on that attempt. You trust in ancient Gods and your heart of steel.
+
+*D. Nivens: "Find a Way or Make One" by Amon Amarth*
+
 ## 96. Wayward Son of Man
+
+You were made in God’s own image, a formless shadow. You collected splinters of bone and willed them into a humanoid exoskeleton (+ 4 AC). When you detect hollowness, conceit, or vanity in others, you may cast *Blazing Body* to ignite yourself: anything you touch must Save or be incinerated.
+
+[*Mat Cathcart*](https://instagram.com/coughingnails?igshid=ZDdkNTZiNTM=)*: "Set Your Body Ablaze" by Shai Hulud*
+
 ## 97. Winnebago Warrior
+
+You have guidebooks, a Polaroid camera, a CB radio, a folding chair, and Doritos to feed to the bears. You drive a Winnebago with a trailer full of souvenirs. You think you’re as brave as old John Wayne.
+
+*Clay Jensen*: "Winnebago Warrior" by Dead Kennedys
 
 ## 98. Wonderboy
 
+You come from a castle made of clouds, high and proud above the mucky-muck. You stole the spells *Mind Bullets,* *Flight,* and *Move You* from your arch-rival Young Nastyman, . 
+
+Johnny Hall: “Wonderboy” by Tenacious D
+
 ## 99. Young Lover
 
+You just want to love, but your daddy’s got a gun, and he’s always stalking you. Start with lots of drugs, some punk friends, and a new lover with a gun of their own (1d6).
+
+[*Wiredscreen*](https://twitter.com/wiredscreen?t=RjZZinkMGffsMhtzNt-WQg&s=09)*: “Hayloft II” by Mother Mother* 
+
 ## 100. Zone Stepper
+
+You can step into the Twilight Zone and stay there for up to five minutes. When you return, test Luck. On a failure, a Shade Beast follows you (6hp, shadow claw). On a critical failure a Shadow Self replaces you. Start with an obsidian blade (2d6). 
+
+*Starling Ridgeway: “Twilight Zone” by Golden Earring*
 
 
 

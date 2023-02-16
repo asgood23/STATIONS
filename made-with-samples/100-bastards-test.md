@@ -352,16 +352,69 @@ You have 96 eyes and 96 tears. You’ve got a garbage brain, and you don’t car
 *Clay Jensen*: "Human Fly" by The Cramps
 
 ## 48. Hunter
+
+You can track anything. Your partner smelled your dark fixation and abandoned you to the hunt. You are trying to learn the spell *Organize Freedom.* How Scandinavian of you.
+
+[*IKO*](https://www.thelostbaystudio.com/)*: “Hunter” by Björk*
+
 ## 49. Hurt
+
+You wear a crown of thorns, alternating with a crown of shit. Start with nine nails and nine needles that you can use to hurt yourself (1d4) and inflict your pain on a target. You carry a bag holding the remains of your empire of dirt. You remember everything. 
+
+[*Gavin the Mystic*](https://instagram.com/voyages_and_vagabonds?igshid=YmMyMTA2M2Y=)*: “Hurt” by Nine Inch Nails / Johnny Cash*
+
 ## 50. Kitten
+
+You carry a cursed Meow Flute, playing magic songs composed by the damned. Anyone who hears must Save or the awful sounds will pierce their brains and tear out their souls (2d6 damage, with Advantage). 
+
+*Delphi: “Meow Flute” by Bubblegum Octopus*
+
 ## 51. L’Enfant Sauvage
+
+There is a light in this world that you fight for. Your Skin is the Sky, the Wolf is your Master, Branches grow through You. Start with the spell *Righteous Anger* and the memory of a cage.
+
+[*IKO*](https://www.thelostbaystudio.com/): “L’Enfant Sauvage” by Gojira
+
 ## 52. Lonesome Ranger
+
+You carry a revolver on your hip, affectionately named “Big Iron” (d6). You have Advantage on ranged duels. Start with a bounty you are chasing (worth 50 G) and a horse named Sue.
+
+[*ManaRampMatt*](https://manarampmatt.itch.io/): “Big Iron” by Johnny Cash
+
 ## 53. Master Killer
+
+You hunt those whom others call “Master,” collecting their minds and souls. Start with four weapons of your choice, advantage when attacking a Master, and 1d6 Master Killer Killers hot on your trail.
+
+*Calvin C: “Master Killer” by Merauder*
+
 ## 54. Master of Skullcrusher Mountain
+
+Start with a sweet, harmless assistant named **Scarface** (2HP). They help you manage your **packs of wolves** (6, 2HD, claws/teeth), direct your **Doomsday Squad** (4, 3HD, flamethrowers (2d6)), and wrangle your **half-pony half-monkey monste**r (6HD, kick/bite/mock/throw feces). Given a week and the right materials, you can make a monster by combining any number of creatures. You have an unrequited crush and a voice in your head warning you not to kill them, yet.
+
+*Mike Westley: “Skullcrusher Mountain” by Jonathan Coulton*
+
 ## 55. Memory Vampyre
+
+Once per session, you must feed on another’s memories. Start with the spells *Real Illusion,* *Fall Apart,* and *Waste Time*. You’re alive, but you feel no love. 
+
+*D. Nivens: “Vampyre of Time and Memory” by Queens of the Stone Age*
+
 ## 56. Miss Understanding
+
+You’re a young woman who understands everything, and yet you cause those around you to misunderstand everything. Start with +3 Wisdom. Your shapeshifting violin is a key to another universe.
+
+[*Chris Air*](http://chrisair.itch.io)*: “Miss Understanding” by Kamasi Washington*
+
 ## 57. Ogre Hunter
+
+You are a peasant hunting the ogre you believe kidnapped and killed a village child. You carry a small grey hand of the victim, trusting that it points you in the direction of your quarry. Start with a harrow covered in slime, a bloodhound (1d6 bite), and intimate knowledge of the Heath, the Ringing Meadow, the Pool of Plenty, and the Valley of Eagles.
+
+*Forstmester Meidell: “Ogre (The Parents Crusade)” by Richard Dawson*
+
 ## 58. Organ Donor
+
+
+
 ## 59. Owl Sparker
 ## 60. People Vulture
 ## 61. Periodic Ghost

@@ -708,8 +708,9 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 
 
 
+# Flavor tables
 
-# I search the bastard …
+## I search the bastard …
 
 **d100 items to find on bastards and/or just laying around**
 
@@ -821,7 +822,7 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 
 
 
-# You quirky bastards...
+## You quirky bastards...
 **d100 quirks for your bastards**
 
 1. A dozen pair of cartoon eyes
@@ -930,7 +931,7 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 
 
 
-# Where ya from, ya bastard?
+## Where ya from, ya bastard?
 **d100 places of origin, or last known location**
 
 1. A castle in the air
@@ -1035,7 +1036,6 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 100. Widow City
 
 *with suggestions from Ryan Bell, Jessica Marquardt, and Eric Swanson*
-
 
 
 # Credits

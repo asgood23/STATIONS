@@ -10,13 +10,6 @@ nav_order: 9
 {: .no_toc }
 
 
-## 100 Bastards Playlist
-{: .no_toc }
-Submissions to the Make 100 Bastards Kickstarter.
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3HO3exOVb5j9sOsITekGaI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-*Whenever possible, support artists by purchasing music directly from them*
 
 - TOC
 {:toc}
@@ -858,6 +851,16 @@ Prompts from Kickstarter backers.
 Illustrations by:
 
 [[credits will go here]]
+
+
+
+## 100 Bastards Playlist
+
+Songs submitted to the Make 100 Bastards Kickstarter.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3HO3exOVb5j9sOsITekGaI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+*Whenever possible, support artists by purchasing music directly from them*
 
 
 

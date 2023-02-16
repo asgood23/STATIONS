@@ -852,7 +852,7 @@ Illustrations by:
 
 
 
-## 100 Bastards Playlist
+# 100 Bastards Playlist
 
 Songs submitted to the Make 100 Bastards Kickstarter.
 

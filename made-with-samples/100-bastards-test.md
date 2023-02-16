@@ -714,6 +714,38 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 
 **d100 items to find on bastards and/or just laying around**
 
+
+
+| #    |                                   |      |                       |      |                   |      |                                       |
+| ---- | --------------------------------- | ---- | --------------------- | ---- | ----------------- | ---- | ------------------------------------- |
+| 1    | A cheating heart (packed in salt) | 26   | DEAD FLOWERS          | 51   | Maps              | 76   | Resurrection fern                     |
+| 2    | Alien sphere                      | 27   | Dead man's diary      | 52   | Marijuana         | 77   | Russian doll                          |
+| 3    | All-seeing eye                    | 28   | Didgeridoo            | 53   | Mayonaise         | 78   | Sacred text: *The Teaches of Peaches* |
+| 4    | Angel's claw                      | 29   | Dirty cutlass         | 54   | Memory shard      | 79   | Salt                                  |
+| 5    | Anti-matter                       | 30   | ECSTASY OF ST. TERESA | 55   | Midnight wine     | 80   | Samurai sword                         |
+| 6    | Bad self portraits                | 31   | Ether                 | 56   | Milk & codeine    | 81   | Scroll of Sorrow                      |
+| 7    | Beef jerky                        | 32   | Flag of Fate          | 57   | Mood ring         | 82   | Silent metal                          |
+| 8    | Black cherry                      | 33   | Forbidden apple       | 58   | Mouth of God      | 83   | Sister's Blade                        |
+| 9    | Black diamond                     | 34   | Fury whip             | 59   | Music box         | 84   | Skeleton key                          |
+| 10   | Blood drawing                     | 35   | Girl god gun          | 60   | Nailgun           | 85   | Sleeping pills                        |
+| 11   | Body parts                        | 36   | Goatfuzz              | 61   | Noise maker       | 86   | Small hat                             |
+| 12   | Bodybag                           | 37   | Grass amulet          | 62   | Nutmeg            | 87   | Snake wand                            |
+| 13   | *Book of Bad Decisions*           | 38   | Heavy bells           | 63   | Oatmeal           | 88   | Sōlar blade                           |
+| 14   | Bottle of rum                     | 39   | Heavy crown           | 64   | One way mirror    | 89   | Spikes                                |
+| 15   | Broken friendship bracelet        | 40   | Honey                 | 65   | Pamphlets         | 90   | Spine Of God                          |
+| 16   | Cat food                          | 41   | Hot knife             | 66   | Paper crown       | 91   | Sun medallion                         |
+| 17   | Cheat codes                       | 42   | Houseplants           | 67   | Paprika           | 92   | *The Book of Love*                    |
+| 18   | Cherry blossoms                   | 43   | Hymnal                | 68   | Peacebone         | 93   | The Eye of Ra                         |
+| 19   | Cherub rock                       | 44   | Impossible knots      | 69   | Peaches           | 94   | The Queen's head                      |
+| 20   | Chimes                            | 45   | Jar of hearts         | 70   | People's faces    | 95   | Time in a bottle                      |
+| 21   | Cloak of Feathers                 | 46   | Kaleidoscope          | 71   | Persuasion system | 96   | Tongues                               |
+| 22   | Cool soda                         | 47   | Key of Solomon        | 72   | Power glove       | 97   | Two snakes                            |
+| 23   | Crispy duck                       | 48   | Light armour          | 73   | Pseudo bread      | 98   | Vampire money                         |
+| 24   | Crow mask                         | 49   | Lithium               | 74   | Purity shards     | 99   | Wisdom eye                            |
+| 25   | Crystal sword                     | 50   | Lucky clover          | 75   | Ray's foot        | 100  | Worms                                 |
+
+
+
 1. A cheating heart (packed in salt)
 2. Alien sphere
 3. All-seeing eye

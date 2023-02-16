@@ -162,8 +162,6 @@ You glisten in the moonlight, are skilled at hiding in trees, and can travel thr
 
 *Moxie: "Listening to the Frogs with Demon Eyes" by The Flaming Lips*
 
-
-
 ## 23. Devil Dogs
 
 You are a devil who’s been split into three massive dogs with matted fur and eyes of subtle flame. One dog got your **bite** (1d6, rending); another, your **bile** (1d6, poison); and the last, your **fire** (the spell *Incinerate*).
@@ -172,14 +170,7 @@ You are a devil who’s been split into three massive dogs with matted fur and e
 
 
 
-
-## 24. Dirty Deed Do-er
-
-You’ll do any dirty deed for dirt cheap. Start with three dirty deeds that you can always do (with Advantage). Anytime you do a new deed for cheap, you can do it with Advantage from that point on. You carry a battered suitcase filled with cyanide, TNT, neckties, and contracts. 
-
-*Kerry Wilkinson: “Dirty Deeds Done Dirt Cheap” by AC/DC*
-
-## 25. Disgraced Legionnaire
+## 24. Disgraced Legionnaire
 
 You were banished from a fallen land to a place beyond the stars. For centuries, you were lost within your own mind. You recently found your way home, riding the wings of dream. You are immune to fire. Start with a simple sword (d6) and the memory of blood on your hands. 
 
@@ -187,7 +178,7 @@ You were banished from a fallen land to a place beyond the stars. For centuries,
 
 
 
-## 26. Doomed Sailor & The Captain’s Corpse
+## 25. Doomed Sailor & The Captain’s Corpse
 
 You went down with the ship, abandoned by one you counted as a friend. The corpse of the captain jumped on your back, cursing you with un-life and the strength to survive until your vengeance is served. You carry the corpse with you everywhere, hear its cold whispers in your mind, feel its dank cold comfort through the night. When you are threatened, the corpse animates and blindly attacks the threat (slash/bite/stab). The corpse can be damaged but cannot be killed. 
 
@@ -195,7 +186,7 @@ You went down with the ship, abandoned by one you counted as a friend. The corps
 
 
 
-## 27. Drummer
+## 26. Drummer
 
 Start with ceremonial drums and cymbals. You can play the Songs of Happiness, which open the vaults of the heart and make the dark night colorful. Cast the spell *Drown in Happiness*, with caution.
 
@@ -203,7 +194,7 @@ Start with ceremonial drums and cymbals. You can play the Songs of Happiness, wh
 
 
 
-## 28. El Mark
+## 27. El Mark
 
 You are a fashion model famous for your long, black, greased back hair. You can spit napalm (2d6 damage), and you are never sober.
 
@@ -211,7 +202,7 @@ You are a fashion model famous for your long, black, greased back hair. You can 
 
 
 
-## 29. Electric Lady
+## 28. Electric Lady
 
 You got the look the Gods agree they wanna see. Start with the spells *Shock*, *Water to Wine*, and *Reprogram Mind.* Your spaceship leaves at 10:00.
 
@@ -219,7 +210,7 @@ You got the look the Gods agree they wanna see. Start with the spells *Shock*, *
 
 
 
-## 30. End of Days Soldier
+## 29. End of Days Soldier
 
 One day you emerged from the depths of the ocean. All you want is to feel pain and the bitter taste of blood on your lips, again. When you hear the *Thunder of the Drums* in your head, get +3 Strength and the urge to fight, kill, and maim. When you hit 0 HP, you hear the *Rising of the Horns* and are compelled to keep going (regain d6 HP).
 
@@ -227,7 +218,7 @@ One day you emerged from the depths of the ocean. All you want is to feel pain a
 
 
 
-## 31. Ex-Diamond Dealer
+## 30. Ex-Diamond Dealer
 
 You start with d6 + 6 blood diamonds sharpened to razors (2d6 soul slice). You know the spells *Rain Fire* and *Rain Power*. You can see the true form of Capital Thralls; to others they appear as normal humans, but you see that they are actually in straight jackets, eyes replaced by bloody coins, stumbling toward the nearest stock exchange. You carry the shattered remains of your stupid old cell phone.
 
@@ -235,7 +226,7 @@ You start with d6 + 6 blood diamonds sharpened to razors (2d6 soul slice). You k
 
 
 
-## 32. Extraordinary
+## 31. Extraordinary
 
 You can sing a *Lullaby of Laughter* to cause a target to laugh joyfully and uncontrollably, releasing their anxiety and fears and drifting into a deep and peaceful sleep. (Unwilling targets Save to resist.) Casting the spell *Freak Self Out* causes you to do something utterly unexpected; this action triggers a profound insight about yourself, your current situation, or reality itself. Start with an accidental, opulent succulent. 
 
@@ -243,7 +234,7 @@ You can sing a *Lullaby of Laughter* to cause a target to laugh joyfully and unc
 
 
 
-## 33. Faker
+## 32. Faker
 
 You wear a duster coat (+2 AC) that appears in whatever color, style and material is most likely to influence the viewer. Start with the spell *Take Dream* and an extra face.
 
@@ -251,7 +242,7 @@ You wear a duster coat (+2 AC) that appears in whatever color, style and materia
 
 
 
-## 34. Famous Preacher
+## 33. Famous Preacher
 
 Start with the spells *Hypnotize, Infect,* and *Glamor*, d100 GP, and 1d6+6 faithful humans (1hp, 1 damage). You carry an endless chain (d6 damage).
 
@@ -259,7 +250,7 @@ Start with the spells *Hypnotize, Infect,* and *Glamor*, d100 GP, and 1d6+6 fait
 
 
 
-## 35. First Person Shooter
+## 34. First Person Shooter
 
 Of all the Person Shooters, you were the first and are still the best. Start with a pistol (d6), a musket (2d6), and a pack of bullets and powder. When opposed by other Shooters, roll with Advantage.
 
@@ -267,7 +258,7 @@ Of all the Person Shooters, you were the first and are still the best. Start wit
 
 
 
-## 36. Fool
+## 35. Fool
 
 You have a chalice that is always full of wine, and hand bells that you can ring to cast the spells *Hope*, *Faith*, and *Damnation*. Start at the base of a moonlight gallows, singing a farewell song.
 
@@ -275,7 +266,7 @@ You have a chalice that is always full of wine, and hand bells that you can ring
 
 
 
-## 37. Gambler
+## 36. Gambler
 
 Start with +3 Wisdom, a bottle of whiskey, a deck of cards, and a second deck that’s all aces. You test Luck with Advantage and don’t lose Luck points on successful tests. You know when to hold ‘em, and when to fold ‘em.
 
@@ -283,25 +274,25 @@ Start with +3 Wisdom, a bottle of whiskey, a deck of cards, and a second deck th
 
 
 
-## 38. Getting into Knives
+## 37. Getting into Knives
 
 After seeking wisdom from the sages and consulting master tacticians, you took up knives: start with 2d6. It's a gift to be simple, it's a gift to be free.
 
 *D. Nivens: “Getting into Knives” by The Mountain Goats*
 
-## 39. Ghost Magnet
+## 38. Ghost Magnet
 
 You are followed by 2d6 ghastly apparitions that claim to be the soul you are missing. Spread some silver ashes and test Luck to convince them to do something useful. Start with mid-dark thoughts of a great tombstone and memories of the endless sea of sorrows.
 
 *Granby: "Phantasmagoria" by Ashbury Heights*
 
-## 40. Ghost Rider
+## 39. Ghost Rider
 
 You wear a blue jumpsuit and blaze like the stars. You can summon and ride the ghosts of America’s killed youth. Start with the spell S*cream Truth*.
 
 *Clay Jensen: “Ghost Rider” by Anna Calvi*
 
-## 41. Giant Tiger Fighter
+## 40. Giant Tiger Fighter
 
 Roll 1d6.
 
@@ -313,7 +304,7 @@ Roll 1d6.
 
 
 
-## 42. Hand Thief
+## 41. Hand Thief
 
 Start with 2d6 Hands (1HP, poke/scratch) which you have stolen, animated, and trained to be your assistants. You steal other things, of course, but prefer hands.
 
@@ -321,47 +312,53 @@ Start with 2d6 Hands (1HP, poke/scratch) which you have stolen, animated, and tr
 
 
 
-## 43. Haruspex
+## 42. Haruspex
 
 Start with a red, serrated blade (2d6). Drawing blood with your blade casts the spell *Foretell Future* (whether you want it to or not). You are consumed by rot and mold. Once per day you must kneel before The Shadow Queen.
 
 *Kaisa: “Haruspex” by Xoth*
 
-## 44. Headless Thompson Gunner
+## 43. Headless Thompson Gunner
 
 You are a gun for hire from the Land of the Midnight Sun. Start with a Thompson gun (heavy, 2d6 damage with Advantage), a pouch of bullets, no head, and a vendetta for the bastards who wanted you dead. You cannot be killed.
 
 [*Sivad’s Sanctum*](https://twitter.com/sivads_sanctum?t=hXEBGKQanKM9EqQlzR4SGQ&s=09)*: “Roland the Headless Thompson Gunner” by Warren Zevon*
 
-## 45. Heart of Steel
+## 44. Heart of Steel
 
 You arrived riding a comet, flames in your eyes, silent as a heavy stone. Start with +3 HP and the spells *Kneel* and *Bow Your Head*. Laugh your cold dark laugh to force a Morale check.
 
 *Starling Ridgeway: “Heart of Steel” by Manowar*
 
-## 46. Heir to Despair
+## 45. Heir to Despair
 
 You are the demigod offspring of Despair, born of one of their many wretched human consorts. Cast the spell *Sigh* to drain a target of their will to continue. Use the spell *No Light, No Shadow* to eliminate a source of light and its shadow. You know the spell *Momentary Peace*, but have been forbidden from using it.
 
 *Kaisa: "Heir To Despair" by Sigh*
 
-## 47. Human Fly
+## 46. Human Fly
 
 You have 96 eyes and 96 tears. You’ve got a garbage brain, and you don’t care about nothin’. Start with +3 Dexterity and you can fucking fly. You’ll die in 1d20 days. The following day, 1d100+50 of your offspring will be born.
 
 *Clay Jensen*: "Human Fly" by The Cramps
 
-## 48. Hunter
+## 47. Hunter
 
 You can track anything. Your partner smelled your dark fixation and abandoned you to the hunt. You are trying to learn the spell *Organize Freedom.* How Scandinavian of you.
 
 [*IKO*](https://www.thelostbaystudio.com/)*: “Hunter” by Björk*
 
-## 49. Hurt
+## 48. Hurt
 
 You wear a crown of thorns, alternating with a crown of shit. Start with nine nails and nine needles that you can use to hurt yourself (1d4) and inflict your pain on a target. You carry a bag holding the remains of your empire of dirt. You remember everything. 
 
 [*Gavin the Mystic*](https://instagram.com/voyages_and_vagabonds?igshid=YmMyMTA2M2Y=)*: “Hurt” by Nine Inch Nails / Johnny Cash*
+
+## 49. Infinity Kisser
+
+You have a history book you don’t really believe in, a crust of garlic bread, and a bunch of dimes. You wink and say things like “kiss the one you are now” and “ash to ask and dust to dusk” and “aren’t we all together?” Start with the spells *Free Celestial Body* and *Accept Alien*. 
+
+*Tyler Chase: “Spud Infinity” by Big Thief*
 
 ## 50. Kitten
 
@@ -385,7 +382,7 @@ You carry a revolver on your hip, affectionately named “Big Iron” (d6). You 
 
 You hunt those whom others call “Master,” collecting their minds and souls. Start with four weapons of your choice, advantage when attacking a Master, and 1d6 Master Killer Killers hot on your trail.
 
-*Calvin C: “Master Killer” by Merauder*
+*[Calvin C](https://www.instagram.com/dealwithgod/): “Master Killer” by Merauder*
 
 ## 54. Master of Skullcrusher Mountain
 
@@ -463,7 +460,7 @@ You are the last of your species. Once per day, you can remove your head and set
 
 Start with the spells *Pull Strings, Twist Mind,* and *Smash Dream*. You start with three human puppets (2hp) under the control of your invisible strings. You rage uncontrollably at those who seek to copy you or won’t call you Master.
 
-*Jessica Marquardt: “Master of Puppets” by Metallica*
+*[Jessica Marquardt]([instagram.com/JessicaAFM](http://instagram.com/JessicaAFM)): “Master of Puppets” by Metallica*
 
 ## 67. Rage Rat
 

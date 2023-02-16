@@ -9,8 +9,6 @@ nav_order: 9
 # Make 100 Bastards
 {: .no_toc }
 
-
-
 - TOC
 {:toc}
 

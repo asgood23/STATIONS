@@ -449,13 +449,40 @@ The wise know that “cold” is just an absence of heat, and you are a master o
 
 ## 64. Potential Homo Superior
 
+Start with +5 Wisdom and a copy of Alistair Crowley’s biography. You know the spells *Dream Reality*, *Viper’s Fang*, *Enter Bardo*, and *Divine Symmetry*. Anytime you cast a spell, lose 1 Wisdom as you sink in the quicksand of your thought.
 
+*Delphi: “Quicksand” by David Bowie*
 
 ## 65. Pumpkinhead
+
+You are the last of your species. Once per day, you can remove your head and set it on eldritch fire: throw it as a bomb to cause 2d6 area damage (mystic burning). Your head grows back by midnight.
+
+*Starling Ridgeway: “The Ballad of Peter Pumpkinhead” by The Crash Test Dummies*
+
 ## 66. Puppet Master
+
+Start with the spells *Pull Strings, Twist Mind,* and *Smash Dream*. You start with three human puppets (2hp) under the control of your invisible strings. You rage uncontrollably at those who seek to copy you or won’t call you Master.
+
+*Jessica Marquardt: “Master of Puppets” by Metallica*
+
 ## 67. Rage Rat
+
+You are a large, naked Rat Person (d6 scratch/bite), desperate to be called “The Chosen One.” Test your Luck to channel your rage, temporarily gaining +3 Strength; on a failed roll you are stuck in an invisible cage for d6 rounds.
+
+*Starling Ridgeway: “Bullet with Butterfly Wings” by Smashing Pumpkins*
+
 ## 68. Recluse
+
+You sleep alone and you wake alone, in the bed you once shared. Your only possession is your ex-lover’s notebook, filled with words you barely understand. Once per day, flip through it to discover a random spell; you forget it after casting. You don’t want to finish anything, anymore.
+
+[*Halohand*](https://www.instagram.com/halohand_games/)*: “The Recluse” by Cursive*
+
 ## 69. Regulators (for 2 characters)
+
+You are a pair of highly trained regulators in an important industry. You are always high. One of you carries a gun and knows the spell *Freak Mode*. The other carries a sword and knows the spell *Step to This*. One of you gets the glory; the other, the paperwork.
+
+[*ManaRampMatt*](https://manarampmatt.itch.io/): “Regulators” by Warren G ft Nate Dog
+
 ## 70. Sick as Fuck
 ## 71. Sin Citizen
 ## 72. Sonic Rebel

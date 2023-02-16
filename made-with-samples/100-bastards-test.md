@@ -413,14 +413,44 @@ You are a peasant hunting the ogre you believe kidnapped and killed a village ch
 
 ## 58. Organ Donor
 
+You can remove any of your organs and give (or sell) them to others (take 1d4 damage per removed organ). Don’t worry, they’ll regenerate. Start with a scalpel (1d6) and a bottle of antiseptic.
 
+*Clay Jensen*: “Organ Donor” by DJ Shadow
 
 ## 59. Owl Sparker
+
+You come from the Temple of Boom, strolling in the way of the Buddha masters. You can commune with owls and get them really, really high. Start with a duffel bag full of chocolate thai, indo, skonka, award-winning Maui Waui, Mexican green, Meefrakan, Crypt, yesca, andHumboldt County.
+
+[*IKO*](https://www.thelostbaystudio.com/): “Spark Another Owl” by Cypress Hill
+
 ## 60. People Vulture
+
+God approaches, and you are their herald. You are a 7-foot tall vaguely human thing with a vulture head, sharp, rending beak (d6 damage), and massive black wings. Start with the spells *Tainted Voodoo* and *Disappear*. You can teleport to the closest dead human body, which you proceed to devour (once per rest).
+
+*Kaisa: "People-Vultures" by King Gizzard & The Lizard Wizard*
+
 ## 61. Periodic Ghost
+
+Your eyes fade as you search endlessly through the void. You carry thousands of fine, strange shards (1d6 damage) that can embed into wounds and open doors in time. Your transitions between ghost and non-ghost are random, sudden, and utterly beyond your control. All you want is to be free.
+
+*Ryan Bell: “"The Ghost I Used to Be" by Pallbearer*
+
 ## 62. Perturbator
+
+Whenever you sleep you have a terrible, accurate vision of someone lying dead. Start with the spells *Plead to Void*, *Bleed Dawn*, and *Last Kiss.* Your very existence pushes everything around you out of balance.
+
+*Twisky1608: “EXCESS” by Health, Perturbator*
+
 ## 63. Player of Cold
+
+The wise know that “cold” is just an absence of heat, and you are a master of that absence. Start with the spells *Chill Touch*, *All Hail*, and *Ice Dagger*. There is a precious jewel where your heart once was..
+
+[*ManaRampMatt*](https://manarampmatt.itch.io/): “Magic” by Coldplay
+
 ## 64. Potential Homo Superior
+
+
+
 ## 65. Pumpkinhead
 ## 66. Puppet Master
 ## 67. Rage Rat

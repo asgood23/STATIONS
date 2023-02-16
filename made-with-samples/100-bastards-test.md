@@ -817,6 +817,38 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 *with suggestions from Ryan Bell, Jessica Marquardt, and Eric Swanson*
 
 
+
+## 4d20 Bastard Generator
+
+*Roll 4d20... this is your bastard now*
+
+(Italics indicates a Spell)
+
+| #    | Background       | Ability                    | Item                                                         | Quirk                                                       |
+| ---- | ---------------- | -------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| 1    | Blue Lotus Adept | *Summon Hummingbird*       | Extra face                                                   | Fading eyes                                                 |
+| 2    | Sun Killer       | *Reprogram Mind*           | Human jerky                                                  | No head                                                     |
+| 3    | Candy Man        | *Fold Space*               | Poison-tipped umbrella                                       | 7 feet tall, vaguely human                                  |
+| 4    | Cave Dweller     | Dirty deeds                | Gas mask                                                     | Consumed by rot and mold                                    |
+| 5    | Sorrow Harvester | Karate kicks               | Knife forged in a dying star                                 | Bleed words                                                 |
+| 6    | Kitten           | *Whisper to Water*         | Intimate knowledge of the Valley of Eagles                   | Feel no love                                                |
+| 7    | Infinity Kisser  | *Drown in Happiness*       | Crust of garlic bread                                        | Immune to heat and fire                                     |
+| 8    | Skull Crusher    | *Tainted Voodoo*           | Crown of thorns                                              | Five eyes, all blind                                        |
+| 9    | Periodic Ghost   | Smoke anything             | Hat made from a squirrel you killed                          | Glisten in the moonlight                                    |
+| 10   | Human Fly        | *Invade Nightmares*        | Battered leather jacket, studded with metal and safety pins, with a big patch reading "Fuck the Ancient Ways" | Heart of steel                                              |
+| 11   | Ghost Rider      | Track anything             | Musket                                                       | You remember everything                                     |
+| 12   | Organ Donor      | *Improvise Memory*         | Fancy black suit stolen from a ghost                         | Branches grow through you                                   |
+| 13   | Electric Lady    | *Behold Terror*            | Imaginary map                                                | Your skin is the sky                                        |
+| 14   | Two Headed Dog   | Play any song ever written | Pale blue hooded robes                                       | The wolf is your master                                     |
+| 15   | Dark Destroyer   | *Mind Bullets*             | d6 brains in jars                                            | Massive black wings                                         |
+| 16   | Demon Eyed       | Spit napalm                | Bottle of booze                                              | Sick as fuck                                                |
+| 17   | Vengeful Mariner | *Bleed Words*              | Ceremonial drums and cymbals                                 | Crackle with timeless electric energy                       |
+| 18   | Famous Preacher  | *Fire Eyes*                | Urn of silver ashes                                          | You only taste ash, smell smoke, see the world in hazy gray |
+| 19   | Gambler          | Commune with owls          | 2d6 sentient, animated hands                                 | Actually the avatar of an ancient volcano                   |
+| 20   | Sonic Rebel      | Sing anyone to sleep       | A shapeshifting violin (key to another universe)             | You come from the sunset, from the sea, from sorrow.        |
+
+
+
 # Credits
 
 Writing by STATIONS.

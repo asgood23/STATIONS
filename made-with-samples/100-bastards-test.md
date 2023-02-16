@@ -618,7 +618,7 @@ You are a massive, anthropomorphic canine, and you recently lost your job at the
 
 [*Robert Coleman*](https://twitter.com/tripleneck)*: “Two Headed Dog (Red Temple Prayer)” by Roky Erickson*
 
-## 90. U3 Buzz Basic
+## 90. U<sub>3</sub>Buzz Basic
 
 You only taste ash, smell smoke, see the world in hazy gray. You know the spells *Undo* and *Think of Fire*. Whenever you succeed at a roll, add one to your “Burn” tracker; when you hit eight, you erupt into flame that consumes you and anything you are touching, reducing you to a pile of ash. The next day, you rise again from the ash.
 

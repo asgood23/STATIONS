@@ -712,11 +712,9 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 
 ## I search the bastard …
 
-**d100 items to find on bastards and/or just laying around**
+*d100 items to find on bastards and/or just laying around*
 
-
-
-| #    |                                   |      |                       |      |                   |      |                                       |
+| #    | Item                              | #    | Item                  | #    | Item              | #    | Item                                  |
 | ---- | --------------------------------- | ---- | --------------------- | ---- | ----------------- | ---- | ------------------------------------- |
 | 1    | A cheating heart (packed in salt) | 26   | DEAD FLOWERS          | 51   | Maps              | 76   | Resurrection fern                     |
 | 2    | Alien sphere                      | 27   | Dead man's diary      | 52   | Marijuana         | 77   | Russian doll                          |
@@ -744,219 +742,41 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 | 24   | Crow mask                         | 49   | Lithium               | 74   | Purity shards     | 99   | Wisdom eye                            |
 | 25   | Crystal sword                     | 50   | Lucky clover          | 75   | Ray's foot        | 100  | Worms                                 |
 
-
-
-1. A cheating heart (packed in salt)
-2. Alien sphere
-3. All-seeing eye
-4. Angel's claw
-5. Anti-matter
-6. Bad self portraits
-7. Beef jerky
-8. Black cherry
-9. Black diamond
-10. Blood drawing
-11. Body parts
-12. Bodybag
-13. *Book of Bad Decisions*
-14. Bottle of rum
-15. Broken friendship bracelet
-16. Cat food
-17. Cheat codes
-18. Cherry blossoms
-19. Cherub rock
-20. Chimes
-21. Cloak of Feathers
-22. Cool soda
-23. Crispy duck
-24. Crow mask
-25. Crystal sword
-26. DEAD FLOWERS
-27. Dead man's diary
-28. Didgeridoo
-29. Dirty cutlass
-30. ECSTASY OF ST. TERESA
-31. Ether
-32. Flag of Fate
-33. Forbidden apple
-34. Fury whip
-35. Girl god gun
-36. Goatfuzz
-37. Grass amulet
-38. Heavy bells
-39. Heavy crown
-40. Honey
-41. Hot knife
-42. Houseplants
-43. Hymnal
-44. Impossible knots
-45. Jar of hearts
-46. Kaleidoscope
-47. Key of Solomon
-48. Light armour
-49. Lithium
-50. Lucky clover
-51. Maps
-52. Marijuana
-53. Mayonaise
-54. Memory shard
-55. Midnight wine
-56. Milk & codeine
-57. Mood ring
-58. Mouth of God
-59. Music box
-60. Nailgun
-61. Noise maker
-62. Nutmeg
-63. Oatmeal
-64. One way mirror
-65. Pamphlets
-66. Paper crown
-67. Paprika
-68. Peacebone
-69. Peaches
-70. People's faces
-71. Persuasion system
-72. Power glove
-73. Pseudo bread
-74. Purity shards
-75. Ray's foot
-76. Resurrection fern
-77. Russian doll
-78. Sacred text: *The Teaches of Peaches*
-79. Salt
-80. Samurai sword
-81. Scroll of Sorrow
-82. Silent metal
-83. Sister's Blade
-84. Skeleton key
-85. Sleeping pills
-86. Small hat
-87. Snake wand
-88. Sōlar blade
-89. Spikes
-90. Spine Of God
-91. Sun medallion
-92. The Book of Love
-93. The Eye of Ra
-94. The Queen's head
-95. Time in a bottle
-96. Tongues
-97. Two snakes
-98. Vampire money
-99. Wisdom eye
-100. Worms
-
 *with suggestions from Ryan Bell, John Card II, Kaisa Järvelä, and Eric Swanson*
 
 
 
 
-
-
 ## You quirky bastards...
-**d100 quirks for your bastards**
+*d100 quirks for your bastards*
 
-1. A dozen pair of cartoon eyes
-2. A lonely twin
-3. A message etched into your spine
-4. Always rambling
-5. An empty shell
-6. Attracts ghosts
-7. Avoids all eye contact
-8. Beautiful, but bleak
-9. Been in a cage 400 days
-10. Bees won't leave you alone
-11. Big mirror of a smile
-12. Big teeth
-13. Blind as the ocean's mind
-14. Bullet proof
-15. Burning eyes
-16. Burning fuse knitted into your bones
-17. Can't remember where you came from
-18. Cold hands
-19. Craving miracles
-20. Cries for no good reason
-21. Crooked teeth
-22. Crow skeleton wings
-23. Denies all gods
-24. Down with the sickness
-25. Eaten by worms
-26. Empty
-27. Everyone's darling
-28. Eyes black and shiny as boots
-29. Fantastic kisser
-30. Fazed out
-31. Forever heavy
-32. Frail and bedazzled
-33. Free spirit
-34. German haircut
-35. Goddess eyes
-36. Golden diva
-37. Golden teeth
-38. Gonna snap
-39. Greasy hands
-40. Half bird
-41. Half dog
-42. Half machine
-43. Hand crushed by a mallet
-44. Hears fake voices
-45. Heart of glass
-46. Hive mind
-47. Holy touch
-48. Humble
-49. Immature
-50. Implanted memories
-51. Invisible face
-52. Jaw like a fuck-off bear trap
-53. Kinky love
-54. Lightly sedated
-55. Lo fidelity
-56. Locust laced
-57. Lovely smile
-58. Milk-mouth
-59. Motoreyes
-60. Mute as a rock
-61. Mutilated lips
-62. Nervous laughter
-63. Never cry
-64. Not afraid of ghosts
-65. Occassional demons
-66. Oozing a brand-new cuneiform
-67. Pale as a banshee sun
-68. Phony voice
-69. Photosynthetic skin
-70. Pilgrim side eye
-71. Platinum skull
-72. Precious & perfect
-73. Predisposed to madness
-74. Primal
-75. Rabbit ears
-76. Real easy on the eyes
-77. Red right hand
-78. Restless leg
-79. Rottweiler smile
-80. Sentimental
-81. Severed vision
-82. Simple heart
-83. Small and efficient
-84. Stomps everywhere
-85. Strange claws
-86. Sweet bod
-87. Tattooed
-88. Terrified
-89. Thirsty
-90. Too weird to live, too rare to die
-91. Vampire smile
-92. Wanderlust
-93. Wasted
-94. Weak flesh
-95. Weightless
-96. White skin / tanned teeth
-97. Wicked sense of humour
-98. Wild imagination
-99. Wolf scent
-100. Young and happy
+| #    | Quirk                                | #    | Quirk                         | #    | Quirk                         | #    | Quirk                              |
+| ---- | ------------------------------------ | ---- | ----------------------------- | ---- | ----------------------------- | ---- | ---------------------------------- |
+| 1    | A dozen pair of cartoon eyes         | 26   | Empty                         | 51   | Invisible face                | 76   | Real easy on the eyes              |
+| 2    | A lonely twin                        | 27   | Everyone's darling            | 52   | Jaw like a fuck-off bear trap | 77   | Red right hand                     |
+| 3    | A message etched into your spine     | 28   | Eyes black and shiny as boots | 53   | Kinky love                    | 78   | Restless leg                       |
+| 4    | Always rambling                      | 29   | Fantastic kisser              | 54   | Lightly sedated               | 79   | Rottweiler smile                   |
+| 5    | An empty shell                       | 30   | Fazed out                     | 55   | Lo fidelity                   | 80   | Sentimental                        |
+| 6    | Attracts ghosts                      | 31   | Forever heavy                 | 56   | Locust laced                  | 81   | Severed vision                     |
+| 7    | Avoids all eye contact               | 32   | Frail and bedazzled           | 57   | Lovely smile                  | 82   | Simple heart                       |
+| 8    | Beautiful, but bleak                 | 33   | Free spirit                   | 58   | Milk-mouth                    | 83   | Small and efficient                |
+| 9    | Been in a cage 400 days              | 34   | German haircut                | 59   | Motoreyes                     | 84   | Stomps everywhere                  |
+| 10   | Bees won't leave you alone           | 35   | Goddess eyes                  | 60   | Mute as a rock                | 85   | Strange claws                      |
+| 11   | Big mirror of a smile                | 36   | Golden diva                   | 61   | Mutilated lips                | 86   | Sweet bod                          |
+| 12   | Big teeth                            | 37   | Golden teeth                  | 62   | Nervous laughter              | 87   | Tattooed                           |
+| 13   | Blind as the ocean's mind            | 38   | Gonna snap                    | 63   | Never cry                     | 88   | Terrified                          |
+| 14   | Bullet proof                         | 39   | Greasy hands                  | 64   | Not afraid of ghosts          | 89   | Thirsty                            |
+| 15   | Burning eyes                         | 40   | Half bird                     | 65   | Occassional demons            | 90   | Too weird to live, too rare to die |
+| 16   | Burning fuse knitted into your bones | 41   | Half dog                      | 66   | Oozing a brand-new cuneiform  | 91   | Vampire smile                      |
+| 17   | Can't remember where you came from   | 42   | Half machine                  | 67   | Pale as a banshee sun         | 92   | Wanderlust                         |
+| 18   | Cold hands                           | 43   | Hand crushed by a mallet      | 68   | Phony voice                   | 93   | Wasted                             |
+| 19   | Craving miracles                     | 44   | Hears fake voices             | 69   | Photosynthetic skin           | 94   | Weak flesh                         |
+| 20   | Cries for no good reason             | 45   | Heart of glass                | 70   | Pilgrim side eye              | 95   | Weightless                         |
+| 21   | Crooked teeth                        | 46   | Hive mind                     | 71   | Platinum skull                | 96   | White skin / tanned teeth          |
+| 22   | Crow skeleton wings                  | 47   | Holy touch                    | 72   | Precious & perfect            | 97   | Wicked sense of humour             |
+| 23   | Denies all gods                      | 48   | Humble                        | 73   | Predisposed to madness        | 98   | Wild imagination                   |
+| 24   | Down with the sickness               | 49   | Immature                      | 74   | Primal                        | 99   | Wolf scent                         |
+| 25   | Eaten by worms                       | 50   | Implanted memories            | 75   | Rabbit ears                   | 100  | Young and happy                    |
 
 *with suggestions from Ryan Bell, Dr. Mary C Crowell, Kaisa Järvelä, and Leigh Way*
 
@@ -964,108 +784,35 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 
 
 ## Where ya from, ya bastard?
-**d100 places of origin, or last known location**
+*d100 places of origin, or last known location*
 
-1. A castle in the air
-2. A chat room
-3. A digital eternity
-4. A dream house
-5. A drone maze
-6. A faraway moon
-7. A freak train
-8. A holy forest
-9. A mansion full of other's people's skulls
-10. A mass grave
-11. A Perfect Earth
-12. A prayer factory
-13. A pressure chamber
-14. A timehole
-15. A voice plantation
-16. A workshop behind the old arcade
-17. An alien sphere
-18. An amusement park on fire
-19. An Eden portal
-20. An immense endless belt of faces
-21. An orgasm theatre
-22. Archive Seven
-23. Between memories
-24. Blood River
-25. Cannibal Capital
-26. Chrome Country
-27. Combination Pizza Hut and Taco Bell
-28. Crystal Run
-29. Dark ruins
-30. Desert sands of Venus
-31. Deserted dunes
-32. Desolation Row
-33. Divine Wasteland
-34. Doom City
-35. Eternia
-36. Eye City
-37. Glue World
-38. Gnashville
-39. Graceland
-40. Heaven
-41. Hell
-42. Kingdom Falls
-43. Land of Honey
-44. Land of the Lords
-45. Land's End
-46. Mad City
-47. Main Street
-48. Melting houses of gold
-49. Memory's prism
-50. Mojave Desert
-51. Mount Everest
-52. Mouth Mountain
-53. New Orphan Asylum for Spirited Deerchildren
-54. Night City
-55. Planet Caravan
-56. Polygonwanaland
-57. Recycler 1a
-58. Recycler 1b
-59. Saturday City
-60. Shores of Mutilation
-61. Slaughter Beach
-62. Specter's Castle
-63. Strangeland
-64. Sun City
-65. Sushi Temple
-66. Temple of Angels
-67. Temple of Null
-68. The Abyss Mouth
-69. The Altered World
-70. The Black Star
-71. The Blood River
-72. The Cloud Monolith
-73. The Cosmic Cave
-74. The Court of the Crimson King
-75. The Crack of Doom
-76. The Danger Zone
-77. The factory of raw essentials
-78. The Falling Veil
-79. The Garden of Lust
-80. The hadal zone
-81. The Highway to the Stars
-82. The House of Light
-83. The House of Starbucks
-84. The Infinity Farm
-85. The Last Oasis
-86. The Lawless Lands
-87. The Lost River
-88. The Merry Barracks
-89. The Ocean of Tears
-90. The Ozone Clone Zone
-91. The People's Square
-92. The Planet of Straw Men
-93. The Pulsar Palace
-94. The River of Souls
-95. The Sea of Trees
-96. The Undimension
-97. The Western Union
-98. The White Sea
-99. The You Garden
-100. Widow City
+| #    | Location                                  | #    | Location                            | #    | Location                                    | #    | Location                      |
+| ---- | ----------------------------------------- | ---- | ----------------------------------- | ---- | ------------------------------------------- | ---- | ----------------------------- |
+| 1    | A castle in the air                       | 26   | Chrome Country                      | 51   | Mount Everest                               | 76   | The Danger Zone               |
+| 2    | A chat room                               | 27   | Combination Pizza Hut and Taco Bell | 52   | Mouth Mountain                              | 77   | The factory of raw essentials |
+| 3    | A digital eternity                        | 28   | Crystal Run                         | 53   | New Orphan Asylum for Spirited Deerchildren | 78   | The Falling Veil              |
+| 4    | A dream house                             | 29   | Dark ruins                          | 54   | Night City                                  | 79   | The Garden of Lust            |
+| 5    | A drone maze                              | 30   | Desert sands of Venus               | 55   | Planet Caravan                              | 80   | The hadal zone                |
+| 6    | A faraway moon                            | 31   | Deserted dunes                      | 56   | Polygonwanaland                             | 81   | The Highway to the Stars      |
+| 7    | A freak train                             | 32   | Desolation Row                      | 57   | Recycler 1a                                 | 82   | The House of Light            |
+| 8    | A holy forest                             | 33   | Divine Wasteland                    | 58   | Recycler 1b                                 | 83   | The House of Starbucks        |
+| 9    | A mansion full of other's people's skulls | 34   | Doom City                           | 59   | Saturday City                               | 84   | The Infinity Farm             |
+| 10   | A mass grave                              | 35   | Eternia                             | 60   | Shores of Mutilation                        | 85   | The Last Oasis                |
+| 11   | A Perfect Earth                           | 36   | Eye City                            | 61   | Slaughter Beach                             | 86   | The Lawless Lands             |
+| 12   | A prayer factory                          | 37   | Glue World                          | 62   | Specter's Castle                            | 87   | The Lost River                |
+| 13   | A pressure chamber                        | 38   | Gnashville                          | 63   | Strangeland                                 | 88   | The Merry Barracks            |
+| 14   | A timehole                                | 39   | Graceland                           | 64   | Sun City                                    | 89   | The Ocean of Tears            |
+| 15   | A voice plantation                        | 40   | Heaven                              | 65   | Sushi Temple                                | 90   | The Ozone Clone Zone          |
+| 16   | A workshop behind the old arcade          | 41   | Hell                                | 66   | Temple of Angels                            | 91   | The People's Square           |
+| 17   | An alien sphere                           | 42   | Kingdom Falls                       | 67   | Temple of Null                              | 92   | The Planet of Straw Men       |
+| 18   | An amusement park on fire                 | 43   | Land of Honey                       | 68   | The Abyss Mouth                             | 93   | The Pulsar Palace             |
+| 19   | An Eden portal                            | 44   | Land of the Lords                   | 69   | The Altered World                           | 94   | The River of Souls            |
+| 20   | An immense endless belt of faces          | 45   | Land's End                          | 70   | The Black Star                              | 95   | The Sea of Trees              |
+| 21   | An orgasm theatre                         | 46   | Mad City                            | 71   | The Blood River                             | 96   | The Undimension               |
+| 22   | Archive Seven                             | 47   | Main Street                         | 72   | The Cloud Monolith                          | 97   | The Western Union             |
+| 23   | Between memories                          | 48   | Melting houses of gold              | 73   | The Cosmic Cave                             | 98   | The White Sea                 |
+| 24   | Blood River                               | 49   | Memory's prism                      | 74   | The Court of the Crimson King               | 99   | The You Garden                |
+| 25   | Cannibal Capital                          | 50   | Mojave Desert                       | 75   | The Crack of Doom                           | 100  | Widow City                    |
 
 *with suggestions from Ryan Bell, Jessica Marquardt, and Eric Swanson*
 

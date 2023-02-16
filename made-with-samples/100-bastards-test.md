@@ -303,17 +303,54 @@ You wear a blue jumpsuit and blaze like the stars. You can summon and ride the g
 
 ## 41. Giant Tiger Fighter
 
+Roll 1d6.
+
+- 1-2: you are a **Giant Tiger** gifted in martial arts. Your claws and teeth do 2d6 damage, and you have Advantage when sneaking up on targets.
+- 3-4: you are an **Average Human** pressed into service fighting against giant tigers. Start with a spear (d6), a bottle of tiger piss, and a body covered in scars. You start with Luck equal to your highest stat.
+- 5-6: you are a **Giant** seeking revenge against tigers. Your fists and feet do 2d6 damage against anything smaller than you. Start with +2 AC and a necklace of tiger skulls.
+
+[*Zohla*](http://zoh.la)*: "Giants In My Field" by Parkas*
+
 
 
 ## 42. Hand Thief
 
+Start with 2d6 Hands (1HP, poke/scratch) which you have stolen, animated, and trained to be your assistants. You steal other things, of course, but prefer hands.
+
+*D. Nivens: "The Hands That Thieve" by Streetlight Manifesto*
+
 
 
 ## 43. Haruspex
+
+Start with a red, serrated blade (2d6). Drawing blood with your blade casts the spell *Foretell Future* (whether you want it to or not). You are consumed by rot and mold. Once per day you must kneel before The Shadow Queen.
+
+*Kaisa: “Haruspex” by Xoth*
+
 ## 44. Headless Thompson Gunner
+
+You are a gun for hire from the Land of the Midnight Sun. Start with a Thompson gun (heavy, 2d6 damage with Advantage), a pouch of bullets, no head, and a vendetta for the bastards who wanted you dead. You cannot be killed.
+
+[*Sivad’s Sanctum*](https://twitter.com/sivads_sanctum?t=hXEBGKQanKM9EqQlzR4SGQ&s=09)*: “Roland the Headless Thompson Gunner” by Warren Zevon*
+
 ## 45. Heart of Steel
+
+You arrived riding a comet, flames in your eyes, silent as a heavy stone. Start with +3 HP and the spells *Kneel* and *Bow Your Head*. Laugh your cold dark laugh to force a Morale check.
+
+*Starling Ridgeway: “Heart of Steel” by Manowar*
+
 ## 46. Heir to Despair
+
+You are the demigod offspring of Despair, born of one of their many wretched human consorts. Cast the spell *Sigh* to drain a target of their will to continue. Use the spell *No Light, No Shadow* to eliminate a source of light and its shadow. You know the spell *Momentary Peace*, but have been forbidden from using it.
+
+*Kaisa: "Heir To Despair" by Sigh*
+
 ## 47. Human Fly
+
+You have 96 eyes and 96 tears. You’ve got a garbage brain, and you don’t care about nothin’. Start with +3 Dexterity and you can fucking fly. You’ll die in 1d20 days. The following day, 1d100+50 of your offspring will be born.
+
+*Clay Jensen*: "Human Fly" by The Cramps
+
 ## 48. Hunter
 ## 49. Hurt
 ## 50. Kitten

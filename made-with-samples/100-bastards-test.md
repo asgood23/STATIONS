@@ -151,82 +151,226 @@ You have an adult-sized coffin. You can always carry it, no matter how heavy it 
 
 ## 21. Dark Destroyer
 
-22. Demon-Eyed
-23. Devil Dogs
-24. Disgraced Legionnaire
-25. Doomed Sailor & The Captain’s Corpse
-26. El Mark
-27. Electric Lady
-28. End of Days Soldier
-29. Ex-Diamond Dealer
-30. Extraordinary
-31. Faker
-32. Famous Preacher
-33. First Person Shooter
-34. Fool
-35. Gambler
-36. Getting into Knives
-37. Ghost Rider
-38. Hand Thief
-39. Haruspex
-40. Headless Thompson Gunner
-41. Heart of Steel
-42. Heir to Despair
-43. Human Fly
-44. Hunter
-45. Hurt
-46. Kitten
-47. L’Enfant Sauvage
-48. Lonesome Ranger
-49. Master Killer
-50. Master of Skullcrusher Mountain
-51. Memory Vampyre
-52. Miss Understanding
-53. Ogre Hunter
-54. Organ Donor
-55. Owl Sparker
-56. People Vulture
-57. Periodic Ghost
-58. Perturbator
-59. Player of Cold
-60. Potential Homo Superior
-61. Pumpkinhead
-62. Puppet Master
-63. Rage Rat
-64. Recluse
-65. Regulators (for 2 characters)
-66. Sick as Fuck
-67. Sin Citizen
-68. Sonic Rebel
-69. Sorrow Harvester
-70. Spectra Sonic Sound
-71. Statue of the King
-72. Strange Formation
-73. Straw Worker
-74. Subterranean Homesick Alien
-75. Sun Killer
-76. Super Rich Kid
-77. Super Trouper
-78. Temper
-79. The Book of Right On
-80. The Eight Who Are One
-81. The Guitar
-82. The Man Who Sold the World
-83. The Spirit of Radio
-84. Time Collector
-85. Turbo Killer
-86. Two-Headed Dog
-87. U3Buzz Basic
-88. Vengeful Mariner
-89. Volcano
-90. Voodoo Chile
-91. Wandering Stranger
-92. Wayfinder/Waymaker
-93. Wayward Son of Man
-94. Winnebago Warrior
-95. Wonderboy
-96. Young Lover
-97. Zone Stepper
+You are a shadow called out of a fresh fallen corpse by The Powers to complete one last mission. You cannot be killed until it is finished. But you can definitely suffer. Start with the spells *Behold Terror* and *Annihilation.* 
+
+*Jon Neddo: “Indestructible” by Disturbed*
+
+
+## 22. Demon-Eyed
+
+You glisten in the moonlight, are skilled at hiding in trees, and can travel through holes in the night sky. Start with the spell *Squash Star*. Things you can’t see but you know are there: the moon, the end, the sun, love. Something you have seen: Someone die in the summertime.
+
+*Moxie: "Listening to the Frogs with Demon Eyes" by The Flaming Lips*
+
+
+
+## 23. Devil Dogs
+
+You are a devil who’s been split into three massive dogs with matted fur and eyes of subtle flame. One dog got your **bite** (1d6, rending); another, your **bile** (1d6, poison); and the last, your **fire** (the spell *Incinerate*).
+
+*Jon Neddo: “Devil Dogs” by Sabaton*
+
+
+
+
+## 24. Dirty Deed Do-er
+
+You’ll do any dirty deed for dirt cheap. Start with three dirty deeds that you can always do (with Advantage). Anytime you do a new deed for cheap, you can do it with Advantage from that point on. You carry a battered suitcase filled with cyanide, TNT, neckties, and contracts. 
+
+*Kerry Wilkinson: “Dirty Deeds Done Dirt Cheap” by AC/DC*
+
+## 25. Disgraced Legionnaire
+
+You were banished from a fallen land to a place beyond the stars. For centuries, you were lost within your own mind. You recently found your way home, riding the wings of dream. You are immune to fire. Start with a simple sword (d6) and the memory of blood on your hands. 
+
+*Jon Neddo: “Through the Fire and Flames” by DragonForce*
+
+
+
+## 26. Doomed Sailor & The Captain’s Corpse
+
+You went down with the ship, abandoned by one you counted as a friend. The corpse of the captain jumped on your back, cursing you with un-life and the strength to survive until your vengeance is served. You carry the corpse with you everywhere, hear its cold whispers in your mind, feel its dank cold comfort through the night. When you are threatened, the corpse animates and blindly attacks the threat (slash/bite/stab). The corpse can be damaged but cannot be killed. 
+
+*Starling Ridgeway: “Turkish Song of the Damned” by the Pogues*
+
+
+
+## 27. Drummer
+
+Start with ceremonial drums and cymbals. You can play the Songs of Happiness, which open the vaults of the heart and make the dark night colorful. Cast the spell *Drown in Happiness*, with caution.
+
+[*Brian Vincent Molina*](https://www.instagram.com/monkeebrian/)*: “Malhari” by Sanjay Leela Bhansali*
+
+
+
+## 28. El Mark
+
+You are a fashion model famous for your long, black, greased back hair. You can spit napalm (2d6 damage), and you are never sober.
+
+[*Halohand*](https://www.instagram.com/halohand_games/)*: “El Mark” by Glassjaw*
+
+
+
+## 29. Electric Lady
+
+You got the look the Gods agree they wanna see. Start with the spells *Shock*, *Water to Wine*, and *Reprogram Mind.* Your spaceship leaves at 10:00.
+
+[*Chris Air*](http://chrisair.itch.io)*: "Electric Lady" by Janelle Monáe*
+
+
+
+## 30. End of Days Soldier
+
+One day you emerged from the depths of the ocean. All you want is to feel pain and the bitter taste of blood on your lips, again. When you hear the *Thunder of the Drums* in your head, get +3 Strength and the urge to fight, kill, and maim. When you hit 0 HP, you hear the *Rising of the Horns* and are compelled to keep going (regain d6 HP).
+
+*Delphi: “Iron” by Woodkid*
+
+
+
+## 31. Ex-Diamond Dealer
+
+You start with d6 + 6 blood diamonds sharpened to razors (2d6 soul slice). You know the spells *Rain Fire* and *Rain Power*. You can see the true form of Capital Thralls; to others they appear as normal humans, but you see that they are actually in straight jackets, eyes replaced by bloody coins, stumbling toward the nearest stock exchange. You carry the shattered remains of your stupid old cell phone.
+
+[*Spooky Rusty*](http://www.spookyrusty.com)*: “I Used to Hate Cell Phones, but Now I Hate Car Accidents” by Norma Jean*
+
+
+
+## 32. Extraordinary
+
+You can sing a *Lullaby of Laughter* to cause a target to laugh joyfully and uncontrollably, releasing their anxiety and fears and drifting into a deep and peaceful sleep. (Unwilling targets Save to resist.) Casting the spell *Freak Self Out* causes you to do something utterly unexpected; this action triggers a profound insight about yourself, your current situation, or reality itself. Start with an accidental, opulent succulent. 
+
+[*James Lennox-Gordon*](https://unknowndungeon.itch.io/)*: "Anything but Ordinary" by Avril Lavigne* 
+
+
+
+## 33. Faker
+
+You wear a duster coat (+2 AC) that appears in whatever color, style and material is most likely to influence the viewer. Start with the spell *Take Dream* and an extra face.
+
+[*Chris Air*](http://chrisair.itch.io)*: "The Faker" by Ty Segall*
+
+
+
+## 34. Famous Preacher
+
+Start with the spells *Hypnotize, Infect,* and *Glamor*, d100 GP, and 1d6+6 faithful humans (1hp, 1 damage). You carry an endless chain (d6 damage).
+
+[*ManaRampMatt*](https://manarampmatt.itch.io/): “Leper Messiah” by Metallica
+
+
+
+## 35. First Person Shooter
+
+Of all the Person Shooters, you were the first and are still the best. Start with a pistol (d6), a musket (2d6), and a pack of bullets and powder. When opposed by other Shooters, roll with Advantage.
+
+*Delphi: "First Person Shooter" by Celldweller*
+
+
+
+## 36. Fool
+
+You have a chalice that is always full of wine, and hand bells that you can ring to cast the spells *Hope*, *Faith*, and *Damnation*. Start at the base of a moonlight gallows, singing a farewell song.
+
+*Starling Ridgeway: “At the Gallows End” by Candlemass*
+
+
+
+## 37. Gambler
+
+Start with +3 Wisdom, a bottle of whiskey, a deck of cards, and a second deck that’s all aces. You test Luck with Advantage and don’t lose Luck points on successful tests. You know when to hold ‘em, and when to fold ‘em.
+
+[*Halohand*](https://www.instagram.com/halohand_games/)*: “The Gambler” by Kenny Rogers*
+
+
+
+## 38. Getting into Knives
+
+After seeking wisdom from the sages and consulting master tacticians, you took up knives: start with 2d6. It's a gift to be simple, it's a gift to be free.
+
+*D. Nivens: “Getting into Knives” by The Mountain Goats*
+
+## 39. Ghost Magnet
+
+You are followed by 2d6 ghastly apparitions that claim to be the soul you are missing. Spread some silver ashes and test Luck to convince them to do something useful. Start with mid-dark thoughts of a great tombstone and memories of the endless sea of sorrows.
+
+*Granby: "Phantasmagoria" by Ashbury Heights*
+
+## 40. Ghost Rider
+
+You wear a blue jumpsuit and blaze like the stars. You can summon and ride the ghosts of America’s killed youth. Start with the spell S*cream Truth*.
+
+*Clay Jensen: “Ghost Rider” by Anna Calvi*
+
+## 41. Giant Tiger Fighter
+
+
+
+## 42. Hand Thief
+
+
+
+## 43. Haruspex
+## 44. Headless Thompson Gunner
+## 45. Heart of Steel
+## 46. Heir to Despair
+## 47. Human Fly
+## 48. Hunter
+## 49. Hurt
+## 50. Kitten
+## 51. L’Enfant Sauvage
+## 52. Lonesome Ranger
+## 53. Master Killer
+## 54. Master of Skullcrusher Mountain
+## 55. Memory Vampyre
+## 56. Miss Understanding
+## 57. Ogre Hunter
+## 58. Organ Donor
+## 59. Owl Sparker
+## 60. People Vulture
+## 61. Periodic Ghost
+## 62. Perturbator
+## 63. Player of Cold
+## 64. Potential Homo Superior
+## 65. Pumpkinhead
+## 66. Puppet Master
+## 67. Rage Rat
+## 68. Recluse
+## 69. Regulators (for 2 characters)
+## 70. Sick as Fuck
+## 71. Sin Citizen
+## 72. Sonic Rebel
+## 73. Sorrow Harvester
+## 74. Statue of the King
+## 75. Strange Formation
+## 76. Straw Worker
+## 77. Subterranean Homesick Alien
+## 78. Sun Killer
+## 79. Super Rich Kid
+## 80. Super Trouper
+## 81. Temper
+## 82. The Book of Right On
+## 83. The Eight Who Are One
+## 84. The Guitar
+## 85. The Man Who Sold the World
+## 86. The Spirit of Radio
+## 87. Time Collector
+## 88. Turbo Killer
+## 89. Two-Headed Dog
+## 90. U3Buzz Basic
+## 91. Vengeful Mariner
+## 92. Volcano
+## 93. Voodoo Chile
+## 94. Wandering Stranger
+## 95. Wayfinder/Waymaker
+## 96. Wayward Son of Man
+## 97. Winnebago Warrior
+
+## 98. Wonderboy
+
+## 99. Young Lover
+
+## 100. Zone Stepper
+
 
 
 

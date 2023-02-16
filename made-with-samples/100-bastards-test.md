@@ -688,6 +688,28 @@ You can step into the Twilight Zone and stay there for up to five minutes. When 
 
 
 
+# Bonus / Oopsy Bastards
+
+## 1. Dirty Deed Do-er
+
+You’ll do any dirty deed for dirt cheap. Start with three dirty deeds that you can always do (with Advantage). Anytime you do a new deed for cheap, you can do it with Advantage from that point on. You carry a battered suitcase filled with cyanide, TNT, neckties, and contracts. 
+
+*Kerry Wilkinson: “Dirty Deeds Done Dirt Cheap” by AC/DC*
+
+## 2. Skull Crusher
+
+Your clenched fists do 2d6 damage (with Advantage when striking skulls and the meatskin around them). Snorting the powder of a crushed skull gives you the being’s power for d6 years.
+
+*Marty V: “Skull Crusher” by Man is the Bastard*
+
+## 3. Spectra Sonic Sound
+
+You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black suit stolen from a ghost. Start with 1d6 pieces of sticky candy and 1d6 pieces of chewy candy. You can snort confection on demand, temporarily becoming a ghost of pure sound.
+
+[*Justin*](http://www.severedbooks.com/)*: “Spectra Sonic Sound” by Nation of Ulysses*
+
+
+
 
 # I search the bastard …
 

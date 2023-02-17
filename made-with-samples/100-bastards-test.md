@@ -18,6 +18,16 @@ nav_order: 9
 
 
 
+[Sign up for updates on this and other STATIONS projects.](https://mailchi.mp/e551195da5f3/qr-sign-up)
+
+
+
+
+
+
+
+
+
 **Contents**
 
 1. [100 Bastards Playlist](#100-bastards-playlist)

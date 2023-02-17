@@ -7,17 +7,46 @@ nav_order: 9
 ---
 
 # Make 100 Bastards
-{: .no_toc }
 
-- TOC
-{:toc}
+
+
 
 
 
 # The 100 Bastards
 
+| #    | Bastard                              | #    | Bastard                  | #    | Bastard                         | #    | Bastard                     |
+| ---- | ------------------------------------ | ---- | ------------------------ | ---- | ------------------------------- | ---- | --------------------------- |
+| 1    | Ace of Spades                        | 26   | Drummer                  | 51   | L’Enfant Sauvage                | 76   | Straw Worker                |
+| 2    | Actress                              | 27   | El Mark                  | 52   | Lonesome Ranger                 | 77   | Subterranean Homesick Alien |
+| 3    | Ancient One                          | 28   | Electric Lady            | 53   | Master Killer                   | 78   | Sun Killer                  |
+| 4    | Atom Heart Mother                    | 29   | End of Days Soldier      | 54   | Master of Skullcrusher Mountain | 79   | Super Rich Kid              |
+| 5    | Automatic Husband                    | 30   | Ex-Diamond Dealer        | 55   | Memory Vampyre                  | 80   | Super Trouper               |
+| 6    | Baby Criminal                        | 31   | Extraordinary            | 56   | Miss Understanding              | 81   | Temper                      |
+| 7    | Black Emperor                        | 32   | Faker                    | 57   | Ogre Hunter                     | 82   | The Book of Right On        |
+| 8    | Blue Lotus Adept                     | 33   | Famous Preacher          | 58   | Organ Donor                     | 83   | The Eight Who Are One       |
+| 9    | Bomb                                 | 34   | First Person Shooter     | 59   | Owl Sparker                     | 84   | The Guitar                  |
+| 10   | Boxer                                | 35   | Fool                     | 60   | People Vulture                  | 85   | The Man Who Sold the World  |
+| 11   | Brainwasher                          | 36   | Gambler                  | 61   | Periodic Ghost                  | 86   | The Spirit of Radio         |
+| 12   | Bug Collector                        | 37   | Getting into Knives      | 62   | Perturbator                     | 87   | Time Collector              |
+| 13   | Candy Man                            | 38   | Ghost Magnet             | 63   | Player of Cold                  | 88   | Turbo Killer                |
+| 14   | Cave Dweller                         | 39   | Ghost Rider              | 64   | Potential Homo Superior         | 89   | Two-Headed Dog              |
+| 15   | Chainmelter                          | 40   | Giant Tiger Fighter      | 65   | Pumpkinhead                     | 90   | U3Buzz Basic                |
+| 16   | Chauffeur                            | 41   | Hand Thief               | 66   | Puppet Master                   | 91   | Vengeful Mariner            |
+| 17   | Child of the Rising Sun              | 42   | Haruspex                 | 67   | Rage Rat                        | 92   | Volcano                     |
+| 18   | Church Ghost                         | 43   | Headless Thompson Gunner | 68   | Recluse                         | 93   | Voodoo Chile                |
+| 19   | City Slicker                         | 44   | Heart of Steel           | 69   | Regulators (for 2 characters)   | 94   | Wandering Stranger          |
+| 20   | Coffin Carrier                       | 45   | Heir to Despair          | 70   | Sick as Fuck                    | 95   | Wayfinder/Waymaker          |
+| 21   | Dark Destroyer                       | 46   | Human Fly                | 71   | Sin Citizen                     | 96   | Wayward Son of Man          |
+| 22   | Demon-Eyed                           | 47   | Hunter                   | 72   | Sonic Rebel                     | 97   | Winnebago Warrior           |
+| 23   | Devil Dogs                           | 48   | Hurt                     | 73   | Sorrow Harvester                | 98   | Wonderboy                   |
+| 24   | Disgraced Legionnaire                | 49   | Infinity Kisser          | 74   | Statue of the King              | 99   | Young Lover                 |
+| 25   | Doomed Sailor & The Captain’s Corpse | 50   | Kitten                   | 75   | Strange Formation               | 100  | Zone Stepper                |
+
+
 
 ## 1. Ace of Spades
+
 You are a gravedigger who dreams of winning big at games of chance. Start with your ancestral spade that can dig through any surface (2d6).
 
 *[ManaRampMatt](https://manarampmatt.itch.io/): “Ace of Spades” by Möterhead*

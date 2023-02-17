@@ -983,7 +983,7 @@ These lucky ~~backers~~ bastards got to submit multiple prompts!
 10. Wayfinder/Waymaker
 
 ### [ManaRampMatt](https://manarampmatt.itch.io/)
-1. Ace of Spades
+1. [Ace of Spades](#1-ace-of-spades)
 2. Actress
 3. Boxer
 4. Cave Dweller

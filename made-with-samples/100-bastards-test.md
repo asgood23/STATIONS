@@ -699,7 +699,7 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 
 
 
-# Flavor tables
+# Bastard Flavor: Tables & Generators
 
 ## I search the bastard …
 

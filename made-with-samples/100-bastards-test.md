@@ -10,9 +10,6 @@ nav_order: 9
 
 
 
-
-
-
 # The 100 Bastards
 
 | #    | Bastard                              | #    | Bastard                  | #    | Bastard                         | #    | Bastard                     |

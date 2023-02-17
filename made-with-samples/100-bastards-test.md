@@ -8,23 +8,13 @@ nav_order: 9
 
 # 100 Bastards
 
+100 character backgrounds, based on music prompts provided by our [Kickstarter](https://www.kickstarter.com/projects/72stations/make-100-bastards) backers.
 
+Made for use with the excellent RPG [Bastards](https://micah-anderson.itch.io/bastards-pearlescent-edition), but you can use them with any game system as PC backgrounds or interesting NPCs.
 
+PDF version coming soon.	
 
-
-
-
-
-
-
-
-[Sign up for updates on this and other STATIONS projects.](https://mailchi.mp/e551195da5f3/qr-sign-up)
-
-
-
-
-
-
+[Sign up for updates on this and other STATIONS projects.](https://mailchi.mp/e551195da5f3/qr-sign-up){:target="_blank"}
 
 
 
@@ -49,8 +39,11 @@ Songs submitted to the Make 100 Bastards Kickstarter.
 
 
 
-
 # The 100 Bastards
+
+Roll d100, that's your bastard.
+
+Some bastard titles maintain their 
 
 | #    | Bastard                              | #    | Bastard                  | #    | Bastard                         | #    | Bastard                     |
 | ---- | ------------------------------------ | ---- | ------------------------ | ---- | ------------------------------- | ---- | --------------------------- |
@@ -68,7 +61,7 @@ Songs submitted to the Make 100 Bastards Kickstarter.
 | 12   | Bug Collector                        | 37   | Getting into Knives      | 62   | Perturbator                     | 87   | Time Collector              |
 | 13   | Candy Man                            | 38   | Ghost Magnet             | 63   | Player of Cold                  | 88   | Turbo Killer                |
 | 14   | Cave Dweller                         | 39   | Ghost Rider              | 64   | Potential Homo Superior         | 89   | Two-Headed Dog              |
-| 15   | Chainmelter                          | 40   | Giant Tiger Fighter      | 65   | Pumpkinhead                     | 90   | U3Buzz Basic                |
+| 15   | Chainmelter                          | 40   | Giant Tiger Fighter      | 65   | Pumpkinhead                     | 90   | U<sub>3</sub>Buzz Basic                |
 | 16   | Chauffeur                            | 41   | Hand Thief               | 66   | Puppet Master                   | 91   | Vengeful Mariner            |
 | 17   | Child of the Rising Sun              | 42   | Haruspex                 | 67   | Rage Rat                        | 92   | Volcano                     |
 | 18   | Church Ghost                         | 43   | Headless Thompson Gunner | 68   | Recluse                         | 93   | Voodoo Chile                |

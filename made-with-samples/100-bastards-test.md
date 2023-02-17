@@ -54,7 +54,7 @@ Start with a script, a black dress, a hardened heart, and +1 Wisdom. Test Luck t
 *[ManaRampMatt](https://manarampmatt.itch.io/): “Cleopatra” by the Lumineers*
 
 ## 3. Ancient One
-You are river and stone, moaning to the moon, swooning in the sunset. Start with the spells Whisper to Water, Stone to Dust, and Metal to Rust. A lily builds a home inside your bones.
+You are river and stone, moaning to the moon, swooning in the sunset. Start with the spells *Whisper to Water*, *Stone to Dust*, and *Metal to Rust*. A lily builds a home inside your bones.
 
 *Krustentier: "Scissor Paper Rock" by Indica*
 

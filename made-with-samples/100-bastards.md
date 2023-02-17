@@ -8,7 +8,7 @@ nav_order: 1
 
 # 100 Bastards
 
-100 character backgrounds, based on music prompts provided by our [Kickstarter](https://www.kickstarter.com/projects/72stations/make-100-bastards){:target="_blank"} backers.
+100 character classes, based on music prompts provided by our [Kickstarter](https://www.kickstarter.com/projects/72stations/make-100-bastards){:target="_blank"} backers.
 
 Made for use with the excellent RPG [Bastards](https://micah-anderson.itch.io/bastards-pearlescent-edition){:target="_blank"}, but you can use them with any game system as PC backgrounds or interesting NPCs.
 

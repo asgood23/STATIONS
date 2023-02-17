@@ -6,20 +6,36 @@ parent: Made with Samples
 nav_order: 9
 ---
 
-# Make 100 Bastards
+# 100 Bastards
+
+
+
+
+
+
+
+
 
 
 
 **Contents**
 
-1. [The 100 Bastards](#the-100-bastards)
-2. [Bonus / Oopsy Bastards](#bonus--oopsy-bastards)
-3. [Bastard Flavors: Tables & Generators](#bastard-flavor-tables--generators)
-4. 
+1. [100 Bastards Playlist](#100-bastards-playlist)
+2. [The 100 Bastards](#the-100-bastards)
+3. [Bonus / Oopsy Bastards](#bonus--oopsy-bastards)
+4. [Bastard Flavors: Tables & Generators](#bastard-flavor-tables--generators)
+5. [Bastard Collections: 5- and 10-bastard groups](#bastard-collections)
+6. [Credits](#credits)
 
 
 
+# 100 Bastards Playlist
 
+Songs submitted to the Make 100 Bastards Kickstarter.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3HO3exOVb5j9sOsITekGaI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+*Whenever possible, support artists by purchasing music directly from them*
 
 
 
@@ -963,7 +979,6 @@ These lucky ~~backers~~ bastards got to submit multiple prompts!
 9. Volcano
 10. Wayfinder/Waymaker
 
-    
 ### [ManaRampMatt](https://manarampmatt.itch.io/)
 1. Ace of Spades
 2. Actress
@@ -996,21 +1011,11 @@ These lucky ~~backers~~ bastards got to submit multiple prompts!
 
 Writing by STATIONS.
 
-Prompts from Kickstarter backers.
-
-Illustrations by:
-
-[[credits will go here]]
+Prompts from our wonderful Kickstarter backers.
 
 
 
-# 100 Bastards Playlist
 
-Songs submitted to the Make 100 Bastards Kickstarter.
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3HO3exOVb5j9sOsITekGaI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-*Whenever possible, support artists by purchasing music directly from them*
 
 
 

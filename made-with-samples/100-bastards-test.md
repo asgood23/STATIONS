@@ -918,7 +918,7 @@ These lucky ~~backers~~ bastards got to submit multiple prompts!
 4. Memory Vampyre
 5. Sonic Rebel
 6. Strange Formation
-7. U3Buzz Basic
+7. U<sub>3</sub>Buzz Basic
 8. Vengeful Mariner
 9. Volcano
 10. Wayfinder/Waymaker

@@ -43,7 +43,7 @@ Songs submitted to the Make 100 Bastards Kickstarter.
 
 Roll d100, that's your bastard.
 
-Some bastard titles maintain their 
+*While some bastard names have an implied gender because of their original song reference, play any of these as any gender you'd like, and use appropriate pronouns respectively. Be a bastard, not an asshole.*
 
 | #    | Bastard                              | #    | Bastard                  | #    | Bastard                         | #    | Bastard                     |
 | ---- | ------------------------------------ | ---- | ------------------------ | ---- | ------------------------------- | ---- | --------------------------- |
@@ -1016,7 +1016,11 @@ Writing by STATIONS.
 
 Prompts from our wonderful Kickstarter backers.
 
+PDF version will have illustrations and additional acknowledgments.
 
+
+
+[Sign up for updates on this and other STATIONS projects.](https://mailchi.mp/e551195da5f3/qr-sign-up){:target="_blank"}
 
 
 

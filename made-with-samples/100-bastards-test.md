@@ -838,6 +838,118 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 | 19   | Gambler          | Commune with owls          | 2d6 sentient, animated hands                                 | Actually the avatar of an ancient volcano                   |
 | 20   | Sonic Rebel      | Sing anyone to sleep       | A shapeshifting violin (key to another universe)             | You come from the sunset, from the sea, from sorrow.        |
 
+# Bastard Collections
+
+These lucky ~~backers~~ bastards got to submit multiple prompts!
+
+## Band of Bastards (5)
+
+### [Chris Air](http://chrisair.itch.io)
+
+1. Blue Lotus Adept
+2. Electric Lady
+3. Faker
+4. Miss Understanding
+5. Voodoo Chile
+
+### Clay Jensen
+
+1. Ghost Rider
+2. Human Fly
+3. Organ Donor
+4. Super Trouper
+5. Winnebago Warrior
+
+### Delphi
+
+1. Black Emperor
+2. End of Days Soldier
+3. First Person Shooter
+4. Kitten
+5. Potential Homo Superior
+
+### [Halohand](https://www.instagram.com/halohand_games/)
+
+1. Candy Man
+2. Chauffeur
+3. El Mark
+4. Gambler
+5. Recluse
+
+### [IKO](https://www.thelostbaystudio.com/)
+
+1. Hunter
+2. L’Enfant Sauvage
+3. Owl Sparker
+4. Temper
+5. Wandering Stranger
+
+### Jon Neddo
+
+1. Dark Destroyer
+2. Devil Dogs
+3. Disgraced Legionnaire
+4. Sick as Fuck
+5. Statue of the King
+
+### Kaisa
+
+1. The Eight Who Are One
+2. Baby Criminal
+3. Haruspex
+4. Heir to Despair
+5. People Vulture
+
+### Moxie
+
+1. Atom Heart Mother
+2. Demon-Eyed
+3. Subterranean Homesick Alien
+4. The Man Who Sold the World
+5. The Spirit of Radio
+
+
+## Army of Bastards (10)
+
+### D. Nivens
+1. Church Ghost
+2. Getting into Knives
+3. Hand Thief
+4. Memory Vampyre
+5. Sonic Rebel
+6. Strange Formation
+7. U3Buzz Basic
+8. Vengeful Mariner
+9. Volcano
+10. Wayfinder/Waymaker
+
+    
+### [ManaRampMatt](https://manarampmatt.itch.io/)
+1. Ace of Spades
+2. Actress
+3. Boxer
+4. Cave Dweller
+5. Famous Preacher
+6. Lonesome Ranger
+7. Player of Cold
+8. Regulators (for 2 characters)
+9. Sorrow Harvester
+10. Straw Worker
+
+
+### Starling Ridgeway
+1. Bomb
+2. Child of the Rising Sun
+3. Fool
+4. Coffin Carrier
+5. Doomed Sailor & The Captain’s Corpse
+6. The Guitar
+7. Heart of Steel
+8. Pumpkinhead
+9. Rage Rat
+10. Zone Stepper
+
+
 
 
 # Credits

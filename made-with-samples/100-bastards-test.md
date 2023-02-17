@@ -10,6 +10,20 @@ nav_order: 9
 
 
 
+**Contents**
+
+1. [The 100 Bastards](#the-100-bastards)
+2. [Bonus / Oopsy Bastards](#bonus--oopsy-bastards)
+3. [Bastard Flavors: Tables & Generators](#bastard-flavor-tables--generators)
+4. 
+
+
+
+
+
+
+
+
 # The 100 Bastards
 
 | #    | Bastard                              | #    | Bastard                  | #    | Bastard                         | #    | Bastard                     |

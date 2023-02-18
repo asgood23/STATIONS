@@ -1,18 +1,18 @@
 ---
 layout: default
-title: 100 Bastards
-permalink: 100-bastards
+title: Make 100 Bastards
+permalink: make-100-bastards
 parent: Made with Samples
 nav_order: 1
 ---
 
-# 100 Bastards
+# (Make) 100 Bastards
 
 100 character classes, based on music prompts provided by our [Kickstarter](https://www.kickstarter.com/projects/72stations/make-100-bastards){:target="_blank"} backers.
 
-Made for use with the excellent RPG [Bastards](https://micah-anderson.itch.io/bastards-pearlescent-edition){:target="_blank"}, but you can use them with any game system as PC backgrounds or interesting NPCs.
+Made for use with Micah Anderson’s excellent RPG [Bastards](https://micah-anderson.itch.io/bastards-pearlescent-edition){:target="_blank"}, but you can use them with any game system as PC backgrounds or interesting NPCs.
 
-PDF version coming soon.	
+PDF version coming March 2023.	
 
 [Sign up for updates on this and other STATIONS projects.](https://mailchi.mp/e551195da5f3/qr-sign-up){:target="_blank"}
 
@@ -20,12 +20,12 @@ PDF version coming soon.
 
 **Contents**
 
-1. [100 Bastards Playlist](#100-bastards-playlist)
-2. [The 100 Bastards](#the-100-bastards)
-3. [Bonus / Oopsy Bastards](#bonus--oopsy-bastards)
-4. [Bastard Flavors: Tables & Generators](#bastard-flavor-tables--generators)
-5. [Bastard Collections: 5- and 10-bastard groups](#bastard-collections)
-6. [Credits](#credits)
+- [100 Bastards Playlist](#100-bastards-playlist)
+- [The 100 Bastards](#the-100-bastards)
+- [Bonus / Oopsy Bastards](#bonus--oopsy-bastards)
+- [Bastard Flavors: Tables & Generators](#bastard-flavor-tables--generators)
+- [Bastard Collections: 5- and 10-bastard groups](#bastard-collections)
+- [Credits](#credits)
 
 
 
@@ -35,13 +35,13 @@ Songs submitted to the Make 100 Bastards Kickstarter.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3HO3exOVb5j9sOsITekGaI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-*Whenever possible, support artists by purchasing music directly from them*
+*Whenever possible, support artists by purchasing music and merch directly from them*
 
 
 
 # The 100 Bastards
 
-Roll d100, that's your bastard.
+Roll d100. That's your bastard.
 
 *While some bastard names have an implied gender because of their original song reference, play any of these as any gender you'd like, and use appropriate pronouns respectively. Be a bastard, not an asshole.*
 
@@ -99,7 +99,7 @@ Once per day, birth a new element: a novel and powerful combination of particles
 ## 5. Automatic Husband
 Test Luck to become a target’s Husband. Start with a pen, an imaginary map, and a birth chart made by a special commission of Navajo basketball coaches and blonde ladies.
 
-*[Eric Swanson](https://www.instagram.com/wooodsman/),  “Automatic Husband” by Fiery Furnaces*
+*[Eric Swanson](https://www.instagram.com/wooodsman/):  “Automatic Husband” by Fiery Furnaces*
 
 ## 6. Baby Criminal
 
@@ -149,11 +149,11 @@ You always have the candy someone most desires. Start with the spells *Wrap a Ra
 
 *[Halohand](https://www.instagram.com/halohand_games/): “The Candy Man” by Sammy Davis Jr.*
 
-**Candy Man (alt. take) -**
+**Candy Man (alt. take)**
 
 You are a human-sized Candy Golem intent on making the world taste good. You can peel confections from your own body that, when eaten, heal minor wounds (d6). You take d4 damage for every piece of yourself you give, which heals by normal means. You cannot benefit from eating your own magic. You carry a secret sadness that’s all your own.
 
- *“The Candy Man” by Aubrey Woods, Willy Wonka & the Chocolate Factory (soundtrack, 1971)*
+ *STATIONS: “The Candy Man” by Aubrey Woods, Willy Wonka & the Chocolate Factory (soundtrack, 1971)*
 
 ## 14. Cave Dweller
 
@@ -586,7 +586,7 @@ Start with a knife (2d6) forged in a dying star; it consumes any blaze it touche
 
 Start with 4d20+20 gold, your family’s sommelier (hireling, d6+1 HP) carrying 1d10 bottles of wine you can’t pronounce, and your loyal dealer (hireling, d6+6 HP) holding too many bowls of that green. Spend 1 gold to reroll Luck rolls, and you are entitled to twice your fair share of group treasure.
 
-[*Jamie*](https://twitter.com/jamiegp)*: “*[*Super Rich Kids*](https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb?si=9f7b4825c1614dd2)*” by Frank Ocean*
+[*Jamie STATIONS*](https://jamiestations.itch.io/)*: “*[*Super Rich Kids*](https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb?si=9f7b4825c1614dd2)*” by Frank Ocean*
 
 ## 80. Super Trouper
 
@@ -736,21 +736,21 @@ You can step into the Twilight Zone and stay there for up to five minutes. When 
 
 
 
-# Bonus / Oopsy Bastards
+# Three Bonus Oopsy Bastards
 
-## 1. Dirty Deed Do-er
+## Dirty Deed Do-er
 
 You’ll do any dirty deed for dirt cheap. Start with three dirty deeds that you can always do (with Advantage). Anytime you do a new deed for cheap, you can do it with Advantage from that point on. You carry a battered suitcase filled with cyanide, TNT, neckties, and contracts. 
 
 *Kerry Wilkinson: “Dirty Deeds Done Dirt Cheap” by AC/DC*
 
-## 2. Skull Crusher
+## Skull Crusher
 
 Your clenched fists do 2d6 damage (with Advantage when striking skulls and the meatskin around them). Snorting the powder of a crushed skull gives you the being’s power for d6 years.
 
 *Marty V: “Skull Crusher” by Man is the Bastard*
 
-## 3. Spectra Sonic Sound
+## Spectra Sonic Sound
 
 You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black suit stolen from a ghost. Start with 1d6 pieces of sticky candy and 1d6 pieces of chewy candy. You can snort confection on demand, temporarily becoming a ghost of pure sound.
 
@@ -762,7 +762,7 @@ You have sugar teeth, gums that bleed, and a razor voice. You wear a fancy black
 
 ## I search the bastard …
 
-*d100 items to find on bastards and/or just laying around*
+*d100 items to find on bastards and/or just lying around*
 
 | #    | Item                              | #    | Item                  | #    | Item              | #    | Item                                  |
 | ---- | --------------------------------- | ---- | --------------------- | ---- | ----------------- | ---- | ------------------------------------- |
@@ -982,17 +982,60 @@ These lucky ~~backers~~ bastards got to submit multiple prompts!
 9. Volcano
 10. Wayfinder/Waymaker
 
-### [ManaRampMatt](https://manarampmatt.itch.io/)
-1. [Ace of Spades](#1-ace-of-spades)
-2. Actress
-3. Boxer
-4. Cave Dweller
-5. Famous Preacher
-6. Lonesome Ranger
-7. Player of Cold
-8. Regulators (for 2 characters)
-9. Sorrow Harvester
-10. Straw Worker
+### [ManaRampMatt](https://manarampmatt.itch.io/)'s Army of Bastards
+**1. Ace of Spades**
+
+---
+
+You are a gravedigger who dreams of winning big at games of chance. Start with your ancestral spade that can dig through any surface (2d6).
+
+*“Ace of Spades” by Möterhead*
+
+---
+
+**2. Actress**
+
+---
+
+Start with a script, a black dress, a hardened heart, and +1 Wisdom. Test Luck to convincingly impersonate anyone.
+
+*“Cleopatra” by the Lumineers*
+
+---
+
+**3. Boxer**
+
+---
+
+Your fists are deadly weapons (d6). You have +1 Strength and +1 Dexterity. You are always able to find poor, hidden lodgings known only to The Ragged People. Start with a pocket full of mumbles.
+
+*“The Boxer” by Simon and Garfunkel* 
+
+---
+
+**Cave Dweller**
+
+---
+
+You are a cannibal. You walk on your hands as easily as your feet (+1 Dexterity). By staring long and deep at someone, you realize a truth that will refresh their broken mind. It’s empty in the valley of your heart, but you’ve left all your fears behind. Start with a noose around your neck.
+
+*“The Cave” by Mumford & Sons*
+
+---
+
+**Famous Preacher**
+
+---
+
+Lonesome Ranger
+
+Player of Cold
+
+Regulators (for 2 characters)
+
+Sorrow Harvester
+
+Straw Worker
 
 
 ### Starling Ridgeway
@@ -1016,7 +1059,7 @@ Writing by STATIONS.
 
 Prompts from our wonderful Kickstarter backers.
 
-PDF version will have illustrations and additional acknowledgments.
+PDF version coming March 2023 will have illustrations and additional acknowledgments.
 
 
 

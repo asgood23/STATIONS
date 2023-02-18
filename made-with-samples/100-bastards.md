@@ -1041,61 +1041,245 @@ Start with +5 Wisdom and a copy of Alistair Crowley’s biography. You know the 
 
 **1. Candy Man**
 
+You always have the candy someone most desires. Start with the spells *Wrap a Rainbow in a Sigh, Separate Sorrow*, and *Dip Tomorrow in a Dream*. People feel compelled to tell you their childhood wishes. You can eat anything as if it were candy.
+
+*The Candy Man” by Sammy Davis Jr.*
+
+**Candy Man (alt. take)**
+
+You are a human-sized Candy Golem intent on making the world taste good. You can peel confections from your own body that, when eaten, heal minor wounds (d6). You take d4 damage for every piece of yourself you give, which heals by normal means. You cannot benefit from eating your own magic. You carry a secret sadness that’s all your own.
+
+ *STATIONS: “The Candy Man” by Aubrey Woods, Willy Wonka & the Chocolate Factory (soundtrack, 1971)*
+
+---
+
 **2. Chauffeur**
+
+You drive any vehicle with perfect, practiced professionalism. Start with the spell *Sing Blue Silver* and a mind full of glass splinters. Engines drone in time with your beating heart.
+
+*“The Chauffeur” by Duran Duran*
+
+---
 
 **3. El Mark**
 
+You are a fashion model famous for your long, black, greased back hair. You can spit napalm (2d6 damage), and you are never sober.
+
+*“El Mark” by Glassjaw*
+
+---
+
 **4. Gambler**
+
+Start with +3 Wisdom, a bottle of whiskey, a deck of cards, and a second deck that’s all aces. You test Luck with Advantage and don’t lose Luck points on successful tests. You know when to hold ‘em, and when to fold ‘em.
+
+*“The Gambler” by Kenny Rogers*
+
+---
 
 **5. Recluse**
 
+You sleep alone and you wake alone, in the bed you once shared. Your only possession is your ex-lover’s notebook, filled with words you barely understand. Once per day, flip through it to discover a random spell; you forget it after casting. You don’t want to finish anything, anymore.
+
+*“The Recluse” by Cursive*
+
+---
+
 ### [IKO](https://www.thelostbaystudio.com/)'s Band of Bastards
+
+---
 
 **1. Hunter**
 
+You can track anything. Your partner smelled your dark fixation and abandoned you to the hunt. You are trying to learn the spell *Organize Freedom.* How Scandinavian of you.
+
+*“Hunter” by Björk*
+
+---
+
 **2. L’Enfant Sauvage**
+
+There is a light in this world that you fight for. Your Skin is the Sky, the Wolf is your Master, Branches grow through You. Start with the spell *Righteous Anger* and the memory of a cage.
+
+*“L’Enfant Sauvage” by Gojira*
+
+---
 
 **3. Owl Sparker**
 
+You come from the Temple of Boom, strolling in the way of the Buddha masters. You can commune with owls and get them really, really high. Start with a duffel bag full of chocolate thai, indo, skonka, award-winning Maui Waui, Mexican green, Meefrakan, Crypt, yesca, andHumboldt County.
+
+*“Spark Another Owl” by Cypress Hill*
+
+---
+
 **4. Temper**
+
+When you are stressed, roll d6 to determine the temperament that overwhelms you:
+
+1. Withdrawn
+2. Depressed
+3. Anxious
+4. Fixated
+5. Hyper
+6. Furious
+
+When you are *not* stressed, you can use the spell *Temper Temper* to influence a target’s mood or beliefs.
+
+*“Temper Temper” by Goldie*
+
+---
 
 **5. Wandering Stranger**
 
+You come from the sunset, from the sea, from sorrow. Cast the spell *Come Wander* to entice others to join you.
+
+*“Come Wander with Me” by Jeff Alexander*
+
+---
+
 ### Jon Neddo's Band of Bastards
+
+---
 
 **1. Dark Destroyer**
 
+You are a shadow called out of a fresh fallen corpse by The Powers to complete one last mission. You cannot be killed until it is finished. But you can definitely suffer. Start with the spells *Behold Terror* and *Annihilation.* 
+
+*“Indestructible” by Disturbed*
+
+---
+
 **2. Devil Dogs**
+
+You are a devil who’s been split into three massive dogs with matted fur and eyes of subtle flame. One dog got your **bite** (1d6, rending); another, your **bile** (1d6, poison); and the last, your **fire** (the spell *Incinerate*).
+
+*“Devil Dogs” by Sabaton*
+
+---
 
 **3. Disgraced Legionnaire**
 
+You were banished from a fallen land to a place beyond the stars. For centuries, you were lost within your own mind. You recently found your way home, riding the wings of dream. You are immune to fire. Start with a simple sword (d6) and the memory of blood on your hands. 
+
+*“Through the Fire and Flames” by DragonForce*
+
+---
+
 **4. Sick as Fuck**
+
+You are in your prime, but you’ve been bled dry. Start with a black hoodie, clenched fists (2d6 damage), broken chains, and a key to the empty place inside you. Start with the spell *Too Much Animosity*.
+
+*"Nero Forte" by Slipknot*
+
+---
 
 **5. Statue of the King**
 
+You are made of smooth, hard stone (+2 AC). Your crown is a beacon, your sword is covered in moss. You don’t remember your time as King, but you know the names of all your warriors and the spell *To My Side*.
+
+*“A Statue of the King” by Avatar*
+
+---
+
 ### Kaisa's Band of Bastards
+
+---
 
 **1. The Eight Who Are One**
 
+In ancient times, eight Mages who hated one another conspired to create a ritual that would grant them immortality. This angered the Gods, who cursed them to walk the Earth in a shared body until the End of Time. Each Mage knows a powerful spell. Role d8 after every rest to see which Mage is in control; the others watch in horror.
+
+The eight Mages and their spells:
+
+1. Kats, Spit **Void**
+2. Uhi, Consume **Matter**
+3. Iko, Split **Memory**
+4. Mae, Fold **Space**
+5. Eda, Stop **Time**
+6. Oba, Collapse **Spectrum**
+7. Ke, Puppet **Mind**
+8. Noble, One Hundred **Eyes**
+
+*"The Octuple Personality and Eleven Crows" by World's End Girlfriend*
+
+---
+
 **2. Baby Criminal**
+
+You are a criminal mastermind but also a toddler. You wear a hat made from a squirrel you killed and a leather jacket taken from the corpse of the first man that ever crossed you. You can smoke anything, but have to nap twice a day, and always dream of building a nuclear device. Your mother is crying, somewhere.
+
+*“Baby Criminal” by Viagra Boys*
+
+---
 
 **3. Haruspex**
 
+Start with a red, serrated blade (2d6). Drawing blood with your blade casts the spell *Foretell Future* (whether you want it to or not). You are consumed by rot and mold. Once per day you must kneel before The Shadow Queen.
+
+*“Haruspex” by Xoth*
+
+---
+
 **4. Heir to Despair**
+
+You are the demigod offspring of Despair, born of one of their many wretched human consorts. Cast the spell *Sigh* to drain a target of their will to continue. Use the spell *No Light, No Shadow* to eliminate a source of light and its shadow. You know the spell *Momentary Peace*, but have been forbidden from using it.
+
+*"Heir To Despair" by Sigh*
+
+---
 
 **5. People Vulture**
 
+God approaches, and you are their herald. You are a 7-foot tall vaguely human thing with a vulture head, sharp, rending beak (d6 damage), and massive black wings. Start with the spells *Tainted Voodoo* and *Disappear*. You can teleport to the closest dead human body, which you proceed to devour (once per rest).
+
+*"People-Vultures" by King Gizzard & The Lizard Wizard*
+
+---
+
 ### Moxie's Band of Bastards
+
+---
 
 **1. Atom Heart Mother**
 
+Once per day, birth a new element: a novel and powerful combination of particles and forces. Describe the power it gives you. Once you use its power, it grows up and leaves for another dimension.
+
+*"Atom Heart Mother" by Pink Floyd*
+
+---
+
 **2. Demon-Eyed**
+
+You glisten in the moonlight, are skilled at hiding in trees, and can travel through holes in the night sky. Start with the spell *Squash Star*. Things you can’t see but you know are there: the moon, the end, the sun, love. Something you have seen: Someone die in the summertime.
+
+*"Listening to the Frogs with Demon Eyes" by The Flaming Lips*
+
+---
 
 **3. Subterranean Homesick Alien**
 
+Start with a fond memory of your recent alien abduction and a small collection of home movies they gave you. They “taught” you the “spells” *Lock Up Spirits* and *Breath of Forgetting*. You are no longer so uptight.
+
+*"Subterranean Homesick Alien" by Radiohead*
+
+---
+
 **4. The Man Who Sold the World**
 
+You are the ghost of your former self, roaming for years, searching for form and land, staring at the remnants of humanity with a gazely gaze. Start with vast wealth, hazy memories of mass death, and the belief that you never lost control.
+
+*“The Man Who Sold the World” by David Bowie*
+
+---
+
 **5. The Spirit of Radio**
+
+You travel at the speed of light and cannot be seen, only heard in song and a friendly voice. You can cruise the invisible airwaves to blast out of anyone’s turned-on radio, bearing a gift without price. You crackle with electric, timeless energy. Start with the spell *Make Mood*. 
+
+*“The Spirit of Radio” by Rush*
+
+---
 
 
 ## Armies of Bastards (10)

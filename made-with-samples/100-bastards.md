@@ -446,7 +446,7 @@ Once per session, you must feed on another’s memories. Start with the spells *
 
 ## 56. Miss Understanding
 
-You’re a young woman who understands everything, and yet you cause those around you to misunderstand everything. Start with +3 Wisdom. Your shapeshifting violin is a key to another universe.
+You understand everything, and yet you cause those around you to misunderstand everything. Start with +3 Wisdom. Your shapeshifting violin is a key to another universe.
 
 [*Chris Air*](http://chrisair.itch.io)*: “Miss Understanding” by Kamasi Washington*
 
@@ -903,69 +903,135 @@ These lucky ~~backers~~ bastards got to submit multiple prompts!
 
 ## Band of Bastards (5)
 
-### [Chris Air](http://chrisair.itch.io)
+### [Chris Air](http://chrisair.itch.io)'s Band of Bastards
 
-1. Blue Lotus Adept
-2. Electric Lady
-3. Faker
-4. Miss Understanding
-5. Voodoo Chile
+---
 
-### Clay Jensen
+**1. Blue Lotus Adept**
 
-1. Ghost Rider
-2. Human Fly
-3. Organ Donor
-4. Super Trouper
-5. Winnebago Warrior
+Start with the standard pale blue hooded robes of The Order, and three cherished blue lotus flowers. Choose one spell that reflects your Path within The Order: *Life from Lotus,* *Light from Lotus*, *Longing from Lotus*, *Lethargy from Lotus,* or *Lunacy from Lotus*. 
 
-### Delphi
+*"blue lotus" by Sweeps*
 
-1. Black Emperor
-2. End of Days Soldier
-3. First Person Shooter
-4. Kitten
-5. Potential Homo Superior
+---
 
-### [Halohand](https://www.instagram.com/halohand_games/)
+**2. Electric Lady**
 
-1. Candy Man
-2. Chauffeur
-3. El Mark
-4. Gambler
-5. Recluse
+You got the look the Gods agree they wanna see. Start with the spells *Shock*, *Water to Wine*, and *Reprogram Mind.* Your spaceship leaves at 10:00.
 
-### [IKO](https://www.thelostbaystudio.com/)
+*"Electric Lady" by Janelle Monáe*
 
-1. Hunter
-2. L’Enfant Sauvage
-3. Owl Sparker
-4. Temper
-5. Wandering Stranger
+---
 
-### Jon Neddo
+**3. Faker**
 
-1. Dark Destroyer
-2. Devil Dogs
-3. Disgraced Legionnaire
-4. Sick as Fuck
-5. Statue of the King
+You wear a duster coat (+2 AC) that appears in whatever color, style and material is most likely to influence the viewer. Start with the spell *Take Dream* and an extra face.
 
-### Kaisa
+*"The Faker" by Ty Segall*
 
-1. The Eight Who Are One
-2. Baby Criminal
-3. Haruspex
-4. Heir to Despair
-5. People Vulture
+---
 
-### Moxie
+**4. Miss Understanding**
 
-1. Atom Heart Mother
-2. Demon-Eyed
-3. Subterranean Homesick Alien
-4. The Man Who Sold the World
-5. The Spirit of Radio
+You understand everything, and yet you cause those around you to misunderstand everything. Start with +3 Wisdom. Your shapeshifting violin is a key to another universe.
+
+*“Miss Understanding” by Kamasi Washington*
+
+---
+
+**5. Voodoo Chile**
+
+You wear a Venus Witch’s Ring that allows you to exist both here and a million miles away, simultaneously. You can speak to lions and ride on eagles. Start with the spells *Desire Arrows* and *Summon Hummingbird*. Once per day you must float in a liquid garden or dust yourself with red sand.
+
+*"Voodoo Chile" by Jimi Hendrix*
+
+---
+
+### Clay Jensen's Band of Bastards
+
+---
+
+**1. Ghost Rider**
+
+**2. Human Fly**
+
+**3. Organ Donor**
+
+**4. Super Trouper**
+
+**5. Winnebago Warrior**
+
+### Delphi's Band of Bastards
+
+**1. Black Emperor**
+
+**2. End of Days Soldier**
+
+**3. First Person Shooter**
+
+**4. Kitten**
+
+**5. Potential Homo Superior**
+
+### [Halohand](https://www.instagram.com/halohand_games/)'s Band of Bastards
+
+**1. Candy Man**
+
+**2. Chauffeur**
+
+**3. El Mark**
+
+**4. Gambler**
+
+**5. Recluse**
+
+### [IKO](https://www.thelostbaystudio.com/)'s Band of Bastards
+
+**1. Hunter**
+
+**2. L’Enfant Sauvage**
+
+**3. Owl Sparker**
+
+**4. Temper**
+
+**5. Wandering Stranger**
+
+### Jon Neddo's Band of Bastards
+
+**1. Dark Destroyer**
+
+**2. Devil Dogs**
+
+**3. Disgraced Legionnaire**
+
+**4. Sick as Fuck**
+
+**5. Statue of the King**
+
+### Kaisa's Band of Bastards
+
+**1. The Eight Who Are One**
+
+**2. Baby Criminal**
+
+**3. Haruspex**
+
+**4. Heir to Despair**
+
+**5. People Vulture**
+
+### Moxie's Band of Bastards
+
+**1. Atom Heart Mother**
+
+**2. Demon-Eyed**
+
+**3. Subterranean Homesick Alien**
+
+**4. The Man Who Sold the World**
+
+**5. The Spirit of Radio**
 
 
 ## Armies of Bastards (10)

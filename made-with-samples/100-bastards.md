@@ -968,9 +968,12 @@ These lucky ~~backers~~ bastards got to submit multiple prompts!
 5. The Spirit of Radio
 
 
-## Army of Bastards (10)
+## Armies of Bastards (10)
 
-### D. Nivens
+### D. Nivens's Army of Bastards
+
+---
+
 1. Church Ghost
 2. Getting into Knives
 3. Hand Thief
@@ -983,9 +986,10 @@ These lucky ~~backers~~ bastards got to submit multiple prompts!
 10. Wayfinder/Waymaker
 
 ### [ManaRampMatt](https://manarampmatt.itch.io/)'s Army of Bastards
-**1. Ace of Spades**
 
 ---
+
+**1. Ace of Spades**
 
 You are a gravedigger who dreams of winning big at games of chance. Start with your ancestral spade that can dig through any surface (2d6).
 
@@ -995,8 +999,6 @@ You are a gravedigger who dreams of winning big at games of chance. Start with y
 
 **2. Actress**
 
----
-
 Start with a script, a black dress, a hardened heart, and +1 Wisdom. Test Luck to convincingly impersonate anyone.
 
 *“Cleopatra” by the Lumineers*
@@ -1004,8 +1006,6 @@ Start with a script, a black dress, a hardened heart, and +1 Wisdom. Test Luck t
 ---
 
 **3. Boxer**
-
----
 
 Your fists are deadly weapons (d6). You have +1 Strength and +1 Dexterity. You are always able to find poor, hidden lodgings known only to The Ragged People. Start with a pocket full of mumbles.
 
@@ -1015,8 +1015,6 @@ Your fists are deadly weapons (d6). You have +1 Strength and +1 Dexterity. You a
 
 **Cave Dweller**
 
----
-
 You are a cannibal. You walk on your hands as easily as your feet (+1 Dexterity). By staring long and deep at someone, you realize a truth that will refresh their broken mind. It’s empty in the valley of your heart, but you’ve left all your fears behind. Start with a noose around your neck.
 
 *“The Cave” by Mumford & Sons*
@@ -1024,6 +1022,10 @@ You are a cannibal. You walk on your hands as easily as your feet (+1 Dexterity)
 ---
 
 **Famous Preacher**
+
+Start with the spells *Hypnotize, Infect,* and *Glamor*, d100 GP, and 1d6+6 faithful humans (1hp, 1 damage). You carry an endless chain (d6 damage).
+
+*“Leper Messiah” by Metallica*
 
 ---
 

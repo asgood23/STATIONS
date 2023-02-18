@@ -460,13 +460,13 @@ You are a peasant hunting the ogre you believe kidnapped and killed a village ch
 
 You can remove any of your organs and give (or sell) them to others (take 1d4 damage per removed organ). Don’t worry, they’ll regenerate. Start with a scalpel (1d6) and a bottle of antiseptic.
 
-*Clay Jensen*: “Organ Donor” by DJ Shadow
+*Clay Jensen: “Organ Donor” by DJ Shadow*
 
 ## 59. Owl Sparker
 
 You come from the Temple of Boom, strolling in the way of the Buddha masters. You can commune with owls and get them really, really high. Start with a duffel bag full of chocolate thai, indo, skonka, award-winning Maui Waui, Mexican green, Meefrakan, Crypt, yesca, andHumboldt County.
 
-[*IKO*](https://www.thelostbaystudio.com/): “Spark Another Owl” by Cypress Hill
+*[IKO](https://www.thelostbaystudio.com/): “Spark Another Owl” by Cypress Hill*
 
 ## 60. People Vulture
 
@@ -714,13 +714,13 @@ You were made in God’s own image, a formless shadow. You collected splinters o
 
 You have guidebooks, a Polaroid camera, a CB radio, a folding chair, and Doritos to feed to the bears. You drive a Winnebago with a trailer full of souvenirs. You think you’re as brave as old John Wayne.
 
-*Clay Jensen*: "Winnebago Warrior" by Dead Kennedys
+*Clay Jensen: "Winnebago Warrior" by Dead Kennedys*
 
 ## 98. Wonderboy
 
 You come from a castle made of clouds, high and proud above the mucky-muck. You stole the spells *Mind Bullets,* *Flight,* and *Move You* from your arch-rival Young Nastyman, . 
 
-Johnny Hall: “Wonderboy” by Tenacious D
+*Johnny Hall: “Wonderboy” by Tenacious D*
 
 ## 99. Young Lover
 
@@ -953,27 +953,91 @@ You wear a Venus Witch’s Ring that allows you to exist both here and a million
 
 **1. Ghost Rider**
 
+You wear a blue jumpsuit and blaze like the stars. You can summon and ride the ghosts of America’s killed youth. Start with the spell S*cream Truth*.
+
+*“Ghost Rider” by Anna Calvi*
+
+---
+
 **2. Human Fly**
+
+You have 96 eyes and 96 tears. You’ve got a garbage brain, and you don’t care about nothin’. Start with +3 Dexterity and you can fucking fly. You’ll die in 1d20 days. The following day, 1d100+50 of your offspring will be born.
+
+*"Human Fly" by The Cramps*
+
+---
 
 **3. Organ Donor**
 
+You can remove any of your organs and give (or sell) them to others (take 1d4 damage per removed organ). Don’t worry, they’ll regenerate. Start with a scalpel (1d6) and a bottle of antiseptic.
+
+*“Organ Donor” by DJ Shadow*
+
+---
+
 **4. Super Trouper**
+
+Start with a fabulous performing outfit, a microphone, and the spell *Shine Like the Sun*. All you want to do is eat and sleep and sing.
+
+*“Super Trouper” by ABBA*
+
+---
 
 **5. Winnebago Warrior**
 
+You have guidebooks, a Polaroid camera, a CB radio, a folding chair, and Doritos to feed to the bears. You drive a Winnebago with a trailer full of souvenirs. You think you’re as brave as old John Wayne.
+
+*"Winnebago Warrior" by Dead Kennedys*
+
+---
+
 ### Delphi's Band of Bastards
+
+---
 
 **1. Black Emperor**
 
+You have five eyes, all blind, but each of which can detect (and emit) a different Power: fire, static, void, sleep, storm. Start with five loyal advisers (d6+3 HP), one for each Power; they each have a spell associated with the power.
+
+*"Fire at Static Valley" by Godspeed You! Black Emperor*
+
+---
+
 **2. End of Days Soldier**
+
+One day you emerged from the depths of the ocean. All you want is to feel pain and the bitter taste of blood on your lips, again. When you hear the *Thunder of the Drums* in your head, get +3 Strength and the urge to fight, kill, and maim. When you hit 0 HP, you hear the *Rising of the Horns* and are compelled to keep going (regain d6 HP).
+
+*“Iron” by Woodkid*
+
+---
 
 **3. First Person Shooter**
 
+Of all the Person Shooters, you were the first and are still the best. Start with a pistol (d6), a musket (2d6), and a pack of bullets and powder. When opposed by other Shooters, roll with Advantage.
+
+*"First Person Shooter" by Celldweller*
+
+---
+
 **4. Kitten**
+
+You carry a cursed Meow Flute, playing magic songs composed by the damned. Anyone who hears must Save or the awful sounds will pierce their brains and tear out their souls (2d6 damage, with Advantage). 
+
+*“Meow Flute” by Bubblegum Octopus*
+
+---
 
 **5. Potential Homo Superior**
 
+Start with +5 Wisdom and a copy of Alistair Crowley’s biography. You know the spells *Dream Reality*, *Viper’s Fang*, *Enter Bardo*, and *Divine Symmetry*. Anytime you cast a spell, lose 1 Wisdom as you sink in the quicksand of your thought.
+
+*“Quicksand” by David Bowie*
+
+---
+
 ### [Halohand](https://www.instagram.com/halohand_games/)'s Band of Bastards
+
+---
 
 **1. Candy Man**
 

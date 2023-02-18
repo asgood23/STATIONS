@@ -544,7 +544,7 @@ Start with a bag of diamonds and a bag of dust. You only consume caviar and cham
 
 You have a battered leather jacket studded with metal and safety pins and a big patch that reads “Fuck the Ancient Ways” (+1 AC). Casting the spell *Sonic Onslaught*, you can amplify any sound into a deadly cacophony.
 
-*D. Nivens: “"Ancient Ways" by Interpol*
+*D. Nivens: “Ancient Ways" by Interpol*
 
 ## 73. Sorrow Harvester
 
@@ -974,16 +974,85 @@ These lucky ~~backers~~ bastards got to submit multiple prompts!
 
 ---
 
-1. Church Ghost
-2. Getting into Knives
-3. Hand Thief
-4. Memory Vampyre
-5. Sonic Rebel
-6. Strange Formation
-7. U<sub>3</sub>Buzz Basic
-8. Vengeful Mariner
-9. Volcano
-10. Wayfinder/Waymaker
+**1. Church Ghost**
+
+You can hear emotions, find anyone that is hidden, and see through scars. You know that souls cannot actually be tainted. Start with the spell *Eternal Merge*. You glow faintly like a candle.
+
+*“Cirice” by Ghost*
+
+---
+
+**2. Getting into Knives**
+
+After seeking wisdom from the sages and consulting master tacticians, you took up knives: start with 2d6. It's a gift to be simple, it's a gift to be free.
+
+*D. Nivens: “Getting into Knives” by The Mountain Goats*
+
+---
+
+**3. Hand Thief**
+
+Start with 2d6 Hands (1HP, poke/scratch) which you have stolen, animated, and trained to be your assistants. You steal other things, of course, but prefer hands.
+
+*"The Hands That Thieve" by Streetlight Manifesto*
+
+---
+
+**4. Memory Vampyre**
+
+Once per session, you must feed on another’s memories. Start with the spells *Real Illusion,* *Fall Apart,* and *Waste Time*. You’re alive, but you feel no love. 
+
+*“Vampyre of Time and Memory” by Queens of the Stone Age*
+
+---
+
+**5. Sonic Rebel**
+
+You have a battered leather jacket studded with metal and safety pins and a big patch that reads “Fuck the Ancient Ways” (+1 AC). Casting the spell *Sonic Onslaught*, you can amplify any sound into a deadly cacophony.
+
+*“Ancient Ways" by Interpol*
+
+---
+
+**6. Strange Formation**
+
+Your first memory is of being beneath a statue, weeping. You are thousands of shards of glass, glistening this way and that, reflecting the starlight from which you may have come. You don’t remember anything. But you know that, somewhere, *she* loves you.
+
+*"Mace Spray" by The Jezabels*
+
+---
+
+**7. U<sub>3</sub>Buzz Basic**
+
+You only taste ash, smell smoke, see the world in hazy gray. You know the spells *Undo* and *Think of Fire*. Whenever you succeed at a roll, add one to your “Burn” tracker; when you hit eight, you erupt into flame that consumes you and anything you are touching, reducing you to a pile of ash. The next day, you rise again from the ash.
+
+*"Rise" by Zamilska* 
+
+---
+
+**8. Vengeful Mariner**
+
+You have a musket (1d6), a holy relic from your time as a vestry-keeper, and your mother’s dying wish: *find him, bind him, tie him to a pole.* You start in the belly of a giant whale.
+
+*“The Mariner’s Revenge Song” by The Decembrists*
+
+---
+
+**9. Volcano**
+
+You appear as an average human, but are actually the avatar of an ancient volcano. You are immune to heat and fire. What appears to be your skin is, in fact, a layer of magma. Anyone or anything that touches your flesh is likely to sink in and burn. Raise your fist to cast the spell *Burn the Veil*.
+
+*“Volcano Is Me" by Raised Fist*
+
+---
+
+**10. Wayfinder/Waymaker**
+
+When you are presented with a seemingly intractable obstacle, test Luck to try to find a way around it. If you fail, describe how you will make your own way through the obstacle; you get Advantage on that attempt. You trust in ancient Gods and your heart of steel.
+
+*"Find a Way or Make One" by Amon Amarth*
+
+---
 
 ### [ManaRampMatt](https://manarampmatt.itch.io/)'s Army of Bastards
 
@@ -1013,7 +1082,7 @@ Your fists are deadly weapons (d6). You have +1 Strength and +1 Dexterity. You a
 
 ---
 
-**Cave Dweller**
+**4. Cave Dweller**
 
 You are a cannibal. You walk on your hands as easily as your feet (+1 Dexterity). By staring long and deep at someone, you realize a truth that will refresh their broken mind. It’s empty in the valley of your heart, but you’ve left all your fears behind. Start with a noose around your neck.
 
@@ -1021,7 +1090,7 @@ You are a cannibal. You walk on your hands as easily as your feet (+1 Dexterity)
 
 ---
 
-**Famous Preacher**
+**5. Famous Preacher**
 
 Start with the spells *Hypnotize, Infect,* and *Glamor*, d100 GP, and 1d6+6 faithful humans (1hp, 1 damage). You carry an endless chain (d6 damage).
 
@@ -1029,28 +1098,127 @@ Start with the spells *Hypnotize, Infect,* and *Glamor*, d100 GP, and 1d6+6 fait
 
 ---
 
-Lonesome Ranger
+**6. Lonesome Ranger**
 
-Player of Cold
+You carry a revolver on your hip, affectionately named “Big Iron” (d6). You have Advantage on ranged duels. Start with a bounty you are chasing (worth 50 G) and a horse named Sue.
 
-Regulators (for 2 characters)
+*“Big Iron” by Johnny Cash*
 
-Sorrow Harvester
+---
 
-Straw Worker
+**7. Player of Cold**
+
+The wise know that “cold” is just an absence of heat, and you are a master of that absence. Start with the spells *Chill Touch*, *All Hail*, and *Ice Dagger*. There is a precious jewel where your heart once was..
+
+*“Magic” by Coldplay*
+
+---
+
+**8. Regulators (for 2 characters)**
+
+You are a pair of highly trained regulators in an important industry. You are always high. One of you carries a gun and knows the spell *Freak Mode*. The other carries a sword and knows the spell *Step to This*. One of you gets the glory; the other, the paperwork.
+
+ *“Regulators” by Warren G ft Nate Dog*
+
+---
+
+**9. Sorrow Harvester**
+
+Start with the spell *Invade Nightmares* and a silver scythe you can carry into dreams (2d6). Speaking the language of the mad, you weep what you sow. 
+
+*“Harvester of Sorrow” by Metallica*
+
+---
+
+**10. Straw Worker**
+
+You turned your back on singing, and now you work with straw. Narrow your eyes to cast the spell *Leave it Alone*. Feel the vibrations deep in your bones to cast the spell *Find Home.* When you don’t like someone’s song, cast the spell *Bleed Words*. 
+
+*“Seven Nation Army” by The White Stripes*
+
+---
+
+### Starling Ridgeway's Army of Bastards
+
+---
+
+**1. Bomb**
+
+You are a living bomb. Once per day, you detonate, dealing 2d6 damage to anyone in proximity. You float on as a ghost and can test Luck to influence the physical world. The next morning you are whole again, ticking, ticking, ticking.
+
+*“The Bomb” by Pigeon John*
+
+---
+
+**2. Child of the Rising Sun**
+
+You have a bottle of booze, a suitcase, a deck of cards, and a ball and chain. You owe dangerous people serious money. Start with double the normal amount of Luck, but your Luck doesn’t replenish each morning. When you run out of Luck, something dreadful happens.
+
+*“The House of the Rising Sun” by The Animals*
+
+---
+
+**3. Fool**
+
+You have a chalice that is always full of wine, and hand bells that you can ring to cast the spells *Hope*, *Faith*, and *Damnation*. Start at the base of a moonlight gallows, singing a farewell song.
+
+*“At the Gallows End” by Candlemass*
+
+---
+
+**4. Coffin Carrier**
+
+You have an adult-sized coffin. You can always carry it, no matter how heavy it gets, as long as the lid will close. You play in Satan’s band. Test Luck to summon a bandmate Devil to your aid (6HP, rend/burn/curse). Start with a pack of cigarettes and a bottle of cheap whiskey.
+
+*“I Carry the Coffin” by Ghoultown*
+
+---
+
+**5. Doomed Sailor & The Captain’s Corpse**
+
+You went down with the ship, abandoned by one you counted as a friend. The corpse of the captain jumped on your back, cursing you with un-life and the strength to survive until your vengeance is served. You carry the corpse with you everywhere, hear its cold whispers in your mind, feel its dank cold comfort through the night. When you are threatened, the corpse animates and blindly attacks the threat (slash/bite/stab). The corpse can be damaged but cannot be killed. 
+
+*“Turkish Song of the Damned” by the Pogues*
+
+---
+
+**6. The Guitar**
+
+You are known only as “The Guitar.” You have no other name, no age, no known place of birth or ancestry. You carry an old beat-up six string that has possessed you. You can play any song ever written; test Luck to play the exact song someone needs to hear. Any damage done to your guitar is transferred to you.
+
+*“The Guitar” by Guy Clark*
+
+---
+
+**7. Heart of Steel**
+
+You arrived riding a comet, flames in your eyes, silent as a heavy stone. Start with +3 HP and the spells *Kneel* and *Bow Your Head*. Laugh your cold dark laugh to force a Morale check.
+
+*“Heart of Steel” by Manowar*
+
+---
+
+**8. Pumpkinhead**
+
+You are the last of your species. Once per day, you can remove your head and set it on eldritch fire: throw it as a bomb to cause 2d6 area damage (mystic burning). Your head grows back by midnight.
+
+*“The Ballad of Peter Pumpkinhead” by The Crash Test Dummies*
+
+**9. Rage Rat**
+
+You are a large, naked Rat Person (d6 scratch/bite), desperate to be called “The Chosen One.” Test your Luck to channel your rage, temporarily gaining +3 Strength; on a failed roll you are stuck in an invisible cage for d6 rounds.
+
+*“Bullet with Butterfly Wings” by Smashing Pumpkins*
+
+---
+
+**10. Zone Stepper**
+
+You can step into the Twilight Zone and stay there for up to five minutes. When you return, test Luck. On a failure, a Shade Beast follows you (6hp, shadow claw). On a critical failure a Shadow Self replaces you. Start with an obsidian blade (2d6). 
+
+*"Twilight Zone" by Golden Earring*
 
 
-### Starling Ridgeway
-1. Bomb
-2. Child of the Rising Sun
-3. Fool
-4. Coffin Carrier
-5. Doomed Sailor & The Captain’s Corpse
-6. The Guitar
-7. Heart of Steel
-8. Pumpkinhead
-9. Rage Rat
-10. Zone Stepper
 
 
 

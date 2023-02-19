@@ -684,7 +684,7 @@ You have a musket (1d6), a holy relic from your time as a vestry-keeper, and you
 
 You appear as an average human, but are actually the avatar of an ancient volcano. You are immune to heat and fire. What appears to be your skin is, in fact, a layer of magma. Anyone or anything that touches your flesh is likely to sink in and burn. Raise your fist to cast the spell *Burn the Veil*.
 
-*D. Nivens: “"Volcano Is Me" by Raised Fist*
+*D. Nivens: “Volcano Is Me" by Raised Fist*
 
 ## 93. Voodoo Chile
 
@@ -1300,7 +1300,7 @@ You can hear emotions, find anyone that is hidden, and see through scars. You kn
 
 After seeking wisdom from the sages and consulting master tacticians, you took up knives: start with 2d6. It's a gift to be simple, it's a gift to be free.
 
-*D. Nivens: “Getting into Knives” by The Mountain Goats*
+*“Getting into Knives” by The Mountain Goats*
 
 ---
 

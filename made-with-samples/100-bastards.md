@@ -913,15 +913,11 @@ Start with the standard pale blue hooded robes of The Order, and three cherished
 
 *"blue lotus" by Sweeps*
 
----
-
 **2. Electric Lady**
 
 You got the look the Gods agree they wanna see. Start with the spells *Shock*, *Water to Wine*, and *Reprogram Mind.* Your spaceship leaves at 10:00.
 
 *"Electric Lady" by Janelle Monáe*
-
----
 
 **3. Faker**
 
@@ -929,15 +925,11 @@ You wear a duster coat (+2 AC) that appears in whatever color, style and materia
 
 *"The Faker" by Ty Segall*
 
----
-
 **4. Miss Understanding**
 
 You understand everything, and yet you cause those around you to misunderstand everything. Start with +3 Wisdom. Your shapeshifting violin is a key to another universe.
 
 *“Miss Understanding” by Kamasi Washington*
-
----
 
 **5. Voodoo Chile**
 
@@ -957,15 +949,11 @@ You wear a blue jumpsuit and blaze like the stars. You can summon and ride the g
 
 *“Ghost Rider” by Anna Calvi*
 
----
-
 **2. Human Fly**
 
 You have 96 eyes and 96 tears. You’ve got a garbage brain, and you don’t care about nothin’. Start with +3 Dexterity and you can fucking fly. You’ll die in 1d20 days. The following day, 1d100+50 of your offspring will be born.
 
 *"Human Fly" by The Cramps*
-
----
 
 **3. Organ Donor**
 
@@ -973,15 +961,11 @@ You can remove any of your organs and give (or sell) them to others (take 1d4 da
 
 *“Organ Donor” by DJ Shadow*
 
----
-
 **4. Super Trouper**
 
 Start with a fabulous performing outfit, a microphone, and the spell *Shine Like the Sun*. All you want to do is eat and sleep and sing.
 
 *“Super Trouper” by ABBA*
-
----
 
 **5. Winnebago Warrior**
 
@@ -1001,15 +985,11 @@ You have five eyes, all blind, but each of which can detect (and emit) a differe
 
 *"Fire at Static Valley" by Godspeed You! Black Emperor*
 
----
-
 **2. End of Days Soldier**
 
 One day you emerged from the depths of the ocean. All you want is to feel pain and the bitter taste of blood on your lips, again. When you hear the *Thunder of the Drums* in your head, get +3 Strength and the urge to fight, kill, and maim. When you hit 0 HP, you hear the *Rising of the Horns* and are compelled to keep going (regain d6 HP).
 
 *“Iron” by Woodkid*
-
----
 
 **3. First Person Shooter**
 
@@ -1017,15 +997,11 @@ Of all the Person Shooters, you were the first and are still the best. Start wit
 
 *"First Person Shooter" by Celldweller*
 
----
-
 **4. Kitten**
 
 You carry a cursed Meow Flute, playing magic songs composed by the damned. Anyone who hears must Save or the awful sounds will pierce their brains and tear out their souls (2d6 damage, with Advantage). 
 
 *“Meow Flute” by Bubblegum Octopus*
-
----
 
 **5. Potential Homo Superior**
 
@@ -1051,15 +1027,11 @@ You are a human-sized Candy Golem intent on making the world taste good. You can
 
  *STATIONS: “The Candy Man” by Aubrey Woods, Willy Wonka & the Chocolate Factory (soundtrack, 1971)*
 
----
-
 **2. Chauffeur**
 
 You drive any vehicle with perfect, practiced professionalism. Start with the spell *Sing Blue Silver* and a mind full of glass splinters. Engines drone in time with your beating heart.
 
 *“The Chauffeur” by Duran Duran*
-
----
 
 **3. El Mark**
 
@@ -1067,15 +1039,11 @@ You are a fashion model famous for your long, black, greased back hair. You can 
 
 *“El Mark” by Glassjaw*
 
----
-
 **4. Gambler**
 
 Start with +3 Wisdom, a bottle of whiskey, a deck of cards, and a second deck that’s all aces. You test Luck with Advantage and don’t lose Luck points on successful tests. You know when to hold ‘em, and when to fold ‘em.
 
 *“The Gambler” by Kenny Rogers*
-
----
 
 **5. Recluse**
 
@@ -1095,23 +1063,17 @@ You can track anything. Your partner smelled your dark fixation and abandoned yo
 
 *“Hunter” by Björk*
 
----
-
 **2. L’Enfant Sauvage**
 
 There is a light in this world that you fight for. Your Skin is the Sky, the Wolf is your Master, Branches grow through You. Start with the spell *Righteous Anger* and the memory of a cage.
 
 *“L’Enfant Sauvage” by Gojira*
 
----
-
 **3. Owl Sparker**
 
 You come from the Temple of Boom, strolling in the way of the Buddha masters. You can commune with owls and get them really, really high. Start with a duffel bag full of chocolate thai, indo, skonka, award-winning Maui Waui, Mexican green, Meefrakan, Crypt, yesca, andHumboldt County.
 
 *“Spark Another Owl” by Cypress Hill*
-
----
 
 **4. Temper**
 
@@ -1127,8 +1089,6 @@ When you are stressed, roll d6 to determine the temperament that overwhelms you:
 When you are *not* stressed, you can use the spell *Temper Temper* to influence a target’s mood or beliefs.
 
 *“Temper Temper” by Goldie*
-
----
 
 **5. Wandering Stranger**
 
@@ -1148,15 +1108,11 @@ You are a shadow called out of a fresh fallen corpse by The Powers to complete o
 
 *“Indestructible” by Disturbed*
 
----
-
 **2. Devil Dogs**
 
 You are a devil who’s been split into three massive dogs with matted fur and eyes of subtle flame. One dog got your **bite** (1d6, rending); another, your **bile** (1d6, poison); and the last, your **fire** (the spell *Incinerate*).
 
 *“Devil Dogs” by Sabaton*
-
----
 
 **3. Disgraced Legionnaire**
 
@@ -1164,15 +1120,11 @@ You were banished from a fallen land to a place beyond the stars. For centuries,
 
 *“Through the Fire and Flames” by DragonForce*
 
----
-
 **4. Sick as Fuck**
 
 You are in your prime, but you’ve been bled dry. Start with a black hoodie, clenched fists (2d6 damage), broken chains, and a key to the empty place inside you. Start with the spell *Too Much Animosity*.
 
 *"Nero Forte" by Slipknot*
-
----
 
 **5. Statue of the King**
 
@@ -1203,15 +1155,11 @@ The eight Mages and their spells:
 
 *"The Octuple Personality and Eleven Crows" by World's End Girlfriend*
 
----
-
 **2. Baby Criminal**
 
 You are a criminal mastermind but also a toddler. You wear a hat made from a squirrel you killed and a leather jacket taken from the corpse of the first man that ever crossed you. You can smoke anything, but have to nap twice a day, and always dream of building a nuclear device. Your mother is crying, somewhere.
 
 *“Baby Criminal” by Viagra Boys*
-
----
 
 **3. Haruspex**
 
@@ -1219,15 +1167,11 @@ Start with a red, serrated blade (2d6). Drawing blood with your blade casts the 
 
 *“Haruspex” by Xoth*
 
----
-
 **4. Heir to Despair**
 
 You are the demigod offspring of Despair, born of one of their many wretched human consorts. Cast the spell *Sigh* to drain a target of their will to continue. Use the spell *No Light, No Shadow* to eliminate a source of light and its shadow. You know the spell *Momentary Peace*, but have been forbidden from using it.
 
 *"Heir To Despair" by Sigh*
-
----
 
 **5. People Vulture**
 
@@ -1247,15 +1191,11 @@ Once per day, birth a new element: a novel and powerful combination of particles
 
 *"Atom Heart Mother" by Pink Floyd*
 
----
-
 **2. Demon-Eyed**
 
 You glisten in the moonlight, are skilled at hiding in trees, and can travel through holes in the night sky. Start with the spell *Squash Star*. Things you can’t see but you know are there: the moon, the end, the sun, love. Something you have seen: Someone die in the summertime.
 
 *"Listening to the Frogs with Demon Eyes" by The Flaming Lips*
-
----
 
 **3. Subterranean Homesick Alien**
 
@@ -1263,15 +1203,11 @@ Start with a fond memory of your recent alien abduction and a small collection o
 
 *"Subterranean Homesick Alien" by Radiohead*
 
----
-
 **4. The Man Who Sold the World**
 
 You are the ghost of your former self, roaming for years, searching for form and land, staring at the remnants of humanity with a gazely gaze. Start with vast wealth, hazy memories of mass death, and the belief that you never lost control.
 
 *“The Man Who Sold the World” by David Bowie*
-
----
 
 **5. The Spirit of Radio**
 
@@ -1294,15 +1230,11 @@ You can hear emotions, find anyone that is hidden, and see through scars. You kn
 
 *“Cirice” by Ghost*
 
----
-
 **2. Getting into Knives**
 
 After seeking wisdom from the sages and consulting master tacticians, you took up knives: start with 2d6. It's a gift to be simple, it's a gift to be free.
 
 *“Getting into Knives” by The Mountain Goats*
-
----
 
 **3. Hand Thief**
 
@@ -1310,15 +1242,11 @@ Start with 2d6 Hands (1HP, poke/scratch) which you have stolen, animated, and tr
 
 *"The Hands That Thieve" by Streetlight Manifesto*
 
----
-
 **4. Memory Vampyre**
 
 Once per session, you must feed on another’s memories. Start with the spells *Real Illusion,* *Fall Apart,* and *Waste Time*. You’re alive, but you feel no love. 
 
 *“Vampyre of Time and Memory” by Queens of the Stone Age*
-
----
 
 **5. Sonic Rebel**
 
@@ -1326,15 +1254,11 @@ You have a battered leather jacket studded with metal and safety pins and a big 
 
 *“Ancient Ways" by Interpol*
 
----
-
 **6. Strange Formation**
 
 Your first memory is of being beneath a statue, weeping. You are thousands of shards of glass, glistening this way and that, reflecting the starlight from which you may have come. You don’t remember anything. But you know that, somewhere, *she* loves you.
 
 *"Mace Spray" by The Jezabels*
-
----
 
 **7. U<sub>3</sub>Buzz Basic**
 
@@ -1342,23 +1266,17 @@ You only taste ash, smell smoke, see the world in hazy gray. You know the spells
 
 *"Rise" by Zamilska* 
 
----
-
 **8. Vengeful Mariner**
 
 You have a musket (1d6), a holy relic from your time as a vestry-keeper, and your mother’s dying wish: *find him, bind him, tie him to a pole.* You start in the belly of a giant whale.
 
 *“The Mariner’s Revenge Song” by The Decembrists*
 
----
-
 **9. Volcano**
 
 You appear as an average human, but are actually the avatar of an ancient volcano. You are immune to heat and fire. What appears to be your skin is, in fact, a layer of magma. Anyone or anything that touches your flesh is likely to sink in and burn. Raise your fist to cast the spell *Burn the Veil*.
 
 *“Volcano Is Me" by Raised Fist*
-
----
 
 **10. Wayfinder/Waymaker**
 
@@ -1378,15 +1296,11 @@ You are a gravedigger who dreams of winning big at games of chance. Start with y
 
 *“Ace of Spades” by Möterhead*
 
----
-
 **2. Actress**
 
 Start with a script, a black dress, a hardened heart, and +1 Wisdom. Test Luck to convincingly impersonate anyone.
 
 *“Cleopatra” by the Lumineers*
-
----
 
 **3. Boxer**
 
@@ -1394,15 +1308,11 @@ Your fists are deadly weapons (d6). You have +1 Strength and +1 Dexterity. You a
 
 *“The Boxer” by Simon and Garfunkel* 
 
----
-
 **4. Cave Dweller**
 
 You are a cannibal. You walk on your hands as easily as your feet (+1 Dexterity). By staring long and deep at someone, you realize a truth that will refresh their broken mind. It’s empty in the valley of your heart, but you’ve left all your fears behind. Start with a noose around your neck.
 
 *“The Cave” by Mumford & Sons*
-
----
 
 **5. Famous Preacher**
 
@@ -1410,15 +1320,11 @@ Start with the spells *Hypnotize, Infect,* and *Glamor*, d100 GP, and 1d6+6 fait
 
 *“Leper Messiah” by Metallica*
 
----
-
 **6. Lonesome Ranger**
 
 You carry a revolver on your hip, affectionately named “Big Iron” (d6). You have Advantage on ranged duels. Start with a bounty you are chasing (worth 50 G) and a horse named Sue.
 
 *“Big Iron” by Johnny Cash*
-
----
 
 **7. Player of Cold**
 
@@ -1426,23 +1332,17 @@ The wise know that “cold” is just an absence of heat, and you are a master o
 
 *“Magic” by Coldplay*
 
----
-
 **8. Regulators (for 2 characters)**
 
 You are a pair of highly trained regulators in an important industry. You are always high. One of you carries a gun and knows the spell *Freak Mode*. The other carries a sword and knows the spell *Step to This*. One of you gets the glory; the other, the paperwork.
 
  *“Regulators” by Warren G ft Nate Dog*
 
----
-
 **9. Sorrow Harvester**
 
 Start with the spell *Invade Nightmares* and a silver scythe you can carry into dreams (2d6). Speaking the language of the mad, you weep what you sow. 
 
 *“Harvester of Sorrow” by Metallica*
-
----
 
 **10. Straw Worker**
 
@@ -1462,15 +1362,11 @@ You are a living bomb. Once per day, you detonate, dealing 2d6 damage to anyone 
 
 *“The Bomb” by Pigeon John*
 
----
-
 **2. Child of the Rising Sun**
 
 You have a bottle of booze, a suitcase, a deck of cards, and a ball and chain. You owe dangerous people serious money. Start with double the normal amount of Luck, but your Luck doesn’t replenish each morning. When you run out of Luck, something dreadful happens.
 
 *“The House of the Rising Sun” by The Animals*
-
----
 
 **3. Fool**
 
@@ -1478,15 +1374,11 @@ You have a chalice that is always full of wine, and hand bells that you can ring
 
 *“At the Gallows End” by Candlemass*
 
----
-
 **4. Coffin Carrier**
 
 You have an adult-sized coffin. You can always carry it, no matter how heavy it gets, as long as the lid will close. You play in Satan’s band. Test Luck to summon a bandmate Devil to your aid (6HP, rend/burn/curse). Start with a pack of cigarettes and a bottle of cheap whiskey.
 
 *“I Carry the Coffin” by Ghoultown*
-
----
 
 **5. Doomed Sailor & The Captain’s Corpse**
 
@@ -1494,23 +1386,17 @@ You went down with the ship, abandoned by one you counted as a friend. The corps
 
 *“Turkish Song of the Damned” by the Pogues*
 
----
-
 **6. The Guitar**
 
 You are known only as “The Guitar.” You have no other name, no age, no known place of birth or ancestry. You carry an old beat-up six string that has possessed you. You can play any song ever written; test Luck to play the exact song someone needs to hear. Any damage done to your guitar is transferred to you.
 
 *“The Guitar” by Guy Clark*
 
----
-
 **7. Heart of Steel**
 
 You arrived riding a comet, flames in your eyes, silent as a heavy stone. Start with +3 HP and the spells *Kneel* and *Bow Your Head*. Laugh your cold dark laugh to force a Morale check.
 
 *“Heart of Steel” by Manowar*
-
----
 
 **8. Pumpkinhead**
 
@@ -1523,8 +1409,6 @@ You are the last of your species. Once per day, you can remove your head and set
 You are a large, naked Rat Person (d6 scratch/bite), desperate to be called “The Chosen One.” Test your Luck to channel your rage, temporarily gaining +3 Strength; on a failed roll you are stuck in an invisible cage for d6 rounds.
 
 *“Bullet with Butterfly Wings” by Smashing Pumpkins*
-
----
 
 **10. Zone Stepper**
 

@@ -12,7 +12,7 @@ nav_order: 1
 
 Made for use with Micah Anderson’s excellent RPG [Bastards](https://micah-anderson.itch.io/bastards-pearlescent-edition){:target="_blank"}, but you can use them with any game system as PC backgrounds or interesting NPCs.
 
-PDF version coming March 2023.	
+PDF version coming soon.	
 
 [Sign up for updates on this and other STATIONS projects.](https://mailchi.mp/e551195da5f3/qr-sign-up){:target="_blank"}
 

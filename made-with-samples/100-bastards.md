@@ -12,7 +12,11 @@ nav_order: 1
 
 Made for use with Micah Anderson’s excellent RPG [Bastards](https://micah-anderson.itch.io/bastards-pearlescent-edition){:target="_blank"}, but you can use them with any game system as PC backgrounds or interesting NPCs.
 
-PDF version coming soon.	
+<iframe frameborder="0" src="https://itch.io/embed/2060569?linkback=true&amp;bg_color=fe50f9&amp;fg_color=ffffff&amp;link_color=feeded&amp;border_color=c237b5" width="552" height="167"><a href="https://72stations.itch.io/100-bastards">100 Bastards by STATIONS</a></iframe>
+
+Also available at [DriveThruRPG](https://www.drivethrurpg.com/product/437073/100-Bastards?affiliate_id=614531)
+
+
 
 [Sign up for updates on this and other STATIONS projects.](https://mailchi.mp/e551195da5f3/qr-sign-up){:target="_blank"}
 

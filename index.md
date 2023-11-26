@@ -3,6 +3,11 @@ title: Home
 nav_order: 1
 ---
 
+![ships](/img/ships_hero_web.png)
+
+Get an [Infinity of Ships](https://www.kickstarter.com/projects/72stations/an-infinity-of-ships), a toolkit for creating wondrous spaceships, supported by over 2,800 backers on Kickstarter.
+
+
 ![stations logo](/img/itch_logo_1.png)
 
 Accessible, **remix-reuse**-ready content, tools, and utilities for your games and other wonders.  
